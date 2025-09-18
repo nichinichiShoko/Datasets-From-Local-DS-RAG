@@ -1,0 +1,2 @@
+1. Qwen3-A3B-Thinking-2507-30B (아직 준비중.)
+2. EXAONE-4.0-32B-Base
