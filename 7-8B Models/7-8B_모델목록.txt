@@ -1,19 +1,29 @@
-1. Falcon-H1-7B-Instruct (모델이 응답을 못하는 문제.) 
+1. Falcon-H1-7B-Instruct (모델이 응답을 못하는 문제.) !
 
 2. Llama-3.1-8B-Instruct
 
-3. SOLAR-1.0-10.7B-Instruct
+3. SOLAR-1.0-10.7B-Instruct !-
 
-4. Mistral-Nemo-12B-Instruct
+4. Mistral-Nemo-12B-Instruct !-
 
-5. Gemma-3-12B-Instruct
+5. Gemma-3-12B-Instruct !
 (image 입력을 지원하여 입력 프롬프트 구조가 일반 모델들이랑 달라 나중에 전용 wrapper 제작 혹은 다른 방법으로 json 가공 작업 후 업데이트.)
 
-6. HyperCLOVAX-SEED-14B-Think ( 내부적으로 멈춤 문제.)
+6. HyperCLOVAX-SEED-14B-Think ( 내부적으로 멈춤 문제.) !-
 
-7. Qwen-3-14B-PostTrain role 존재
+7. Qwen-3-14B-PostTrain role 존재 !
 (thinking 부분을 태그가 아닌 일반 문장으로 하여 파싱문제가 생김. 해결 후 업데이트)
 
 8. Phi-4-15B-Reasoning-plus 
 
 -나머지 모델은 현재 서버에서 돌아가는중-
+
+
+SOLAR-1.0-10.7B-Instruct
+
+HyperCLOVAX-SEED-14B-Think 
+
+Mistral-Nemo-12B-Instruct 해결 300 토큰 모두
+Qwen-3-14B-PostTrain 50 토큰 아직 해결 X
+
+Falcon-H1-7B-Instruct
