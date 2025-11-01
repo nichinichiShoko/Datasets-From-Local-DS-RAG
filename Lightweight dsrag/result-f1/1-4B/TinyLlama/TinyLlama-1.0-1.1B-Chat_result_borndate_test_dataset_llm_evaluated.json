@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who has been a controversial figure due to allegations of election interference, human rights abuses, and the annexation of Crimea, and has had a career that includes serving as a KGB officer, the Prime Minister of Russia, and the President of Russia, Greta Thunberg and Neil deGrasse Tyson and Lady Gaga?",
+    "llm_answer": "Greta Thunberg and Neil deGrasse Tyson and Lady Gaga",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.3636363636363636,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who began her career in country music at a young age, signing with Big Machine Records and releasing her self-titled debut album in 2006, and later transitioned to pop music with her album \"1989,\" and also attended Hendersonville High School in Tennessee before being homeschooled to accommodate her touring schedule, Johnny Depp and Oprah Winfrey?",
+    "llm_answer": "Oprah Winfrey was born on January 29, 1954, while Johnny Depp was born on June 9, 1963. Taylor Swift was born on December 13, 1989, and was born on the same day as Oprah Winfrey.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.1081081081081081,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was born in Wapakoneta, Ohio, and showed an early interest in aviation, earning his student pilot's license at the age of 16, and went on to have a distinguished career as a naval aviator, test pilot, and astronaut, famously becoming the first person to walk on the moon during the Apollo 11 mission, Emma Watson and Malala Yousafzai?",
+    "llm_answer": "Both Neil Armstrong and Emma Watson were born in Wapakoneta, Ohio, while Malala Yousafzai was born in Pakistan.",
+    "ground_truth": "Emma Watson",
+    "f1": 0.19999999999999998,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who was involved in controversies regarding the portrayal of the Apollo 11 mission and faced criticism for his reserved public persona, and whose career as an astronaut included being the first person to walk on the moon, and Emma Watson?",
+    "llm_answer": "Answer: Neil Armstrong, who was born on August 5, 1930, and faced criticism for his reserved public persona, was the last earliest among the Apollo 11 mission's astronauts.",
+    "ground_truth": "Emma Watson",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who attended Fordham University and later transferred to the Wharton School of the University of Pennsylvania, where he earned a degree in economics, and has had a career as a businessman, television personality, and politician, including serving as the 45th President of the United States, Johnny Depp and Bruce Lee?",
+    "llm_answer": "Answer: Donald Trump, who was born on June 14, 1946, is the first born date among the three celebrities.",
+    "ground_truth": "Bruce Lee",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who has been involved in various controversies, including allegations of election interference and human rights abuses, and he attended Leningrad State University where he studied law, Elon Musk and Rihanna?",
+    "llm_answer": "Based on the given context, Vladimir Putin was born on October 07, 1952, while Elon Musk was born on June 28, 1971. Rihanna was born on February 20, 1988. Vladimir Putin's birth date is the first earliest among the three, while Elon Musk's birth date is the second earliest. Rihanna's birth date is the",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.06779661016949151,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who has served as the President of Russia multiple times and was previously the Prime Minister, and has been involved in various controversies including allegations of election interference and human rights abuses, Will Smith and Shakira?",
+    "llm_answer": "Based on the given context, Will Smith's birthdate is the second earliest among Vladimir Putin and Shakira.",
+    "ground_truth": "Will Smith",
+    "f1": 0.19999999999999998,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who was born in Reading, Pennsylvania, and raised in Wyomissing, Pennsylvania, where she developed a love for music at an early age, and comes from a family with a strong background in finance and the arts, Will Smith and Pharrell Williams?",
+    "llm_answer": "Born on December 13, 1989, Taylor Swift is the last earliest among the three.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.25,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who attended Purdue University on a Navy scholarship and later earned a degree in aeronautical engineering, and was involved in controversies such as the criticism he faced for his perceived aloofness and the intense scrutiny of his actions during the Apollo 11 mission, and Donald Trump?",
+    "llm_answer": "Based on the given context, Neil Armstrong was born on June 14, 1946, while Donald Trump was born on June 14, 1946. Neil Armstrong's birth date is the second earliest among all the individuals mentioned in the given context.",
+    "ground_truth": "Donald Trump",
+    "f1": 0.09523809523809523,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to Wyomissing Area Junior/Senior High School, where she began pursuing a career in music at a young age, Vladimir Putin and John Legend?",
+    "llm_answer": "Based on the given context, Taylor Swift was born on December 13, 1989, while Vladimir Putin was born on October 07, 1952. John Legend was born on December 28, 1978, and both Taylor Swift and John Legend were born in the United States. Therefore, Taylor Swift was born the last earliest among the three, while Vladimir Putin and John Legend were born the same",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.06060606060606061,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family with a father who was a real estate developer and a mother who was a Scottish immigrant, Marie Curie and Oprah Winfrey and Martin Luther King Jr.?",
+    "llm_answer": "Born on June 14, 1946, Donald Trump is the first earliest among the three candidates.",
+    "ground_truth": "Marie Curie",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging childhood that included his parents' divorce, and Marie Curie?",
+    "llm_answer": "Answer: Marie Curie's birthdate is the second earliest, among Johnny Depp, who experienced a challenging childhood due to his father's job as a civil engineer, and Marie Curie.",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.125,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who grew up in Leningrad (now St. Petersburg) in a communal apartment and was the son of a factory foreman and a mother who worked as a homemaker, and David Bowie?",
+    "llm_answer": "Both Vladimir Putin and David Bowie were born on October 07, 1952.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.2857142857142857,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Taylor Swift, who has faced various controversies throughout her career, including public feuds with other artists and criticism over her political statements, and she attended Hendersonville High School before transferring to the Aaron Academy, Donald Trump and Leonardo da Vinci and Leonardo DiCaprio?",
+    "llm_answer": "Based on the given context, Taylor Swift's birth date is the second earliest among the three artists, while Donald Trump's birth date is the second earliest. Leonardo da Vinci's birth date is the second earliest.",
+    "ground_truth": "Donald Trump",
+    "f1": 0.1,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who attended Blume High School and later transferred to Purdue University, where he studied aeronautical engineering, and was born to a father who was a state legislator and a mother who was a homemaker, Maya Angelou and Lionel Messi?",
+    "llm_answer": "Born on August 5, 1930, Neil Armstrong was born to a father who was a state legislator and a mother who was a homemaker.",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.15384615384615385,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who began performing in local talent shows at a young age and later moved to Nashville at the age of 14 to pursue her music career, Lady Gaga and Pharrell Williams and Neil deGrasse Tyson?",
+    "llm_answer": "Lady Gaga and Pharrell Williams are born on the same date, December 13, 1986. Neil deGrasse Tyson is born on October 05, 1958.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who has been involved in numerous controversies including highly publicized legal battles with ex-wife Amber Heard and allegations of substance abuse, and he dropped out of high school at the age of 16 to pursue a career in music before transitioning to acting, Lady Gaga and John Legend?",
+    "llm_answer": "Johnny Depp was born on June 9, 1963, while Lady Gaga was born on March 28, 1986. John Legend was born on December 28, 1978.",
+    "ground_truth": "John Legend",
+    "f1": 0.14814814814814814,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was the first person to walk on the moon during the Apollo 11 mission and faced controversies regarding the authenticity of the moon landing, Chris Hemsworth and Shakira?",
+    "llm_answer": "Neil Armstrong's birthdate is the second earliest among Chris Hemsworth and Shakira.",
+    "ground_truth": "Shakira",
+    "f1": 0.14285714285714288,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Neil Armstrong, who was the eldest of three children in a family where his father was a state legislator and his mother was a homemaker, and he faced controversies during his career, including the intense scrutiny of his actions during the Apollo 11 mission and the subsequent public debate over the portrayal of his achievements, Chris Hemsworth and Kamala Harris?",
+    "llm_answer": "Chris Hemsworth and Kamala Harris are born on the same date.",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who faced controversies regarding the authenticity of the moon landing and was known for his reserved personality, and who came from a family with a strong aviation background, Shakira and Rihanna?",
+    "llm_answer": "Both Neil Armstrong and Shakira were born on February 20, 1977, while Rihanna was born on February 20, 1988.",
+    "ground_truth": "Shakira",
+    "f1": 0.1,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who grew up in Leningrad during World War II, where his family faced hardships and he later became involved in the KGB, and has been a controversial figure due to his authoritarian leadership style and allegations of election interference, Will Ferrell and Natalie Portman?",
+    "llm_answer": "Based on the given context, Will Ferrell and Natalie Portman are the only two people born on the same day, while Vladimir Putin was born on October 07, 1952.",
+    "ground_truth": "Natalie Portman",
+    "f1": 0.12903225806451613,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who was born in Leningrad (now Saint Petersburg) and grew up in a communal apartment, where he developed an interest in sports and martial arts, and later pursued a career in the KGB before entering politics, Thomas Edison and Natalie Portman?",
+    "llm_answer": "Based on the given context, Thomas Edison was born in 1847, while Natalie Portman was born in 1981. Vladimir Putin was born in 1952, while Thomas Edison was born in 1847. Natalie Portman was born in 1981.",
+    "ground_truth": "Thomas Edison",
+    "f1": 0.10256410256410257,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Neil Armstrong, who faced controversies during his career, including the criticism of his handling of the Apollo 11 mission and the subsequent public scrutiny of his actions, and who attended Purdue University where he studied aeronautical engineering and was a member of the university's marching band, Will Smith and Albert Einstein and Mark Zuckerberg?",
+    "llm_answer": "Born on September 25, 1968, Neil Armstrong was the first to walk on the Moon. He faced controversies during his career, including criticism of his handling of the Apollo 11 mission and the subsequent public scrutiny of his actions. He attended Purdue University where he studied aeronautical engineering and was a member of the university's marching band. Will Smith and Albert Einstein and Mark Zuckerberg are also born on",
+    "ground_truth": "Albert Einstein",
+    "f1": 0.05555555555555556,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who grew up in a communal apartment in Leningrad, where he was influenced by the hardships of post-war life and developed a strong interest in martial arts during his early years, Chris Hemsworth and Nelson Mandela and Vincent van Gogh?",
+    "llm_answer": "Based on the given context, Chris Hemsworth and Nelson Mandela are born on the same day, while Vincent van Gogh was born on a different day.",
+    "ground_truth": "Nelson Mandela",
+    "f1": 0.14285714285714288,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and became the first person to walk on the moon during the Apollo 11 mission, and he was born to a father who worked in the state government and a mother who was a homemaker, Emma Watson and Maya Angelou?",
+    "llm_answer": "Born on August 5, 1930, Neil Armstrong was born to a father who worked in the state government and a mother who was a homemaker. Emma Watson was born in Paris to a French mother and a British father, and Maya Angelou was born on April 04, 1928.",
+    "ground_truth": "Emma Watson",
+    "f1": 0.07999999999999999,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who is a highly successful singer-songwriter known for her narrative songwriting and has won numerous awards including multiple Grammy Awards, and she comes from a family with a strong interest in the arts, as her mother was a mutual fund marketing executive and her father was a stockbroker, Mark Zuckerberg and Greta Thunberg and Marie Curie?",
+    "llm_answer": "Born on December 13, 1989, Taylor Swift is the last of the three to be born on the same day as a nationality.",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and attended Leningrad State University where he studied law and graduated in 1975, Johnny Depp and David Bowie?",
+    "llm_answer": "Born on October 07, 1952, Vladimir Putin is the last earliest among the three celebrities.",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who was born to a waitress mother and a civil engineer father, and grew up in a dysfunctional family that moved frequently, which influenced his early life and artistic pursuits, Vincent van Gogh and Greta Thunberg and William Shakespeare?",
+    "llm_answer": "Based on the given context, Greta Thunberg's birth date is the earliest among the three.",
+    "ground_truth": "William Shakespeare",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family and attended the New York Military Academy, and has been involved in numerous controversies throughout his career, including his business practices and political statements, Johnny Depp and William Shakespeare and Bruno Mars?",
+    "llm_answer": "Bruno Mars's nationality is American.",
+    "ground_truth": "Donald Trump",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who had a tumultuous early life marked by frequent relocations and a troubled family background, and has been involved in various controversies including highly publicized legal battles and allegations of domestic violence, Chris Hemsworth and Elon Musk and Leonardo DiCaprio?",
+    "llm_answer": "Based on the given context, Chris Hemsworth and Elon Musk are born on the same date, while Leonardo DiCaprio is born on the first earliest date.",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who had a tumultuous early life marked by frequent relocations and a troubled family background, and has been involved in numerous controversies including highly publicized legal battles and allegations of domestic violence, and Will Ferrell?",
+    "llm_answer": "Johnny Depp's birthdate is the first earliest among his tumultuous early life marked by frequent relocations and a troubled family background, while Will Ferrell's birthdate is the first earliest among his controversies.",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.1111111111111111,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who was born to a waitress mother and a civil engineer father, and grew up in a dysfunctional family that moved frequently, which influenced his early life and artistic expression, Greta Thunberg and Priyanka Chopra Jonas?",
+    "llm_answer": "Born on June 9, 1963, Johnny Depp's nationality is American. Greta Thunberg was born on January 03, 2003. Priyanka Chopra Jonas's nationality is Indian.",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.14285714285714288,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who has been involved in various controversies, including allegations of election interference and human rights abuses, and who attended Leningrad State University where he studied law, Will Ferrell and John Legend?",
+    "llm_answer": "Based on the given context, John Legend is the earliest born nationality among Vladimir Putin, Will Ferrell, and John Legend.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.18181818181818182,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has also ventured into music and production, and who comes from a family with a diverse background, including a mother who was a waitress and a father who was a civil engineer, Ai Weiwei and Pharrell Williams?",
+    "llm_answer": "Ai Weiwei and Pharrell Williams are born on the same day.",
+    "ground_truth": "Pharrell Williams",
+    "f1": 0.3076923076923077,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and comes from a family with a strong interest in the arts, as her mother was a former mutual fund marketing executive and her father was a stockbroker, Greta Thunberg and Pharrell Williams and Bruce Lee?",
+    "llm_answer": "Bruce Lee's nationality is American.",
+    "ground_truth": "Bruce Lee",
+    "f1": 0.5,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and race, and attended the New York Military Academy before transferring to Fordham University and later graduating from the Wharton School of the University of Pennsylvania, Emma Watson and Lady Gaga?",
+    "llm_answer": "Based on the given context, Emma Watson was born in Paris to a French mother and a British father, and Lady Gaga was born on March 28, 1986. Donald Trump was born on June 14, 1946, and has been involved in numerous controversies throughout his career, including his comments on immigration and race, and attended the New York Military Academy before transferring to Fordham University and later graduating from the Wh",
+    "ground_truth": "Lady Gaga",
+    "f1": 0.05479452054794521,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who is a highly successful singer-songwriter known for her narrative songwriting and has won numerous awards including multiple Grammy Awards, and has been involved in various controversies such as her public feuds with other artists and her political activism, and Vincent van Gogh?",
+    "llm_answer": "Based on the given context, Vincent van Gogh's nationality is Dutch, and Taylor Swift's nationality is American.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.1904761904761905,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which was a challenging environment that shaped his character, and Marie Curie?",
+    "llm_answer": "Born on November 07, 1867, Marie Curie was born in Leningrad, Russia, which was a challenging environment that shaped her character.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was born in Wapakoneta, Ohio, and grew up in a family that valued education and hard work, with his father being a state auditor and his mother a homemaker, Vladimir Putin and Bob Marley?",
+    "llm_answer": "Based on the given context, Vladimir Putin was born on October 07, 1952, while Bob Marley was born on February 06, 1945. Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio, and was the eldest of three siblings, while Vladimir Putin was born on October 07, 1952, and Bob Marley was born on February",
+    "ground_truth": "Bob Marley",
+    "f1": 0.06779661016949151,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was born to a middle-class family in Wapakoneta, Ohio, where his father worked as an aviation engineer and his mother was a homemaker, and developed a passion for flying at a young age, and Leonardo da Vinci?",
+    "llm_answer": "Born on April 15, 1452, Leonardo da Vinci was born in Florence, Italy, and was close to his uncle, Francesco da Vinci, but his father was probably in Florence most of the time. Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio, where his father worked as an aviation engineer and his mother was a homemaker.",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.06557377049180328,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she was able to complete her education while pursuing her music career, and has faced controversies including public feuds with other celebrities and criticism over her political statements, and Mark Zuckerberg?",
+    "llm_answer": "Both Taylor Swift and Mark Zuckerberg were born on December 13, 1989, making them the second-earliest among their respective age groups to have completed their education while pursuing their music careers.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.11764705882352941,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who attended Hendersonville High School and was involved in various extracurricular activities, and comes from a family with a strong musical background, as her grandmother was a professional opera singer, Elon Musk and Lionel Messi?",
+    "llm_answer": "Born on December 13, 1989, Taylor Swift is American. Her grandmother was a professional opera singer. Elon Musk and Lionel Messi are Argentine.",
+    "ground_truth": "Elon Musk",
+    "f1": 0.16,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who was born to a wealthy family with a real estate developer father and a Scottish immigrant mother, and has been involved in numerous controversies including his comments on immigration and his impeachment trials, Maya Angelou and Ai Weiwei and Bruce Lee?",
+    "llm_answer": "Ai Weiwei's birthdate is the second earliest among Donald Trump, Maya Angelou, and Bruce Lee.",
+    "ground_truth": "Bruce Lee",
+    "f1": 0.2222222222222222,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has also ventured into music and production, and who comes from a family with a mixed heritage including Cherokee, Irish, and German roots, and Emma Watson?",
+    "llm_answer": "Born on June 9, 1963, Johnny Depp is an American actor and producer who has appeared in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands.\" He has also ventured into music and production, and his family has a mixed heritage including Cherokee, Irish, and German roots.",
+    "ground_truth": "Emma Watson",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and his business practices, and comes from a family with a real estate background, as his father was a prominent real estate developer, Neil deGrasse Tyson and Ai Weiwei?",
+    "llm_answer": "Neil deGrasse Tyson and Ai Weiwei are the earliest born individuals among Donald Trump, Neil deGrasse Tyson and Ai Weiwei.",
+    "ground_truth": "Donald Trump",
+    "f1": 0.18181818181818182,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family and attended military school, and has been involved in numerous controversies throughout his career, including his business practices and political statements, and Mark Zuckerberg?",
+    "llm_answer": "Both Donald Trump and Mark Zuckerberg were born on June 14, 1946.",
+    "ground_truth": "Mark Zuckerberg",
+    "f1": 0.2857142857142857,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and comes from a family with a strong interest in the arts, as her mother was a mutual fund marketing executive and her father was a stockbroker, Leonardo da Vinci and Bruce Lee?",
+    "llm_answer": "Bruce Lee's nationality is American.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who served as the President of Russia and has held various positions in the government since the 1990s, and is known for his strongman image and controversial policies, and who comes from a working-class family in Leningrad, now St. Petersburg, Leonardo DiCaprio and Rihanna?",
+    "llm_answer": "Both Vladimir Putin and Leonardo DiCaprio were born on October 7, 1952. Rihanna was born on February 20, 1988.",
+    "ground_truth": "Rihanna",
+    "f1": 0.1,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who faced controversies during his career, including the intense scrutiny of his actions during the Apollo 11 mission and the public's fascination with his personal life, and who had an early life marked by a passion for aviation and a strong sense of responsibility instilled by his family, and Kylian Mbappe?",
+    "llm_answer": "Born on August 5, 1930, Neil Armstrong is the last American hero born on the same date.",
+    "ground_truth": "Kylian Mbappe",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and his business practices, and he attended the New York Military Academy before transferring to Fordham University and later graduating from the Wharton School of the University of Pennsylvania, David Bowie and Neil deGrasse Tyson?",
+    "llm_answer": "Based on the given context, David Bowie was born on January 08, 1947, while Neil deGrasse Tyson was born on October 05, 1958. Donald Trump was born on June 14, 1946, and Thomas Sr. Had to take his son to court to stop the practices.",
+    "ground_truth": "Neil deGrasse Tyson",
+    "f1": 0.125,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has faced numerous controversies including highly publicized legal battles and allegations of domestic abuse, and Thomas Edison?",
+    "llm_answer": "Both Johnny Depp and Thomas Edison were born on February 11, 1847.",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.2857142857142857,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who was born into a wealthy family with a real estate developer father and a Scottish mother, and he later took over his father's business, expanding it into various sectors including hotels, casinos, and golf courses, and Kamala Harris?",
+    "llm_answer": "Based on the given context, Kamala Harris was born on October 20, 1964, which is the first earliest among Donald Trump, who was born into a wealthy family with a real estate developer father and a Scottish mother, and he later took over his father's business, expanding it into various sectors including hotels, casinos, and golf courses, and Kamala Harris.",
+    "ground_truth": "Donald Trump",
+    "f1": 0.06349206349206349,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging family dynamic with his mother, who was a waitress and often struggled with her own issues, Thomas Edison and David Bowie?",
+    "llm_answer": "Born on June 9, 1963, Johnny Depp is the first to have a tumultuous early life, moving frequently due to his father's job as a civil engineer, experiencing a challenging family dynamic with his mother, who was a waitress and often struggled with her own issues, Thomas Edison and David Bowie.",
+    "ground_truth": "Thomas Edison",
+    "f1": 0.07407407407407407,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Neil Armstrong, who faced controversies regarding the authenticity of the moon landing and was known for his private nature about his family life, including his marriage to Janet Shearon and their three children, Rihanna and Ai Weiwei?",
+    "llm_answer": "Neil Armstrong's birthdate is the first earliest among the three.",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.3076923076923077,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging childhood that included his parents' divorce, and he dropped out of high school at the age of 15 to pursue a career in music before eventually finding success in acting, Leonardo DiCaprio and Lady Gaga?",
+    "llm_answer": "Born on June 9, 1963, Johnny Depp is the first earliest among the three celebrities to have experienced a challenging childhood due to his father's job as a civil engineer.",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.12121212121212122,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and later became involved in the KGB, and Chris Hemsworth?",
+    "llm_answer": "Born date is the first earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and later became involved in the KGB, and Chris Hemsworth.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.13333333333333333,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who was born in Queens, New York City, and grew up in a wealthy family, attending the Kew-Forest School before transferring to the New York Military Academy, John Legend and Rihanna?",
+    "llm_answer": "Based on the given context, John Legend was born on December 28, 1978, while Donald Trump was born on June 14, 1946. John Legend grew up in a wealthy family, attending the University of Pennsylvania, and Rihanna grew up in a wealthy family, attending Charles F. Broome Memorial Primary School and Combermere School. Therefore, John Legend and Rihanna were",
+    "ground_truth": "Rihanna",
+    "f1": 0.03333333333333333,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who served as a KGB officer before entering politics and has held various positions in the Russian government, including Prime Minister and President, and graduated from Leningrad State University with a law degree, Leonardo DiCaprio and Kylian Mbappe and Will Smith?",
+    "llm_answer": "Born date of Vladimir Putin is the last earliest among all of them.",
+    "ground_truth": "Kylian Mbappe",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who was born to a working-class family in Leningrad, where his father was a conscript in the Soviet Navy and his mother was a factory worker, and he grew up in a communal apartment, Neil deGrasse Tyson and Lionel Messi?",
+    "llm_answer": "Born on October 05, 1958, Neil deGrasse Tyson and Lionel Messi were born on the same day.",
+    "ground_truth": "Lionel Messi",
+    "f1": 0.21052631578947367,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed a passion for music at a young age and began performing in local talent shows, and Thomas Edison?",
+    "llm_answer": "Both Taylor Swift and Thomas Edison were born on December 13, 1847, in Wyomissing, Pennsylvania.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.23529411764705882,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was born in Wapakoneta, Ohio, and grew up in a family that valued education and hard work, with his father being a state auditor and his mother a homemaker, Will Smith and Lady Gaga?",
+    "llm_answer": "Based on the given context, Neil Armstrong was born on September 25, 1968, while Will Smith was born on September 25, 1968. Lady Gaga was born on March 28, 1986, while Will Smith was born on December 13, 1968.",
+    "ground_truth": "Will Smith",
+    "f1": 0.09756097560975609,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who began his career in the early 1980s with a role in the television series \"21 Jump Street\" and has since become a prominent actor known for his versatility in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and Nelson Mandela,  and Bruce Lee and Greta Thunberg?",
+    "llm_answer": "Bruce Lee and Greta Thunberg are born on the same day, January 3, 2003.",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.25,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Emma Watson, who attended Brown University, where she graduated with a degree in English literature, and has been involved in controversies regarding her advocacy for gender equality, particularly after her speech at the United Nations for the HeForShe campaign, Leonardo DiCaprio and William Shakespeare?",
+    "llm_answer": "Both Emma Watson and Leonardo DiCaprio were born on November 11, 1974, while William Shakespeare was born on April 23, 1564.",
+    "ground_truth": "Emma Watson",
+    "f1": 0.17391304347826084,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who attended Blume High School and was a member of the school band, and developed a passion for aviation at a young age, Greta Thunberg and Pharrell Williams and Neil deGrasse Tyson?",
+    "llm_answer": "Born on August 5, 1930, Neil Armstrong was the second earliest among the three to be born on the same date.",
+    "ground_truth": "Neil deGrasse Tyson",
+    "f1": 0.08333333333333333,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and has faced controversies including public feuds with other celebrities and criticism over her songwriting, Chris Hemsworth and Shakira?",
+    "llm_answer": "Born on December 13, 1989, Taylor Swift is the first to have faced controversies over her songwriting.",
+    "ground_truth": "Shakira",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who dropped out of high school at the age of 15 to pursue a career in music and comes from a family with a diverse background, including a father who was a civil engineer and a mother who was a waitress, Mark Zuckerberg and John Legend?",
+    "llm_answer": "Johnny Depp, Mark Zuckerberg, and John Legend all come from diverse backgrounds, including a father who was a civil engineer and a mother who was a waitress.",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.13793103448275862,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and is best known for being the first person to walk on the moon during the Apollo 11 mission, and he was born to a middle-class family in Wapakoneta, Ohio, Martin Luther King Jr. and Pharrell Williams?",
+    "llm_answer": "Yes, Martin Luther King Jr. Was born on January 15, 1929, and Pharrell Williams was born on April 5, 1973.",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Taylor Swift, who began her education at a young age, attending preschool and later moving to a public school, where she was involved in various activities including musical theater, Chris Hemsworth and Albert Einstein and Thomas Edison?",
+    "llm_answer": "Answer: Taylor Swift, who began her education at a young age, attending preschool and later moving to a public school, where she was involved in various activities including musical theater, Chris Hemsworth, Albert Einstein, and Thomas Edison.",
+    "ground_truth": "Albert Einstein",
+    "f1": 0.10256410256410257,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who is a controversial figure known for his polarizing political views and numerous legal disputes, and has had a career that spans real estate, television, and politics, including serving as the 45th President of the United States, Will Ferrell and David Bowie?",
+    "llm_answer": "Based on the given context, Donald Trump's birth date is the first earliest among the three candidates.",
+    "ground_truth": "Donald Trump",
+    "f1": 0.19999999999999998,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who has been involved in various controversies, including public feuds with other celebrities and criticism over her political statements, and who comes from a family with a strong background in finance and has a close relationship with her parents, and Stephen Jobs?",
+    "llm_answer": "Both Taylor Swift and Stephen Jobs were born on December 13, 1989. Taylor Swift's nationality is American, while Stephen Jobs's nationality is American.",
+    "ground_truth": "Stephen Jobs",
+    "f1": 0.14814814814814814,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and later pursued a career in the KGB before entering politics, where he served as the President and Prime Minister of Russia, Albert Einstein and Natalie Portman and Martin Luther King Jr.?",
+    "llm_answer": "Based on the given context, Albert Einstein was born in 1879, while Natalie Portman was born in 1981. Martin Luther King Jr. Was born in 1929, while Jennie's death in 1941 was in 1941. Vladimir Putin was born into a working-class family in 1952, while Alberta began dating in 1920 and",
+    "ground_truth": "Natalie Portman",
+    "f1": 0.07272727272727272,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which was a challenging environment that shaped his character, Leonardo da Vinci and Lady Gaga and Albert Einstein?",
+    "llm_answer": "Based on the given context, Vladimir Putin was born on October 07, 1952, while Leonardo da Vinci was born on April 15, 1452, Lady Gaga was born on March 28, 1986, and Albert Einstein was born on March 14, 1879.",
+    "ground_truth": "Albert Einstein",
+    "f1": 0.09523809523809523,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and his mother's role as a waitress, and he comes from a family with a mix of English, Irish, and Cherokee ancestry, Leonardo DiCaprio and Pharrell Williams?",
+    "llm_answer": "Johnny Depp was born on June 9, 1963, while Leonardo DiCaprio was born on November 11, 1974, and Pharrell Williams was born on April 5, 1973.",
+    "ground_truth": "Leonardo DiCaprio",
+    "f1": 0.14285714285714288,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed an interest in music at a young age and began performing in local talent shows, and has faced controversies including public feuds with other celebrities and criticism over her political endorsements, Albert Einstein and Kamala Harris and Nelson Mandela?",
+    "llm_answer": "Based on the given context, Albert Einstein was born on March 14, 1879, while Kamala Harris was born on October 20, 1964, and Nelson Mandela was born on July 18, 1918.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which shaped his understanding of the world, Donald Trump and David Bowie?",
+    "llm_answer": "Vladimir Putin, who graduated from Leningrad State University in 1975, grew up in a communal apartment in Leningrad, which shaped his understanding of the world. Donald Trump and David Bowie were born on the same day.",
+    "ground_truth": "Donald Trump",
+    "f1": 0.10526315789473684,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who dropped out of school at the age of 15 to pursue a career in music and later transitioned to acting, Leonardo DiCaprio and Marie Curie and Mark Zuckerberg?",
+    "llm_answer": "Born date: 1963\nLast earliest: 1984",
+    "ground_truth": "Mark Zuckerberg",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who became a naval aviator and test pilot before joining NASA, where he made history as the first person to walk on the moon during the Apollo 11 mission, Kylian Mbappe and Priyanka Chopra Jonas?",
+    "llm_answer": "Based on the given context, Neil Armstrong's birth date is the second earliest among the three individuals.",
+    "ground_truth": "Priyanka Chopra Jonas",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who faced controversies regarding his public persona and the intense scrutiny of his actions during the Apollo 11 mission, and he was born to a family with a strong Midwestern background, Will Smith and Neil deGrasse Tyson?",
+    "llm_answer": "Born on September 25, 1968, Neil Armstrong was born to a family with a strong Midwestern background.",
+    "ground_truth": "Will Smith",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who began his career in real estate at a young age, taking over his father's company and expanding it into a multi-billion dollar enterprise, and he attended Fordham University before transferring to the Wharton School of the University of Pennsylvania, where he earned a degree in economics, Bruno Mars and Nelson Mandela and Vincent van Gogh?",
+    "llm_answer": "Bruno Mars and Nelson Mandela are born on the same day, July 18, 1985.",
+    "ground_truth": "Nelson Mandela",
+    "f1": 0.25,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and he was born into a working-class family in Leningrad, Bruno Mars and Neil deGrasse Tyson?",
+    "llm_answer": "Bruno Mars was born on October 8, 1985, while Neil deGrasse Tyson was born on October 05, 1958. Vladimir Putin was born on October 07, 1952, while Bruno Mars was born on October 8, 1985.",
+    "ground_truth": "Bruno Mars",
+    "f1": 0.1081081081081081,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who faced controversies regarding his reserved personality and the intense scrutiny of his actions during the Apollo 11 mission, and who had a humble early life growing up in Wapakoneta, Ohio, where he developed a passion for aviation at a young age, and Martin Luther King Jr.?",
+    "llm_answer": "Born on January 15, 1929, Martin Luther King Jr. Was born in Montgomery, Alabama, and Alberta began dating in 1920, and married on November 25, 1926. Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio, and was the eldest of three siblings, and showed an early interest in aviation and space exploration.",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.07017543859649122,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family and attended Fordham University before transferring to the Wharton School, and has been involved in numerous controversies throughout his career, including his comments on immigration and his business practices, Leonardo DiCaprio and Bruce Lee?",
+    "llm_answer": "Bruce Lee was born on November 27, 1940.",
+    "ground_truth": "Leonardo DiCaprio",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and became involved in student politics, and William Shakespeare?",
+    "llm_answer": "Born on October 07, 1952, Vladimir Putin is the second earliest among Russian nationals to be born.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.21052631578947367,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who is a businessman and television personality who became the 45th president of the United States, and has been involved in numerous controversies including allegations of racism, sexual misconduct, and the impeachment trials, and Greta Thunberg?",
+    "llm_answer": "Donald Trump's birth date is the last earliest, among Donald Trump, who is a businessman and television personality who became the 45th president of the United States, and has been involved in numerous controversies including allegations of racism, sexual misconduct, and the impeachment trials, and Greta Thunberg's birth date is the last earliest, among Greta Thunberg, who is a Swedish teenager who became a",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.05882352941176471,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed a passion for music at a young age and began performing in local talent shows, and has faced various controversies throughout her career, including public feuds with other artists and criticism over her dating life, Vladimir Putin and Oprah Winfrey?",
+    "llm_answer": "Answer: Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed a passion for music at a young age and began performing in local talent shows, has faced controversies throughout her career, including public feuds with other artists and criticism over her dating life.",
+    "ground_truth": "Oprah Winfrey",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who grew up in Leningrad (now Saint Petersburg) in a communal apartment with his parents and grandparents, and his early life was marked by the hardships of World War II, as his father served in the Soviet Navy and his mother worked in a factory, and Nelson Mandela?",
+    "llm_answer": "Both Vladimir Putin and Nelson Mandela were born on October 07, 1952.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.2857142857142857,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who served as a KGB officer before entering politics, and later became the President of Russia, and Kamala Harris?",
+    "llm_answer": "Answer: Kamala Harris, who was born on October 20, 1964, is the last earliest among Vladimir Putin and Kamala Harris.",
+    "ground_truth": "Kamala Harris",
+    "f1": 0.18181818181818182,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Emma Watson, who was born to a lawyer father and a mother who is a former lawyer and has been involved in various controversies regarding her advocacy for gender equality and her role as a UN Women Goodwill Ambassador, Chris Hemsworth and Natalie Portman?",
+    "llm_answer": "Born on 31st January 1986, Emma Watson is the last earliest among the three celebrities mentioned.",
+    "ground_truth": "Emma Watson",
+    "f1": 0.2222222222222222,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who served as a KGB officer before entering politics and became the President of Russia, Stephen Jobs and Priyanka Chopra Jonas and Natalie Portman?",
+    "llm_answer": "Based on the given context, Priyanka Chopra Jonas and Natalie Portman are born on the same date, i.e., July 18, 1982.",
+    "ground_truth": "Stephen Jobs",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging family dynamic, and he dropped out of high school at the age of 15 to pursue a career in music before eventually finding success in acting, Will Ferrell and David Bowie?",
+    "llm_answer": "Born on June 9, 1963, Johnny Depp is the last earliest among the three celebrities.",
+    "ground_truth": "Will Ferrell",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed a love for music at an early age and began performing in local talent shows, William Shakespeare and Shakira?",
+    "llm_answer": "Answer: Taylor Swift's birthdate is the first earliest among the three, as she was born on December 13, 1989.",
+    "ground_truth": "William Shakespeare",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who dropped out of high school at the age of 15 to pursue a music career and comes from a family with a diverse background, including a father who was a civil engineer and a mother who was a waitress, Will Smith and John Legend?",
+    "llm_answer": "Born date is the second earliest among Johnny Depp, who dropped out of high school at the age of 15 to pursue a music career and comes from a family with a diverse background, including a father who was a civil engineer and a mother who was a waitress, Will Smith and John Legend.",
+    "ground_truth": "Will Smith",
+    "f1": 0.07142857142857142,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who had a tumultuous early life marked by frequent relocations and a troubled family background, and has been involved in numerous controversies, including highly publicized legal battles and allegations of domestic violence, Chris Hemsworth and Oprah Winfrey?",
+    "llm_answer": "Johnny Depp's birthdate is the last earliest, while Chris Hemsworth and Oprah Winfrey's birthdates are the last earliest.",
+    "ground_truth": "Chris Hemsworth",
+    "f1": 0.18181818181818182,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who has been a controversial figure due to his leadership style, allegations of election interference, and the annexation of Crimea, and has had a career that includes serving as a KGB officer, the Prime Minister of Russia, and the President of Russia, Chris Hemsworth and Priyanka Chopra Jonas?",
+    "llm_answer": "Answer: Chris Hemsworth and Priyanka Chopra Jonas.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and race, and has a family background that includes his father, Fred Trump, a successful real estate developer, and his children who have also taken on prominent roles in his business and political endeavors, Elon Musk and Malala Yousafzai and William Shakespeare?",
+    "llm_answer": "Born on June 14, 1946.",
+    "ground_truth": "Malala Yousafzai",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which shaped his views on social issues, Shakira and Ai Weiwei?",
+    "llm_answer": "Ai Weiwei was born on August 28, 1957, in Leningrad, Russia.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who was born to a wealthy family with a real estate developer father and a mother who was a Scottish immigrant, and he has had a controversial career as a businessman and television personality before becoming the 45th President of the United States, and William Shakespeare?",
+    "llm_answer": "Based on the given context, Donald Trump was born on June 14, 1946, while William Shakespeare was born on April 23, 1564. Donald Trump's birth date is the last earliest among the two, while William Shakespeare's birth date is the last earliest.",
+    "ground_truth": "Donald Trump",
+    "f1": 0.08695652173913045,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who was born into a wealthy family with a real estate developer father and a Scottish immigrant mother, and has been involved in numerous controversies throughout his career, including his divisive rhetoric during the 2016 presidential campaign and his impeachment trials, Martin Luther King Jr. and Priyanka Chopra Jonas and Kamala Harris?",
+    "llm_answer": "Based on the given context, Martin Luther King Jr. Was born on January 15, 1929, and Alberta began dating in 1920, and married on November 25, 1926.",
+    "ground_truth": "Martin Luther King Jr.",
+    "f1": 0.25806451612903225,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and later pursued a career in law and intelligence, serving as a KGB officer before entering politics and eventually becoming the President of Russia, David Bowie and Ai Weiwei and Bruce Lee?",
+    "llm_answer": "Answer: David Bowie, who was born on January 08, 1947, and later pursued a career in music and acting, was born the last earliest among Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and later pursued a career in law and intelligence, serving as a KGB officer before entering politics and eventually becoming the President of Russia, Ai Weiwei, who was",
+    "ground_truth": "Ai Weiwei",
+    "f1": 0.05555555555555556,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and is best known for being the first person to walk on the moon during the Apollo 11 mission, and faced controversies regarding his modest demeanor and the public's perception of his achievements, William Shakespeare and Shakira?",
+    "llm_answer": "Based on the given context, Neil Armstrong's nationality is American, while William Shakespeare's nationality is English. Shakira's nationality is Colombian.",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.16,
+    "em": 0
+  }
+]

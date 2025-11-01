@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who has been a controversial figure due to allegations of election interference, human rights abuses, and the annexation of Crimea, and has had a career that includes serving as a KGB officer, the Prime Minister of Russia, and the President of Russia, Greta Thunberg and Neil deGrasse Tyson and Lady Gaga?",
+    "llm_answer": "Greta Thunberg's birthdate (January 03, 2003) is the latest among the listed individuals.",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.25,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who began her career in country music at a young age, signing with Big Machine Records and releasing her self-titled debut album in 2006, and later transitioned to pop music with her album \"1989,\" and also attended Hendersonville High School in Tennessee before being homeschooled to accommodate her touring schedule, Johnny Depp and Oprah Winfrey?",
+    "llm_answer": "The earliest birthdate is Oprah Winfrey's (1954), followed by Johnny Depp's (1963), and Taylor Swift's (1989) is the latest. Therefore, Taylor Swift's birthdate is the last earliest.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.12121212121212122,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was born in Wapakoneta, Ohio, and showed an early interest in aviation, earning his student pilot's license at the age of 16, and went on to have a distinguished career as a naval aviator, test pilot, and astronaut, famously becoming the first person to walk on the moon during the Apollo 11 mission, Emma Watson and Malala Yousafzai?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking who has the second earliest birth date among Neil Armstrong, Emma Watson, and Malala Yousafzai. \n\nFirst, I need to find the birth dates of each person. Let's start with the given context.\n\nFrom the context:\n- Neil Armstrong was born in Wapakoneta, Ohio. The exact date isn't mentioned here, but I might need to recall or infer. Wait, the context says he was born to a middle-class family and was the eldest of three siblings. But the actual birth date isn't provided here. Hmm. The user said to use only the information from the context, so maybe I missed something. Let me check again.\n\nLooking back: The context mentions Neil Armstrong was born... but the sentence is cut off. Wait, the original context provided says: \"Armstrong was born\" but then the sentence is incomplete. Oh, right, maybe the actual birth date isn't in the context. Wait, but maybe Emma Watson's birth date is mentioned. Let me check again.\n\nEmma Watson was born in Paris to a French mother and British father. The context says she spent much of her childhood in England and has been involved in various controversies. But again, no specific birth date is given here. Wait, the context mentions Malala Yousafzai's birth date: \"Malala Yousafzai was born on July 12, 1997.\" So Malala's birth date is known from the context.\n\nNeil Armstrong's birth date isn't provided in the context. Wait, the user's context starts with Neil Armstrong being born in Wapakoneta, Ohio, but the exact date isn't given. Similarly, Emma Watson's birth date isn't mentioned. So maybe the answer isn't possible based on the given context? But the user expects an answer. Wait, perhaps I'm missing something.\n\nWait, the question says to use only the information from the context. So if the context doesn't provide birth dates for all three, then maybe the answer isn't possible. But maybe the user expects me to know the actual birth dates from general knowledge, but the instruction says to use only the context. Hmm.\n\nWait, let me re-read the context again carefully. The context says:\n\nNeil Armstrong was born to a middle-class family in Wapakoneta, Ohio... (no date mentioned)\n\nEmma Watson was born in Paris... (again, no date mentioned)\n\nMalala Yousafzai's nationality is Pakistani. Malala Yousafzai was born on July 12, 1997.\n\nSo the only birth date provided is Malala's. The others aren't given. Therefore, based solely on the context, we can't determine the birth dates of Neil Armstrong and Emma Watson. Therefore, the question can't be answered with the given context. But the user is expecting an answer",
+    "ground_truth": "Emma Watson",
+    "f1": 0.008620689655172414,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who was involved in controversies regarding the portrayal of the Apollo 11 mission and faced criticism for his reserved public persona, and whose career as an astronaut included being the first person to walk on the moon, and Emma Watson?",
+    "llm_answer": "<think>\nOkay, let's tackle this question step by step. The user is asking whose birthdate is the last earliest among Neil Armstrong and Emma Watson.\n\nFirst, I need to find their birthdates from the context provided. Let me scan through the context again. \n\nFor Neil Armstrong, the context says he was born on August 5, 1930. That's straightforward. \n\nNow, looking for Emma Watson's birthdate. The context mentions she was born in Paris to a French mother and British father, but it doesn't explicitly state her birthdate. Wait, the context says \"On 11 January 2020,\" but that seems like a separate event. The user's question is about birthdates, so maybe the date there isn't Emma's birthday. Since the context doesn't provide Emma Watson's actual birthdate, I might be missing something. \n\nWait, maybe I should check if there's any other mention. The context says Emma Watson was born in Paris... but no date given. Hmm. The user might expect me to know her birthdate from general knowledge, but the instructions say to use only the information from the context. Since the context doesn't list Emma Watson's birthdate, I can't determine that. However, maybe I made a mistake. Let me check again. \n\nLooking at the context again: \"Emma Watson was born in Paris...\" but no date. The rest of the context mentions Neil Armstrong's birthdate as August 5, 1930. Emma Watson's birthdate isn't provided here. Therefore, based solely on the context given, I can't answer the question because Emma Watson's birthdate is missing. \n\nWait, the user's question is phrased as \"the last earliest\" which might mean the most recent earliest birthdate. But without Emma's birthdate, I can't compare. Unless there's an implicit assumption. Maybe the context mentions Emma Watson's birthdate in the line I missed? Let me check again. \n\nThe context says: \"On 11 January 2020, offer his services...\" Wait, that seems unrelated to Emma Watson. The sentence about Emma Watson is separate. So, no, her birthdate isn't provided. Therefore, based on the given context, the answer can't be determined because Emma Watson's birthdate isn't listed. But the user might expect me to proceed with known information, but the instructions strictly say to use only the context. \n\nSo, the answer would have to be Neil Armstrong's birthdate is the earliest since Emma Watson's isn't provided. Wait, but the question is asking whose birthdate is the last earliest, meaning the latest among the earliest. If only one birthdate is given, then that's the answer. Alternatively, maybe the user made a mistake in the context. Let me confirm once more. \n\nThe context does mention Neil Armstrong's birthdate twice: \"Neil Armstrong",
+    "ground_truth": "Emma Watson",
+    "f1": 0.008528784648187633,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who attended Fordham University and later transferred to the Wharton School of the University of Pennsylvania, where he earned a degree in economics, and has had a career as a businessman, television personality, and politician, including serving as the 45th President of the United States, Johnny Depp and Bruce Lee?",
+    "llm_answer": "Bruce Lee was born first on November 27, 1940, earlier than Donald Trump (June 14, 1946) and Johnny Depp (June 9, 1963).",
+    "ground_truth": "Bruce Lee",
+    "f1": 0.16666666666666669,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who has been involved in various controversies, including allegations of election interference and human rights abuses, and he attended Leningrad State University where he studied law, Elon Musk and Rihanna?",
+    "llm_answer": "Vladimir Putin's birth date (October 7, 1952) is the earliest among the three.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.25,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who has served as the President of Russia multiple times and was previously the Prime Minister, and has been involved in various controversies including allegations of election interference and human rights abuses, Will Smith and Shakira?",
+    "llm_answer": "The second earliest birthdate is Will Smith (September 25, 1968).",
+    "ground_truth": "Will Smith",
+    "f1": 0.33333333333333337,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who was born in Reading, Pennsylvania, and raised in Wyomissing, Pennsylvania, where she developed a love for music at an early age, and comes from a family with a strong background in finance and the arts, Will Smith and Pharrell Williams?",
+    "llm_answer": "The birthdate that is the last earliest among Taylor Swift, Will Smith, and Pharrell Williams is Taylor Swift's, born on December 13, 1989.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.15384615384615385,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who attended Purdue University on a Navy scholarship and later earned a degree in aeronautical engineering, and was involved in controversies such as the criticism he faced for his perceived aloofness and the intense scrutiny of his actions during the Apollo 11 mission, and Donald Trump?",
+    "llm_answer": "<think>\nOkay, let me try to figure out the answer. The question is asking who has the second earliest birthdate between Neil Armstrong and Donald Trump. \n\nFirst, I need to find their birth dates. From the context provided:\n\nDonald Trump was born on June 14, 1946. The context mentions that twice. \n\nNeil Armstrong's birth date isn't directly stated here. Wait, the context starts by saying Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio, but it doesn't specify the date. Wait, maybe I should check if I remember Neil Armstrong's actual birth date. Wait, but the user said to use only the information from the context. Oh, right! The context doesn't mention Neil Armstrong's birth date at all. Hmm, that's a problem. Wait, let me check again.\n\nLooking at the context again: The first part says \"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio...\" but no date is given. The rest of the context talks about Trump's birth date as June 14, 1946. So the problem is that the context doesn't provide Neil Armstrong's birth date. Wait, but the question is about who has the second earliest birthdate between Armstrong and Trump. But if the context doesn't give Armstrong's birth date, how can I answer that?\n\nWait, maybe I'm missing something. Let me read the context again carefully. The context says \"Armstrong was born...\" but then cuts off. So maybe there's a typo or error in the context? Because the original context seems to have some fragmented sentences. For example, after mentioning Armstrong's birth, it jumps to Ferrell presenting at the Academy Awards, then Trump's nationality and birth date. So perhaps the context is incomplete or corrupted. \n\nBut given that the user provided this context, and I can only use the information from it, then I don't have Neil Armstrong's birth date. Therefore, the question cannot be answered based solely on the given context. Wait, but the user expects an answer. Maybe there's a mistake here. Alternatively, perhaps there's an implicit assumption. Wait, maybe the user intended to include Armstrong's birth date but it's missing. For example, Neil Armstrong was born on August 5, 1930, in real life, but the context doesn't mention that. So according to the context provided, we don't have Armstrong's birth date. Therefore, the answer would be that the context doesn't provide enough information to determine the second earliest birthdate. But the user's question seems to expect comparing Trump and Armstrong's dates. \n\nWait, maybe I made a mistake. Let me check again. The question says \"among Neil Armstrong... and Donald Trump\". So the context gives Trump's birth date as June 14, 1946. If Armstrong's birth date is not",
+    "ground_truth": "Donald Trump",
+    "f1": 0.008316008316008315,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to Wyomissing Area Junior/Senior High School, where she began pursuing a career in music at a young age, Vladimir Putin and John Legend?",
+    "llm_answer": "The earliest birthdate among them is Vladimir Putin, born on October 7, 1952.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family with a father who was a real estate developer and a mother who was a Scottish immigrant, Marie Curie and Oprah Winfrey and Martin Luther King Jr.?",
+    "llm_answer": "Marie Curie was born on November 7, 1867, making her the earliest among the listed individuals.",
+    "ground_truth": "Marie Curie",
+    "f1": 0.2222222222222222,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging childhood that included his parents' divorce, and Marie Curie?",
+    "llm_answer": "Johnny Depp's birth",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.6666666666666666,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who grew up in Leningrad (now St. Petersburg) in a communal apartment and was the son of a factory foreman and a mother who worked as a homemaker, and David Bowie?",
+    "llm_answer": "The second earliest birthdate is Vladimir Putin, born on October 7, 1952, following David Bowie's January 8, 1947 birthdate.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.18181818181818182,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Taylor Swift, who has faced various controversies throughout her career, including public feuds with other artists and criticism over her political statements, and she attended Hendersonville High School before transferring to the Aaron Academy, Donald Trump and Leonardo da Vinci and Leonardo DiCaprio?",
+    "llm_answer": "The second earliest birth date is Donald Trump's, born on June 14, 1946.",
+    "ground_truth": "Donald Trump",
+    "f1": 0.25,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who attended Blume High School and later transferred to Purdue University, where he studied aeronautical engineering, and was born to a father who was a state legislator and a mother who was a homemaker, Maya Angelou and Lionel Messi?",
+    "llm_answer": "Neil Armstrong's birth date (August 5, 1930) is the second earliest after Maya Angelou's (April 4, 1928).",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.1904761904761905,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who began performing in local talent shows at a young age and later moved to Nashville at the age of 14 to pursue her music career, Lady Gaga and Pharrell Williams and Neil deGrasse Tyson?",
+    "llm_answer": "Neil deGrasse Tyson's birthdate (October 5, 1958) is the earliest among the listed individuals.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who has been involved in numerous controversies including highly publicized legal battles with ex-wife Amber Heard and allegations of substance abuse, and he dropped out of high school at the age of 16 to pursue a career in music before transitioning to acting, Lady Gaga and John Legend?",
+    "llm_answer": "The second earliest birth date is John Legend's, born on December 28, 1978.",
+    "ground_truth": "John Legend",
+    "f1": 0.25,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was the first person to walk on the moon during the Apollo 11 mission and faced controversies regarding the authenticity of the moon landing, Chris Hemsworth and Shakira?",
+    "llm_answer": "Shakira's birthdate (February 2, 1977) is the second earliest, following Neil Armstrong's (August 5, 1930).",
+    "ground_truth": "Shakira",
+    "f1": 0.1111111111111111,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Neil Armstrong, who was the eldest of three children in a family where his father was a state legislator and his mother was a homemaker, and he faced controversies during his career, including the intense scrutiny of his actions during the Apollo 11 mission and the subsequent public debate over the portrayal of his achievements, Chris Hemsworth and Kamala Harris?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking who has the earliest birthdate among Neil Armstrong, Chris Hemsworth, and Kamala Harris.\n\nFirst, I need to find each of their birth dates from the context provided. Let me go through the context step by step.\n\nLooking at the context:\n\n- Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio. Wait, the context mentions that he was born to a middle-class family and was the eldest of three siblings. The question adds that his father was a state legislator and his mother a homemaker. But the exact birth date isn't mentioned here. Hmm. Wait, the context says \"Armstrong was born\" but then the sentence is cut off. Wait, looking back: The first mention of Armstrong is \"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio...\" but the actual birth date isn't given in the context. Wait, but maybe I missed it. Let me check again.\n\nWait, the context has two mentions of Armstrong. The first paragraph says: \"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio, and was the eldest of three siblings, and showed an early interest in aviation and space exploration.\" Then later, \"Neil Armstrong was an American astronaut...\" but no specific date. Wait, maybe I'm missing something else. Wait, the user's context is a bit jumbled, but perhaps Neil Armstrong's birthdate is not explicitly stated here. Wait, but the user's question includes details about Armstrong's family, which are in the context, but the actual birth date isn't provided here. Wait, the context mentions Kamala Harris was born on October 20, 1964. Chris Hemsworth was born on August 11, 1983. But Neil Armstrong's birth date isn't given in the context provided. Wait, that's a problem. How can I answer this without knowing Armstrong's birthdate?\n\nWait, maybe I'm missing something. Let me check again. The context mentions \"Neil Armstrong was born...\" but the sentence is cut off. Wait, the first sentence says \"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio...\" but there's no year mentioned. Wait, perhaps the user expects me to know Armstrong's birthdate from general knowledge, but the instructions say to use only the information from the context. If the context doesn't provide Armstrong's birth date, then I can't answer the question based solely on the given context. But maybe there's a way around it. Wait, let me check again. The context mentions that Kamala Harris was born on October 20, 1964, and Hemsworth on August 11, 1983. Armstrong's birthdate isn't provided here. Hmm. The question is about who has the earliest birth",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.008676789587852495,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who faced controversies regarding the authenticity of the moon landing and was known for his reserved personality, and who came from a family with a strong aviation background, Shakira and Rihanna?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking who has the second earliest birthdate among Neil Armstrong, Shakira, and Rihanna.\n\nFirst, I need to check each person's birthdate from the context provided. \n\nStarting with Neil Armstrong: The context mentions he was born in Wapakoneta, Ohio, but it doesn't specify his birthdate directly. Wait, the user mentioned in the question that Armstrong faced controversies about the moon landing and came from a family with aviation background. But the context says he was born to a middle-class family and showed early interest in aviation. However, the actual birthdate isn't given here. Hmm, maybe I need to recall Neil Armstrong's actual birthdate from general knowledge. I think he was born in 1930, but since the context doesn't state it, maybe the user expects me to rely only on the given context. Wait, the context only mentions Armstrong's birthplace and siblings, not his birthdate. That's a problem because the question requires birthdates. \n\nLooking at Shakira: The context clearly states she was born on February 2, 1977. Rihanna's birthdate is given as February 20, 1988. Neil Armstrong's birthdate isn't provided in the context. Wait, but the user is asking to use only the context. So if the context doesn't have Armstrong's birthdate, how can I answer? Maybe there's a mistake here. Let me check again. The context says \"Armstrong was born\" but doesn't give the date. So perhaps the user expects me to proceed with the info given, but that's incomplete. Wait, maybe I missed something. Let me re-read the context.\n\nContext snippets:\n- Neil Armstrong was born... (no date)\n- Shakira was born on February 02, 1977.\n- Rihanna was born on February 20, 1988.\n\nSo the context provides birth dates for Shakira and Rihanna but not for Neil Armstrong. However, the question mentions Neil Armstrong and asks for the second earliest birthdate among the three. Since Armstrong's birthdate isn't given, maybe the question is testing if we can infer based on the provided dates. Wait, but without Armstrong's birthdate, how can we determine? Unless there's a trick here. Maybe the user expects me to use real-world knowledge even though the instruction says to use only the context. But the user's instruction is strict: \"using only the information from the context.\" \n\nWait, maybe the context actually does mention Armstrong's birthdate but it's cut off? Let me check again. The context starts with \"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio...\" and then continues to mention Ferrell presenting at the Academy Awards. Then there's info on Shakira and Rihanna. So the context doesn't include Armstrong's birthdate",
+    "ground_truth": "Shakira",
+    "f1": 0.004329004329004329,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who grew up in Leningrad during World War II, where his family faced hardships and he later became involved in the KGB, and has been a controversial figure due to his authoritarian leadership style and allegations of election interference, Will Ferrell and Natalie Portman?",
+    "llm_answer": "Vladimir Putin's birthdate (October 7, 1952) is the earliest among the three.",
+    "ground_truth": "Natalie Portman",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who was born in Leningrad (now Saint Petersburg) and grew up in a communal apartment, where he developed an interest in sports and martial arts, and later pursued a career in the KGB before entering politics, Thomas Edison and Natalie Portman?",
+    "llm_answer": "Thomas Edison was born first on February 11, 1847.",
+    "ground_truth": "Thomas Edison",
+    "f1": 0.3636363636363636,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Neil Armstrong, who faced controversies during his career, including the criticism of his handling of the Apollo 11 mission and the subsequent public scrutiny of his actions, and who attended Purdue University where he studied aeronautical engineering and was a member of the university's marching band, Will Smith and Albert Einstein and Mark Zuckerberg?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking who has the earliest birthdate among Neil Armstrong, Will Smith, Albert Einstein, and Mark Zuckerberg. First, I need to gather each person's birthdate from the context provided.\n\nLooking at the context:\n\nNeil Armstrong was born in Wapakoneta, Ohio, but the exact date isn't mentioned here. Wait, the context doesn't specify his birthdate. Hmm, that's a problem. The user said to use only the information from the context. So if Neil Armstrong's birthdate isn't given, I can't use it. Wait, let me check again. The context mentions Armstrong's family and his interest in aviation, but no date. So maybe the question includes some extra info about Armstrong facing controversies, but the context doesn't mention his birthdate. Wait, the user's question includes some details about Armstrong not present in the original context. Wait, the context provided actually does mention Armstrong's birthdate? Wait, looking back:\n\nThe context starts with \"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio...\" but does it say when? Wait, the user's context as given here: Let me check again.\n\nOriginal context lines:\n\nNeil Armstrong was born to a middle-class family in Wapakoneta, Ohio, and was the eldest of three siblings, and showed an early interest in aviation and space exploration. Ferrell has presented numerous times at theAcademy Awards. Armstrong was born [no date given here]. Wait, the next line is about Will Smith's nationality and birthdate: \"Will Smith was born on September 25, 1968.\" Then Albert Einstein's birthdate is March 14, 1879. Mark Zuckerberg's birthdate is May 14, 1984.\n\nWait, the context says \"Armstrong was born\" but then the next sentence starts with Will Smith's info. So the context does NOT provide Neil Armstrong's birthdate. Therefore, according to the context given, we don't have his birthdate. But the question mentions Neil Armstrong facing controversies during his career, including handling Apollo 11, etc., but the context doesn't give his birthdate. So the question includes info not in the context. But the user says to answer using only the context. Therefore, if the context doesn't have Armstrong's birthdate, we can't include him in the comparison. But the question includes him as one of the candidates. Wait, maybe I'm missing something. Let me check again.\n\nLooking at the context again:\n\nThe first line mentions Neil Armstrong's birthplace and family, but no date. Then Ferrell's info (not relevant). Then \"Armstrong was born\" but the sentence is cut off. So the context doesn't provide his birthdate. Therefore, according to the given context, we only have birthdates for Will Smith (1",
+    "ground_truth": "Albert Einstein",
+    "f1": 0.008733624454148471,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who grew up in a communal apartment in Leningrad, where he was influenced by the hardships of post-war life and developed a strong interest in martial arts during his early years, Chris Hemsworth and Nelson Mandela and Vincent van Gogh?",
+    "llm_answer": "The second earliest birthdate is Nelson Mandela (July 18, 1918).",
+    "ground_truth": "Nelson Mandela",
+    "f1": 0.33333333333333337,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and became the first person to walk on the moon during the Apollo 11 mission, and he was born to a father who worked in the state government and a mother who was a homemaker, Emma Watson and Maya Angelou?",
+    "llm_answer": "<think>\nOkay, let's tackle this question. The user is asking who has the latest earliest birthdate among Neil Armstrong, Emma Watson, and Maya Angelou. Wait, no, actually it's phrased as \"last earliest,\" which might be a bit confusing. Wait, maybe they mean the latest birthdate among the earliest ones? Or perhaps it's a typo and they meant \"latest\" or \"last earliest\" could be interpreted as the most recent birthdate.\n\nFirst, let me extract the birth dates from the context provided. \n\nLooking at the context:\n\nNeil Armstrong's birth date is August 5, 1930.\n\nMaya Angelou's birth date is April 4, 1928. Wait, but the context mentions she was born on April 04, 1928. Wait, the user's question says \"Maya Angelou's nationality is American. Maya Angelou was born on April 04, 1928.\" So her birthdate is April 4, 1928.\n\nEmma Watson's birth date isn't explicitly stated in the context provided. Wait, the context says Emma Watson was born in Paris to a French mother and a British father, and spent much of her childhood in England. But the birth date isn't given here. Hmm, that's a problem. Wait, the user's question mentions Emma Watson, but the context doesn't provide her birthdate. Wait, maybe I missed it?\n\nWait, the context says: \"Emma Watson was born in Paris...\" but doesn't mention the date. Wait, maybe I need to recall real-world knowledge? But the user said to use only the information from the context. Since the context doesn't have Emma Watson's birthdate, how can we answer the question? Wait, maybe there's a mistake here. Let me check again.\n\nLooking back at the context:\n\nThe user's context mentions:\n\nNeil Armstrong's birthdate is August 5, 1930.\n\nMaya Angelou's birthdate is April 4, 1928.\n\nEmma Watson's birthdate is not mentioned in the provided context. Wait, but the user's question includes her as one of the three people. So perhaps there's an error in the context? Or maybe I missed a part. Let me check again.\n\nLooking at the context again:\n\nThe first part mentions Neil Armstrong's nationality and birthdate. Then mentions Emma Watson was born in Paris, but no date. Then mentions Maya Angelou's nationality and birthdate. \n\nSo the problem is that Emma Watson's birthdate isn't provided in the context. Therefore, the question cannot be answered with the given information because we don't have her birthdate. But maybe the user expects me to use real-world knowledge despite the instructions? Wait, the user said to answer using only the information from the context. So if Emma Watson's birthdate isn't given",
+    "ground_truth": "Emma Watson",
+    "f1": 0.008791208791208791,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who is a highly successful singer-songwriter known for her narrative songwriting and has won numerous awards including multiple Grammy Awards, and she comes from a family with a strong interest in the arts, as her mother was a mutual fund marketing executive and her father was a stockbroker, Mark Zuckerberg and Greta Thunberg and Marie Curie?",
+    "llm_answer": "Marie Curie was born on November 07, 1867, making her the earliest born among the listed individuals.",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and attended Leningrad State University where he studied law and graduated in 1975, Johnny Depp and David Bowie?",
+    "llm_answer": "The latest earliest birthdate is Johnny Depp's, born on June 9, 1963.",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.2666666666666667,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who was born to a waitress mother and a civil engineer father, and grew up in a dysfunctional family that moved frequently, which influenced his early life and artistic pursuits, Vincent van Gogh and Greta Thunberg and William Shakespeare?",
+    "llm_answer": "The earliest birthdate is William Shakespeare, born on April 23, 1564.",
+    "ground_truth": "William Shakespeare",
+    "f1": 0.3076923076923077,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family and attended the New York Military Academy, and has been involved in numerous controversies throughout his career, including his business practices and political statements, Johnny Depp and William Shakespeare and Bruno Mars?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking who has the second earliest birthdate among Donald Trump, Johnny Depp, William Shakespeare, and Bruno Mars.\n\nFirst, I need to list out each person's birthdate from the context provided. Let me go through the context again carefully.\n\nDonald Trump was born on June 14, 1946. The context mentions that twice, so that's clear.\n\nJohnny Depp was born on June 9, 1963. Wait, but wait, the context says \"Depp was born on June 9, 1963.\" So that's his birthdate.\n\nWilliam Shakespeare's birthdate is given as April 23, 1564. That's much earlier than the others.\n\nBruno Mars was born on October 8, 1985. So that's his date.\n\nNow, let's order them chronologically:\n\nWilliam Shakespeare: 1564 (April 23)\nDonald Trump: 1946 (June 14)\nJohnny Depp: 1963 (June 9)\nBruno Mars: 1985 (October 8)\n\nWait, but wait. Shakespeare was born in 1564, which is way earlier than the others. Then Trump in 1946, Depp in 1963, Mars in 1985. So the earliest is Shakespeare, then Trump, then Depp, then Mars.\n\nBut the question asks for the second earliest. So the earliest is Shakespeare, second would be Trump. But wait, wait. Let me check again.\n\nWait, the birthdates:\n\nShakespeare: April 23, 1564\n\nTrump: June 14, 1946\n\nDepp: June 9, 1963\n\nMars: October 8, 1985\n\nSo the order from earliest to latest is Shakespeare (1564), then Trump (1946), then Depp (1963), then Mars (1985). Therefore, the second earliest is Donald Trump. But wait, wait, the question is phrased as \"the second earliest,\" so after Shakespeare, the next is Trump. But maybe there's a mistake here? Because Depp was born in 1963, which is after Trump's 1946. So yes, the order is Shakespeare first, Trump second, Depp third, Mars fourth. So the answer would be Donald Trump.\n\nBut let me double-check the dates again to make sure I didn't mix up any. The context says Trump was born June 14, 1946. Depp June 9, 1963. Shakespeare April 23, 1564. Mars October 8,",
+    "ground_truth": "Donald Trump",
+    "f1": 0.011527377521613834,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who had a tumultuous early life marked by frequent relocations and a troubled family background, and has been involved in various controversies including highly publicized legal battles and allegations of domestic violence, Chris Hemsworth and Elon Musk and Leonardo DiCaprio?",
+    "llm_answer": "Johnny Depp was born on June 9, 1963, making his birthdate the earliest among the listed individuals.",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.21052631578947367,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who had a tumultuous early life marked by frequent relocations and a troubled family background, and has been involved in numerous controversies including highly publicized legal battles and allegations of domestic violence, and Will Ferrell?",
+    "llm_answer": "Johnny Depp's birthdate (June 9, 1963) is earlier than Will Ferrell's (July 16, 1967).",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.2222222222222222,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who was born to a waitress mother and a civil engineer father, and grew up in a dysfunctional family that moved frequently, which influenced his early life and artistic expression, Greta Thunberg and Priyanka Chopra Jonas?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking whose birthdate is the last earliest among Johnny Depp, Greta Thunberg, and Priyanka Chopra Jonas.\n\nFirst, I need to extract each person's birthdate from the context provided. \n\nJohnny Depp's birthdate is given as June 9, 1963. The context mentions he was born to a waitress mother and civil engineer father, but the key detail here is his birthdate. \n\nGreta Thunberg was born on January 3, 2003. \n\nPriyanka Chopra Jonas's birthdate is July 18, 1982. \n\nNow, comparing these dates: \n\nJohnny Depp - 1963\nPriyanka Chopra - 1982\nGreta Thunberg - 2003\n\nThe earliest birthdate is Johnny Depp's (1963), then Priyanka's (1982), and the latest is Greta's (2003). However, the question asks for the \"last earliest,\" which might be a bit confusing. Wait, \"last earliest\" probably means the most recent among the earliest ones. Wait, no—the earliest birthdates are ordered from oldest to youngest. So if the question is asking who was born earliest last, maybe it's a typo. Wait, perhaps the user meant \"the last earliest,\" which might refer to the earliest among the three, but phrased awkwardly. Alternatively, maybe it's asking for the most recent earliest date? No, that doesn't make sense. Let me re-read the question.\n\nThe question says: \"Who's born date is the last earliest...\" Hmm. Maybe it's a translation issue. Perhaps they mean \"the latest earliest,\" which would be the most recent birthdate among the three. Wait, but earliest refers to the oldest. So \"last earliest\" might be confusing. Alternatively, maybe it's a mistranslation of \"the earliest last,\" which doesn't make sense. Wait, perhaps the intended question is \"Who was born the earliest among these three?\" If that's the case, Johnny Depp was born first (June 9, 1963), then Priyanka Chopra (July 18, 1982), then Greta Thunberg (January 3, 2003). So the earliest birthdate is Johnny Depp's. But the question says \"last earliest,\" which might be a mistake. Alternatively, maybe the user meant \"latest,\" meaning the most recent. In that case, Greta Thunberg's birthdate is the latest. However, the way the question is phrased is confusing. Let me check again.\n\nThe question is asking for the \"last earliest\" birthdate among the three. If \"last\" refers to the most recent, then",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.010282776349614397,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who has been involved in various controversies, including allegations of election interference and human rights abuses, and who attended Leningrad State University where he studied law, Will Ferrell and John Legend?",
+    "llm_answer": "Vladimir Putin's birthdate (October 07, 1952) is the earliest among the three.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.2666666666666667,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has also ventured into music and production, and who comes from a family with a diverse background, including a mother who was a waitress and a father who was a civil engineer, Ai Weiwei and Pharrell Williams?",
+    "llm_answer": "Ai Weiwei was born on August 28, 1957, making his birthdate the earliest among the three.",
+    "ground_truth": "Pharrell Williams",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and comes from a family with a strong interest in the arts, as her mother was a former mutual fund marketing executive and her father was a stockbroker, Greta Thunberg and Pharrell Williams and Bruce Lee?",
+    "llm_answer": "Bruce Lee was born on November 27, 1940, making his birthdate the earliest among the listed individuals.",
+    "ground_truth": "Bruce Lee",
+    "f1": 0.21052631578947367,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and race, and attended the New York Military Academy before transferring to Fordham University and later graduating from the Wharton School of the University of Pennsylvania, Emma Watson and Lady Gaga?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking who has the second earliest birthdate among Donald Trump, Emma Watson, and Lady Gaga.\n\nFirst, I need to get each of their birth dates from the context provided. Let me check the context again.\n\nDonald Trump was born on June 14, 1946. Emma Watson was born in Paris, but the exact date isn't mentioned here. Wait, the context says Emma Watson was born in Paris to a French mother and British father, but the specific date isn't given. Wait, let me check again. The context mentions Emma Watson was born in Paris... but does it say her birthdate? Hmm, looking back: the context says Emma Watson was born in Paris... but the exact date isn't provided. Wait, maybe I missed it. Let me scan again. The context says Emma Watson was born in Paris... but the actual date isn't stated here. Wait, the context mentions Emma Watson's birthplace but not her birthdate. Wait, but in the same paragraph, it says \"Emma Watson was born in Paris...\" but no date. However, looking at the other parts: Lady Gaga was born on March 28, 1986. Donald Trump is June 14, 1946. Emma Watson's birthdate isn't given here. Wait, but maybe I'm missing something. Let me check again.\n\nWait, the context starts with Donald Trump's birthdate: June 14, 1946. Then mentions Emma Watson was born in Paris... but no date. Then Lady Gaga's birthdate is March 28, 1986. Then there's a mention of Swift's birthdate as December 13, 1989, but Swift isn't part of the question. Wait, the question is about Emma Watson and Lady Gaga and Trump. So Emma Watson's birthdate isn't provided in the context? That's a problem. Wait, maybe I made a mistake. Let me read the context again carefully.\n\nLooking at the context:\n\n- Donald Trump's birthdate: June 14, 1946.\n\n- Emma Watson: born in Paris to French mother and British father, spent childhood in England, involved in controversies... but no birthdate given here.\n\nWait, but maybe the user made a mistake in the context. Wait, looking again: The context says Emma Watson was born in Paris... but no date. Then Lady Gaga's birthdate is March 28, 1986. Then Swift's birthdate is December 13, 1989. But Emma Watson's birthdate isn't mentioned. Wait, but the question is about Emma Watson and Lady Gaga and Trump. If Emma Watson's birthdate isn't provided, how can we answer the question? That's confusing. Maybe there's a typo in the context. Let",
+    "ground_truth": "Lady Gaga",
+    "f1": 0.009070294784580499,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who is a highly successful singer-songwriter known for her narrative songwriting and has won numerous awards including multiple Grammy Awards, and has been involved in various controversies such as her public feuds with other artists and her political activism, and Vincent van Gogh?",
+    "llm_answer": "Vincent van Gogh's birthdate (March 30, 1853) is earlier than Taylor Swift's (December 13, 1989).",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.21052631578947367,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which was a challenging environment that shaped his character, and Marie Curie?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking who has the second earliest birth date between Vladimir Putin and Marie Curie. \n\nFirst, I need to recall Marie Curie's birth date. From the context given, Marie Curie was born on November 7, 1867. So that's her date.\n\nNow, for Vladimir Putin's birth date, I don't have it in the provided context. Wait, the context mentions Putin attended Leningrad State University, graduated in 1975, and grew up in a communal apartment. But no birth date is given here. Hmm, but maybe I need to rely on my existing knowledge since the user says to use only the context, but the context doesn't include Putin's birth date. Wait, the user said to use only the information from the context. But the context doesn't mention Putin's birth date. Wait, maybe there's a mistake here. Let me check again.\n\nLooking at the context provided again. The context about Marie Curie includes her birth date: November 7, 1867. The context about Putin mentions his early life and education but not his birth date. So according to the given context, there's no information about Putin's birth date. Therefore, the question might be flawed because the context doesn't have Putin's birth date. But maybe the user expects me to answer based on general knowledge even though the context doesn't provide it? Wait, the user's instruction says to answer using only the information from the context. So if the context doesn't have Putin's birth date, I can't answer the question properly. But perhaps there's a trick here. Wait, maybe the user made a mistake and included Putin's birth date in the context but I missed it. Let me check again.\n\nThe context provided is split into two parts. The first part is about Marie Curie's nationality, birth date, sibling's death, and parents. The second part is about Vladimir Putin attending Leningrad State University, studying law, graduating in 1975, and his early life in a communal apartment. No birth date is mentioned for Putin in the context. Therefore, based on the given context, there's insufficient information to determine Putin's birth date. However, the user is asking for the second earliest birth date between the two. Since the context only provides Marie Curie's birth date and nothing about Putin's, perhaps the answer is that there's not enough information. But maybe the user expects me to use real-world knowledge despite the context not providing it. Wait, the user's instruction says to use only the information from the context. So if the context doesn't have Putin's birth date, I can't answer the question. But maybe there's a mistake here. Alternatively, maybe the user intended to include Putin's birth date in the context but forgot. Let me think again.\n\nWait, perhaps I should proceed with the information given",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.007984031936127744,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was born in Wapakoneta, Ohio, and grew up in a family that valued education and hard work, with his father being a state auditor and his mother a homemaker, Vladimir Putin and Bob Marley?",
+    "llm_answer": "<think>\nOkay, let me try to figure this out. The question is asking who has the second earliest birthdate among Neil Armstrong, Vladimir Putin, and Bob Marley.\n\nFirst, I need to find each of their birth dates from the given context. Let's start with each person.\n\nNeil Armstrong: The context mentions he was born in Wapakoneta, Ohio. The exact date isn't given here, but maybe I can infer from other parts. Wait, looking back, the context says \"Armstrong was born\" but doesn't specify the date. Hmm, maybe I missed it. Wait, the context is a bit fragmented. Let me check again. The first paragraph says Neil Armstrong was born to a middle-class family in Wapakoneta... but doesn't mention the date. Then later, for Putin, it says he was born on October 07, 1952. Bob Marley's birth date is given as February 06, 1945. \n\nWait, so Bob Marley was born on February 6, 1945. Putin on October 7, 1952. Neil Armstrong's date isn't explicitly mentioned here. Wait, but the user's question includes Neil Armstrong's birthplace and family details, but the context doesn't provide his actual birth date. Oh, wait, maybe I need to recall general knowledge? Wait, the user said to use only the information from the context. So if the context doesn't mention Neil Armstrong's birth date, then how can I answer? Wait, maybe I made a mistake. Let me check again.\n\nLooking at the context again:\n\nThe first part says Neil Armstrong was born in Wapakoneta, Ohio... but no date. Then later, during his thesis research at Columbia... but that's about someone else (Tyson). Wait, maybe Neil Armstrong's birth date is missing from the context. But the question includes him as one of the three people. If the context doesn't have his birth date, how can I determine the answer? Wait, perhaps the user made a mistake in the context? Or maybe I'm missing something.\n\nWait, let me check again. The context mentions Bob Marley's birth date as February 6, 1945. Putin's is October 7, 1952. Neil Armstrong's birth date isn't provided in the context. Wait, but the question includes Neil Armstrong as part of the comparison. Hmm. This seems like a problem because without his birth date, we can't determine the order. But maybe I'm missing something. Wait, maybe there's another part of the context. Let me check again.\n\nLooking at the context again:\n\n\"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio, and was the eldest of three siblings, and showed an early interest in aviation and space exploration. Ferrell has presented numerous",
+    "ground_truth": "Bob Marley",
+    "f1": 0.008791208791208791,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was born to a middle-class family in Wapakoneta, Ohio, where his father worked as an aviation engineer and his mother was a homemaker, and developed a passion for flying at a young age, and Leonardo da Vinci?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking who has the second earliest birth date between Neil Armstrong and Leonardo da Vinci. \n\nFirst, I need to find their birth dates. From the context given:\n\nLeonardo da Vinci was born on April 15, 1452. That's pretty clear. \n\nNeil Armstrong's birth is mentioned in the context as being in Wapakoneta, Ohio, but the exact date isn't stated here. Wait, the user provided context might not have the exact date. Hmm. Wait, the context says \"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio...\" but doesn't mention the specific date. However, from general knowledge I have, Neil Armstrong was born on August 5, 1930. But wait, the problem says to use only the information from the context. Since the context doesn't provide Armstrong's birth date, but the question includes a description of him being born in Wapakoneta, etc., but no date. Wait, maybe I missed something.\n\nLooking back at the context provided by the user. The first line says: \"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio, and was the eldest of three siblings, and showed an early interest in aviation and space exploration.\" Then later, there's another mention of Armstrong's birth again. But no date. The only birth date given is for Leonardo da Vinci: April 15, 1452. \n\nWait, the question is phrased as asking who's born date is the second earliest between Armstrong and da Vinci. But since the context doesn't give Armstrong's birth date, but the question includes additional info about his birth (father worked as aviation engineer, etc.), but still no date. However, maybe the user expects me to use known facts even if they aren't in the context? Wait, the instruction says to use only the information from the context. But the context doesn't have Armstrong's birth date. Hmm, this is confusing. \n\nWait, maybe I need to infer from the context. Wait, the context mentions \"Neil Armstrong was born...\" but no date. The only birth date given is for da Vinci. So if the question is comparing Armstrong and da Vinci, but only da Vinci's date is provided, how can we determine which is second earliest? Unless there's an implicit assumption that Armstrong's birth date is known from the context. Wait, maybe I missed a part of the context. Let me check again.\n\nLooking at the context again:\n\n\"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio, and was the eldest of three siblings, and showed an early interest in aviation and space exploration.\"\n\nThen later, same line again: \"Armstrong was born...\" but again, no date. The only birth date mentioned is for Leonardo da Vinci: April",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.008528784648187633,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she was able to complete her education while pursuing her music career, and has faced controversies including public feuds with other celebrities and criticism over her political statements, and Mark Zuckerberg?",
+    "llm_answer": "Taylor Swift's birthdate (December 13, 1989) is the second earliest, as Mark Zuckerberg was born earlier on May 14, 1984.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.17391304347826084,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who attended Hendersonville High School and was involved in various extracurricular activities, and comes from a family with a strong musical background, as her grandmother was a professional opera singer, Elon Musk and Lionel Messi?",
+    "llm_answer": "Elon Musk was born on June 28, 1971, making his birthdate the earliest among the three.",
+    "ground_truth": "Elon Musk",
+    "f1": 0.2222222222222222,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who was born to a wealthy family with a real estate developer father and a Scottish immigrant mother, and has been involved in numerous controversies including his comments on immigration and his impeachment trials, Maya Angelou and Ai Weiwei and Bruce Lee?",
+    "llm_answer": "Bruce Lee's birthdate (November 27, 1940) is the second earliest among the four, following Maya Angelou (April 4, 1928).",
+    "ground_truth": "Bruce Lee",
+    "f1": 0.18181818181818182,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has also ventured into music and production, and who comes from a family with a mixed heritage including Cherokee, Irish, and German roots, and Emma Watson?",
+    "llm_answer": "<think>\nOkay, let's tackle this question. So, the user is asking who has the second earliest birthdate between Johnny Depp and Emma Watson. \n\nFirst, I need to check the context provided. From the context, Johnny Depp was born on June 9, 1963. Emma Watson's birthplace is mentioned as Paris, with a French mother and British father, but her birthdate isn't explicitly stated here. Wait, the question mentions Emma Watson's birthdate? Let me check again.\n\nLooking back at the context: The context says Emma Watson was born in Paris, but the actual birthdate isn't given. Hmm, but the user's question includes Emma Watson's birthdate? Wait, no. Wait, the user's question is phrased as \"Who's born date is the second earliest...\" between Johnny Depp and Emma Watson. But the context only provides Johnny Depp's birthdate as June 9, 1963. Emma Watson's birthdate isn't mentioned here. \n\nWait, maybe the user expects me to know Emma Watson's birthdate from general knowledge, but the instructions say to use only the information from the context. Since the context doesn't mention Emma Watson's birthdate, how can I compare? Unless there's a mistake here. Wait, maybe I missed something. Let me check again.\n\nThe context says Emma Watson was born in Paris to a French mother and British father, spent much of her childhood in England, involved in controversies... but no birthdate. The user's question is asking about the second earliest birthdate between Johnny Depp and Emma Watson. But if the context doesn't have Emma Watson's birthdate, how can I answer this? \n\nWait, maybe the user made a mistake in the context? Let me check again. The context provided includes Johnny Depp's birthdate as June 9, 1963. Emma Watson's birthdate isn't given here. So according to the context, we can't determine Emma Watson's birthdate. But the question is phrased as if there is an answer. Maybe the user expects me to use external knowledge despite the instructions? But the instructions say to use only the context. \n\nWait, perhaps there's a typo in the context? Let me check again. The context mentions Emma Watson was born in Paris... but no date. The user's question might have a mistake, but assuming the context is correct, there's no way to determine Emma Watson's birthdate. Therefore, the answer can't be determined based on the given context. But the user is expecting an answer. Maybe I'm missing something. \n\nWait, maybe the user intended to include Emma Watson's birthdate in the context but forgot. Alternatively, perhaps the user is testing if I notice that the context doesn't have enough information. However, given the instructions to use only the context, the answer would be that there's insufficient data.",
+    "ground_truth": "Emma Watson",
+    "f1": 0.008368200836820083,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and his business practices, and comes from a family with a real estate background, as his father was a prominent real estate developer, Neil deGrasse Tyson and Ai Weiwei?",
+    "llm_answer": "Donald Trump's birthdate (June 14, 1946) is the earliest among the three.",
+    "ground_truth": "Donald Trump",
+    "f1": 0.2666666666666667,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family and attended military school, and has been involved in numerous controversies throughout his career, including his business practices and political statements, and Mark Zuckerberg?",
+    "llm_answer": "Mark Zuckerberg's birthdate (May 14, 1984) is the second earliest after Donald Trump's (June 14, 1946).",
+    "ground_truth": "Mark Zuckerberg",
+    "f1": 0.19999999999999998,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and comes from a family with a strong interest in the arts, as her mother was a mutual fund marketing executive and her father was a stockbroker, Leonardo da Vinci and Bruce Lee?",
+    "llm_answer": "<think>\nOkay, let's tackle this question. The user is asking who has the last earliest birthdate among Taylor Swift, Leonardo da Vinci, and Bruce Lee. First, I need to extract each person's birthdate from the context provided.\n\nStarting with Taylor Swift. The context mentions she was born on December 13, 1989. There's also a repeated part about her parents, but the birthdate is clear. \n\nNext, Leonardo da Vinci's birthdate is given as April 15, 1452. That's much earlier than Taylor Swift's. \n\nThen Bruce Lee was born on November 27, 1940. Comparing all three dates: 1452 (Leonardo) is the earliest, then Bruce Lee in 1940, and Taylor Swift in 1989. The question asks for the \"last earliest,\" which I think means the most recent of the earliest ones. Wait, maybe the question is phrased as \"last earliest\" meaning the latest one that's still the earliest among them? Hmm, perhaps it's a typo and they mean the latest birthdate (i.e., the most recent). But the way it's phrased is confusing. Alternatively, maybe they're asking who was born last in the sequence of earliest to latest. Let me parse the question again: \"Who's born date is the last earliest...\" Maybe it's supposed to be \"latest earliest,\" but perhaps it's a mistake and they mean the latest (most recent) among the three. \n\nAssuming that, the latest birthdate would be Taylor Swift's 1989, then Bruce Lee's 1940, then Leonardo's 1452. Wait, no, Bruce Lee was born in 1940, which is later than Leonardo's 1452 but earlier than Taylor's 1989. So the order from earliest to latest is Leonardo (1452), Bruce Lee (1940), Taylor Swift (1989). The \"last earliest\" would be the most recent of the earliest ones. So the answer would be Taylor Swift, as her birthdate is the latest among the three. But let me check again. The question is phrased as \"last earliest,\" which might be a way of asking who was born last when considering their birthdates in order. So if we list them in order from earliest to latest, the last one would be Taylor Swift. So the answer is Taylor Swift. Wait, but the options are Taylor Swift, Leonardo da Vinci, and Bruce Lee. Let me confirm the dates again:\n\nLeonardo da Vinci: April 15, 1452\n\nBruce Lee: November 27, 1940\n\nTaylor Swift: December 13, 1989\n\nSo the order is Leonardo first",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.009685230024213076,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who served as the President of Russia and has held various positions in the government since the 1990s, and is known for his strongman image and controversial policies, and who comes from a working-class family in Leningrad, now St. Petersburg, Leonardo DiCaprio and Rihanna?",
+    "llm_answer": "Rihanna's birthdate (February 20, 1988) is the latest among the three.",
+    "ground_truth": "Rihanna",
+    "f1": 0.15384615384615385,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who faced controversies during his career, including the intense scrutiny of his actions during the Apollo 11 mission and the public's fascination with his personal life, and who had an early life marked by a passion for aviation and a strong sense of responsibility instilled by his family, and Kylian Mbappe?",
+    "llm_answer": "Kylian Mbappé's birthdate (December 20, 1998) is the most recent among the two, making it the \"last earliest.\"",
+    "ground_truth": "Kylian Mbappe",
+    "f1": 0.09523809523809525,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and his business practices, and he attended the New York Military Academy before transferring to Fordham University and later graduating from the Wharton School of the University of Pennsylvania, David Bowie and Neil deGrasse Tyson?",
+    "llm_answer": "The birth dates are Donald Trump (June 14, 1946), David Bowie (January 8, 1947), and Neil",
+    "ground_truth": "Neil deGrasse Tyson",
+    "f1": 0.10526315789473684,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has faced numerous controversies including highly publicized legal battles and allegations of domestic abuse, and Thomas Edison?",
+    "llm_answer": "Johnny Depp's birthdate (June 9, 1963) is the second earliest, as Thomas Edison was born earlier on February 11, 1847.",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.17391304347826084,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who was born into a wealthy family with a real estate developer father and a Scottish mother, and he later took over his father's business, expanding it into various sectors including hotels, casinos, and golf courses, and Kamala Harris?",
+    "llm_answer": "Donald Trump's birth date (June 14, 1946) is the earliest compared to Kamala Harris's (October 20, 1964).",
+    "ground_truth": "Donald Trump",
+    "f1": 0.1904761904761905,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging family dynamic with his mother, who was a waitress and often struggled with her own issues, Thomas Edison and David Bowie?",
+    "llm_answer": "Thomas Edison's birth date (February 11, 1847) is the earliest among the three.",
+    "ground_truth": "Thomas Edison",
+    "f1": 0.25,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Neil Armstrong, who faced controversies regarding the authenticity of the moon landing and was known for his private nature about his family life, including his marriage to Janet Shearon and their three children, Rihanna and Ai Weiwei?",
+    "llm_answer": "Neil Armstrong's birth date of August 5, 1930, is the earliest among the three.",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.23529411764705882,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging childhood that included his parents' divorce, and he dropped out of high school at the age of 15 to pursue a career in music before eventually finding success in acting, Leonardo DiCaprio and Lady Gaga?",
+    "llm_answer": "Johnny Depp's birthdate is the earliest among the three, as he was born on June 9, 1963, compared to Leonardo DiCaprio (November 11, 1974) and Lady Gaga (March 28, 1986).",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.12121212121212122,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and later became involved in the KGB, and Chris Hemsworth?",
+    "llm_answer": "Vladimir Putin's birthdate (October 7, 1952) is the earliest compared to Chris Hemsworth's (August 11, 1983).",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.19999999999999998,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who was born in Queens, New York City, and grew up in a wealthy family, attending the Kew-Forest School before transferring to the New York Military Academy, John Legend and Rihanna?",
+    "llm_answer": "Donald Trump's birthdate (June 14, 1946) is the earliest among the three.",
+    "ground_truth": "Rihanna",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who served as a KGB officer before entering politics and has held various positions in the Russian government, including Prime Minister and President, and graduated from Leningrad State University with a law degree, Leonardo DiCaprio and Kylian Mbappe and Will Smith?",
+    "llm_answer": "Vladimir Putin's birthdate (October 7, 1952) is the earliest among the listed individuals.",
+    "ground_truth": "Kylian Mbappe",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who was born to a working-class family in Leningrad, where his father was a conscript in the Soviet Navy and his mother was a factory worker, and he grew up in a communal apartment, Neil deGrasse Tyson and Lionel Messi?",
+    "llm_answer": "Vladimir Putin was born earliest on October 7, 1952, followed by Neil deGrasse Tyson on October 5, 1958, and Lionel Messi on June 24, 1987. The earliest birthdate is Vladimir Putin's.",
+    "ground_truth": "Lionel Messi",
+    "f1": 0.11764705882352941,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed a passion for music at a young age and began performing in local talent shows, and Thomas Edison?",
+    "llm_answer": "Taylor Swift's birth date (December 13, 1989) is the latest (most recent) compared to Thomas Edison's (February 11, 1847).",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.17391304347826084,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was born in Wapakoneta, Ohio, and grew up in a family that valued education and hard work, with his father being a state auditor and his mother a homemaker, Will Smith and Lady Gaga?",
+    "llm_answer": "<think>\nOkay, let's tackle this question step by step. The user is asking for the second earliest birth date among Neil Armstrong, Will Smith, and Lady Gaga. First, I need to gather each person's birth dates from the provided context.\n\nStarting with Neil Armstrong: The context mentions he was born in Wapakoneta, Ohio, but doesn't specify the date. Wait, looking back, the first mention of Armstrong says he was born to a middle-class family in Wapakoneta, Ohio, but the exact date isn't given here. Wait, the user's question includes details about Armstrong's background, but maybe the actual birth date is elsewhere. Let me check again. Oh, the context actually doesn't state Neil Armstrong's birth date at all. Hmm, that's a problem because the question is about birth dates. Wait, maybe I missed it. Let me scan through the context again.\n\nLooking through the context: The first part says Neil Armstrong was born in Wapakoneta, Ohio, but no date. Then Will Smith's birth date is given as September 25, 1968. Lady Gaga's birth date is March 28, 1986. Swift's birth date is December 13, 1989, but Swift isn't part of the question. So the three people in question are Armstrong, Will Smith, and Lady Gaga. But Armstrong's birth date isn't provided in the context. Wait, the user's question includes additional info about Armstrong's family, but maybe the actual birth date is missing. How can I answer this without Armstrong's birth date?\n\nWait, maybe there's a mistake here. Let me check again. The context mentions Neil Armstrong being born in Wapakoneta, Ohio, but no date. Then Will Smith's birth date is September 25, 1968. Lady Gaga's is March 28, 1986. So if Armstrong's date isn't given, how can we determine the second earliest? Unless the question assumes that Armstrong's birth date is known from general knowledge, but the user specified to use only the context. Hmm. Wait, maybe the user made a mistake in the context. Let me check again. Oh, wait, the first paragraph mentions Neil Armstrong's birth in Wapakoneta, Ohio, but the date isn't there. The rest of the context mentions Will Smith's birth date as September 25, 1968, Lady Gaga's March 28, 1986, and Swift's December 13, 1989. So Armstrong's birth date isn't provided in the context. That's an issue. How can we answer the question without Armstrong's birth date? Unless there's a typo or oversight in the context. Wait, maybe the user intended to include Armstrong's birth date but forgot. Alternatively,",
+    "ground_truth": "Will Smith",
+    "f1": 0.008869179600886918,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who began his career in the early 1980s with a role in the television series \"21 Jump Street\" and has since become a prominent actor known for his versatility in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and Nelson Mandela,  and Bruce Lee and Greta Thunberg?",
+    "llm_answer": "The last earliest birthdate is",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Emma Watson, who attended Brown University, where she graduated with a degree in English literature, and has been involved in controversies regarding her advocacy for gender equality, particularly after her speech at the United Nations for the HeForShe campaign, Leonardo DiCaprio and William Shakespeare?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking whose birthdate is the last earliest among Emma Watson, Leonardo DiCaprio, and William Shakespeare. Wait, \"last earliest\" probably means the most recent earliest birthdate, right? Like the latest one among the earliest ones.\n\nFirst, I need to find the birth dates of each person. From the context provided:\n\nEmma Watson was born in Paris, but the exact date isn't given here. Wait, the context mentions her birthplace and parents but not her birth date. Hmm, but the user said to use only the information from the context. So maybe Emma Watson's birth date isn't in the context? Wait, the context says \"On 11 January 2020,\" but that seems like an event related to DiCaprio. Let me check again.\n\nLooking back: The context says Leonardo DiCaprio was born on November 11, 1974. William Shakespeare was born on April 23, 1564. Emma Watson's birth date isn't mentioned in the provided context. Wait, the question mentions Emma Watson attending Brown University and graduating with a degree in English literature, but the context provided doesn't include her birth date. However, the initial part says she was born in Paris to a French mother and British father. But the actual birth date isn't specified here. So maybe there's an error here? Or perhaps the user expects me to proceed with the information given.\n\nWait, the question includes Emma Watson's details like attending Brown University, but the context given doesn't have her birth date. But the user wants me to use only the context provided. So if Emma Watson's birth date isn't mentioned, how can I answer? Wait, maybe I missed it. Let me check again.\n\nThe context starts with Emma Watson born in Paris... but no specific date. Then it mentions Leonardo DiCaprio's birth date as November 11, 1974. William Shakespeare's birth date is April 23, 1564. So Emma Watson's birth date isn't given here. But the question is part of the context. Wait, the question mentions Emma Watson's details that aren't in the context. Wait, the question says \"Emma Watson, who attended Brown University...\" but the context doesn't mention Brown University. So perhaps the question is adding extra info not in the context. But the user says to answer using only the context provided.\n\nWait, the user's instruction says to answer using only the information from the context given. So if Emma Watson's birth date isn't in the context, then perhaps the answer can't be determined? But that's not possible. Wait, maybe the user expects me to infer based on the given dates. Wait, maybe Emma Watson's birth date is not in the context, so perhaps the answer is between DiCaprio and Shakespeare. But the question asks among Emma Watson",
+    "ground_truth": "Emma Watson",
+    "f1": 0.008298755186721992,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who attended Blume High School and was a member of the school band, and developed a passion for aviation at a young age, Greta Thunberg and Pharrell Williams and Neil deGrasse Tyson?",
+    "llm_answer": "The second earliest birthdate is Neil deGrasse Tyson (October 5, 1958).",
+    "ground_truth": "Neil deGrasse Tyson",
+    "f1": 0.42857142857142855,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and has faced controversies including public feuds with other celebrities and criticism over her songwriting, Chris Hemsworth and Shakira?",
+    "llm_answer": "Shakira was born on February 2, 1977, making her the earliest among the three.",
+    "ground_truth": "Shakira",
+    "f1": 0.13333333333333333,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who dropped out of high school at the age of 15 to pursue a career in music and comes from a family with a diverse background, including a father who was a civil engineer and a mother who was a waitress, Mark Zuckerberg and John Legend?",
+    "llm_answer": "Johnny Depp was born on June 9, 1963, which is the earliest among the three.",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.23529411764705882,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and is best known for being the first person to walk on the moon during the Apollo 11 mission, and he was born to a middle-class family in Wapakoneta, Ohio, Martin Luther King Jr. and Pharrell Williams?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking who has the second earliest birthdate among Neil Armstrong, Martin Luther King Jr., and Pharrell Williams.\n\nFirst, I need to find each person's birthdate from the context provided. Let me check each one.\n\nNeil Armstrong: The context says he was born to a middle-class family in Wapakoneta, Ohio. Wait, the exact birthdate isn't mentioned here. Hmm. Wait, maybe I missed it. Let me check again. The context mentions Neil Armstrong's family and early interest in aviation but doesn't state his birthdate directly. Oh, wait, maybe I need to recall general knowledge since the context might not have it. Wait, the user said to use only the information from the context. So if the context doesn't have his birthdate, I can't use it? Wait, the user provided the context, so maybe I should check again. Let me look again. \n\nLooking at the context again: The first part says \"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio...\" but does it mention the date? Wait, no. The next part about Martin Luther King Jr. says he was born on January 15, 1929. Then Pharrell Williams's birthdate is given as April 5, 1973. \n\nWait, Neil Armstrong's birthdate isn't provided in the context. Oh, but the user included him in the question. That's a problem. Wait, maybe I missed it. Let me check again. The context starts with Neil Armstrong being born in Wapakoneta, Ohio, but there's no date. The rest of the context mentions MLK's birthdate as January 15, 1929, and Pharrell's as April 5, 1973. So if the context doesn't have Neil Armstrong's birthdate, how can we answer the question? Unless the user expects me to know Armstrong's birthdate from general knowledge despite the context not mentioning it. Wait, the user's instruction says to use only the information from the context. So if Armstrong's birthdate isn't in the context, I can't answer. But maybe there's a mistake here. Wait, maybe the context is incomplete. Let me check again. \n\nLooking back: The context starts with Neil Armstrong's birthplace and siblings but no date. Then MLK's birthdate is given. Then Pharrell's. So perhaps the user expects me to infer Armstrong's birthdate from external knowledge, but the instructions say to use only the context. Hmm. This is confusing. Wait, maybe the user made an error in omitting Armstrong's birthdate. Alternatively, perhaps the original context had Armstrong's birthdate but it's cut off. Let me check again. The context says \"Armstrong was born\" but then the sentence is cut off. Oh",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.0087527352297593,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Taylor Swift, who began her education at a young age, attending preschool and later moving to a public school, where she was involved in various activities including musical theater, Chris Hemsworth and Albert Einstein and Thomas Edison?",
+    "llm_answer": "The second earliest birthdate is Albert Einstein (March 14, 1879).",
+    "ground_truth": "Albert Einstein",
+    "f1": 0.33333333333333337,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who is a controversial figure known for his polarizing political views and numerous legal disputes, and has had a career that spans real estate, television, and politics, including serving as the 45th President of the United States, Will Ferrell and David Bowie?",
+    "llm_answer": "Donald Trump's birthdate (June 14, 1946) is the earliest among the three.",
+    "ground_truth": "Donald Trump",
+    "f1": 0.2666666666666667,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who has been involved in various controversies, including public feuds with other celebrities and criticism over her political statements, and who comes from a family with a strong background in finance and has a close relationship with her parents, and Stephen Jobs?",
+    "llm_answer": "Stephen Jobs was born first on February 24, 1955, earlier than Taylor Swift's birthdate of December 13, 1989.",
+    "ground_truth": "Stephen Jobs",
+    "f1": 0.1904761904761905,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and later pursued a career in the KGB before entering politics, where he served as the President and Prime Minister of Russia, Albert Einstein and Natalie Portman and Martin Luther King Jr.?",
+    "llm_answer": "Albert Einstein's birthdate (March 14, 1879) is the earliest among the listed individuals.",
+    "ground_truth": "Natalie Portman",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which was a challenging environment that shaped his character, Leonardo da Vinci and Lady Gaga and Albert Einstein?",
+    "llm_answer": "Albert Einstein's birth date (March 14, 1879) is the second earliest after Leonardo da Vinci's (April 15, 1452).",
+    "ground_truth": "Albert Einstein",
+    "f1": 0.18181818181818182,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and his mother's role as a waitress, and he comes from a family with a mix of English, Irish, and Cherokee ancestry, Leonardo DiCaprio and Pharrell Williams?",
+    "llm_answer": "Johnny Depp's birthdate (June 9, 1963) is the earliest among the three.",
+    "ground_truth": "Leonardo DiCaprio",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed an interest in music at a young age and began performing in local talent shows, and has faced controversies including public feuds with other celebrities and criticism over her political endorsements, Albert Einstein and Kamala Harris and Nelson Mandela?",
+    "llm_answer": "The latest birthdate among them is Taylor Swift, born on December 13, 1989.",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.2666666666666667,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which shaped his understanding of the world, Donald Trump and David Bowie?",
+    "llm_answer": "Donald Trump's birthdate is the earliest (June 14, 1946), followed by David Bowie (January 8, 1947), and Vladimir Putin (October 7, 1952).",
+    "ground_truth": "Donald Trump",
+    "f1": 0.16,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who dropped out of school at the age of 15 to pursue a career in music and later transitioned to acting, Leonardo DiCaprio and Marie Curie and Mark Zuckerberg?",
+    "llm_answer": "<think>\nOkay, let me try to figure this out. The question is asking who among Johnny Depp, Leonardo DiCaprio, Marie Curie, and Mark Zuckerberg was born earliest, but the wording says \"last earliest,\" which might be confusing. Wait, maybe it's a typo. Let me read it again.\n\nThe question says: \"Who's born date is the last earliest...\" Hmm. Maybe they mean the earliest birthdate among them? Or perhaps the latest? Wait, \"last earliest\" might be a mistake. Maybe they meant \"the earliest born date\"? Or perhaps \"the latest born date\"? Let me check the context first.\n\nLooking at the context provided:\n\nJohnny Depp was born on June 9, 1963.\n\nLeonardo DiCaprio was born on November 11, 1974.\n\nMarie Curie was born on November 7, 1867.\n\nMark Zuckerberg was born on May 14, 1984.\n\nSo the birthdates are:\n\nMarie Curie: 1867\n\nJohnny Depp: 1963\n\nLeonardo DiCaprio: 1974\n\nMark Zuckerberg: 1984\n\nSo the earliest is Marie Curie (1867), then Johnny Depp (1963), then DiCaprio (1974), then Zuckerberg (1984). \n\nThe question asks for \"the last earliest,\" which is confusing. If \"last\" refers to the most recent earliest, maybe it's the earliest among those born later? But that doesn't make sense. Alternatively, maybe it's a typo and they meant \"latest born date,\" which would be Zuckerberg. But the way it's phrased is unclear. However, given the options, perhaps the question is asking for the earliest birthdate among the four. If that's the case, Marie Curie was born first. But the question mentions \"last earliest,\" which might be a mistake. Alternatively, maybe they want the latest among the earliest? But I think the correct answer based on the earliest birthdate is Marie Curie. Let me check again.\n\nThe question is phrased as \"born date is the last earliest,\" which might be intended to mean the latest earliest date, but that's redundant. Alternatively, perhaps they meant the latest birthdate. If that's the case, Mark Zuckerberg is the latest. But given the context, the user might have intended to ask for the earliest birthdate. Let me confirm the dates again. Marie Curie was born in 1867, which is the earliest. So the answer should be Marie Curie. But the question mentions \"last earliest,\" which is confusing. Maybe it's a mistake and the correct question is \"Who's birth date is the earliest...\" So the answer would be Marie Curie. Alternatively, if \"last\" refers to the",
+    "ground_truth": "Mark Zuckerberg",
+    "f1": 0.00975609756097561,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who became a naval aviator and test pilot before joining NASA, where he made history as the first person to walk on the moon during the Apollo 11 mission, Kylian Mbappe and Priyanka Chopra Jonas?",
+    "llm_answer": "Priyanka Chopra Jonas's birth date (July 18, 1982) is the second earliest among the three.",
+    "ground_truth": "Priyanka Chopra Jonas",
+    "f1": 0.3157894736842105,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who faced controversies regarding his public persona and the intense scrutiny of his actions during the Apollo 11 mission, and he was born to a family with a strong Midwestern background, Will Smith and Neil deGrasse Tyson?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking who has the latest earliest birthdate among Neil Armstrong, Will Smith, and Neil deGrasse Tyson.\n\nFirst, I need to gather the birth dates from the context provided. Let me check each person one by one.\n\nStarting with Neil Armstrong: The context mentions he was born to a middle-class family in Wapakoneta, Ohio. Wait, does it state his birth date? Let me look again. The context says \"Armstrong was born\" but doesn't specify the date. Hmm, maybe I missed something. Wait, the user provided context might have incomplete info. Oh, the user's context might be incomplete because in the original prompt, maybe there was more text. Wait, looking back at the context given here: The user's context includes that Neil Armstrong was born to a middle-class family... but doesn't mention his birth date. However, the question mentions Neil Armstrong's birthdate as part of the question. Wait, no—the question is part of the user's input. Wait, the user is asking about the birth dates of Neil Armstrong, Will Smith, and Neil deGrasse Tyson, based on the provided context. But in the context given here, Neil Armstrong's birth date isn't mentioned. Wait, let me check again.\n\nLooking at the context provided by the user:\n\n- \"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio...\" – no date here.\n\n- \"Will Smith's nationality is American. Will Smith was born on September 25, 1968.\"\n\n- \"Neil deGrasse Tyson's nationality is American. Neil deGrasse Tyson was born on October 05, 1958.\"\n\nSo the context only provides birth dates for Will Smith (Sep 25, 1968) and Neil deGrasse Tyson (Oct 5, 1958). Neil Armstrong's birth date isn't mentioned in the given context. However, the question mentions Neil Armstrong's birthdate as part of the question. Wait, the question says: \"Who's born date is the last earliest, among Neil Armstrong... and he was born to a family...\" So the question includes Neil Armstrong as part of the candidates, but the context doesn't have his birth date. But maybe the user expects me to use external knowledge? Wait, the instructions say to answer using only the information from the context. Since the context doesn't mention Neil Armstrong's birth date, but the question includes him, perhaps there's a mistake here. Wait, maybe I missed something. Let me check again.\n\nWait, the context starts with \"Neil Armstrong was born to a middle-class family...\" but there's no date given. The rest of the context gives dates for Will Smith (Sep 25, 1968) and Neil deGrasse Tyson (Oct 5, 1958).",
+    "ground_truth": "Will Smith",
+    "f1": 0.008908685968819599,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who began his career in real estate at a young age, taking over his father's company and expanding it into a multi-billion dollar enterprise, and he attended Fordham University before transferring to the Wharton School of the University of Pennsylvania, where he earned a degree in economics, Bruno Mars and Nelson Mandela and Vincent van Gogh?",
+    "llm_answer": "The second earliest birthdate is Nelson Mandela (July 18, 1918), following Vincent van Gogh (March 30, 1853).",
+    "ground_truth": "Nelson Mandela",
+    "f1": 0.21052631578947367,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and he was born into a working-class family in Leningrad, Bruno Mars and Neil deGrasse Tyson?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking whose birth date is the earliest among Vladimir Putin, Bruno Mars, and Neil deGrasse Tyson. \n\nFirst, I need to extract the birth dates from the context provided. Let me go through each person's information.\n\nVladimir Putin was born on October 07, 1952. Bruno Mars was born on October 8, 1985. Neil deGrasse Tyson was born on October 05, 1958. \n\nSo the dates are:\n- Putin: 1952\n- Tyson: 1958\n- Bruno Mars: 1985\n\nComparing the years, 1952 is earlier than 1958, which is earlier than 1985. So the earliest birth date is Putin's, then Tyson, then Bruno Mars. \n\nBut wait, the question says \"the last earliest\" — maybe that's a typo and they mean the earliest? Or maybe they want the latest among the earliest? Hmm. Wait, \"last earliest\" might be confusing. Let me check the original question again.\n\nThe question says: \"Who's born date is the last earliest, among...\". Maybe \"last earliest\" is meant to ask for the most recent earliest date? Or perhaps it's a mistranslation and they meant the earliest among them. But given the way it's phrased, perhaps it's asking for the latest (i.e., most recent) birth date among the three. Wait, no—if it's the \"last earliest\", maybe it's a confusion between earliest and latest. Alternatively, maybe it's asking who was born earliest last? That doesn't make sense.\n\nWait, perhaps the user meant \"the earliest birth date\" among the three. Let me think again. The correct order is Putin (1952) is the earliest, then Tyson (1958), then Bruno Mars (1985). So the earliest is Putin. But the question says \"last earliest\"—maybe that's a mistake and they meant \"latest\" or \"most recent\". If it's asking for the latest birth date among the three, then Bruno Mars. But the way it's phrased is confusing. \n\nBut given the context, maybe the user intended to ask who was born earliest. Since Putin was born in 1952, which is the earliest year among the three, the answer should be Vladimir Putin. However, the question mentions \"last earliest\", which might be a typo. If \"last\" refers to the most recent, then Bruno Mars. But I need to check the exact wording again. \n\nOriginal question: \"Who's born date is the last earliest, among...\" Maybe \"last earliest\" is intended to mean the latest (i.e., most recent) among the earliest dates. Wait, that doesn't make sense.",
+    "ground_truth": "Bruno Mars",
+    "f1": 0.009569377990430623,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who faced controversies regarding his reserved personality and the intense scrutiny of his actions during the Apollo 11 mission, and who had a humble early life growing up in Wapakoneta, Ohio, where he developed a passion for aviation at a young age, and Martin Luther King Jr.?",
+    "llm_answer": "<think>\nOkay, let's see. The question is asking whose birth date is the last earliest among Neil Armstrong and Martin Luther King Jr. So I need to figure out their birth dates and compare them.\n\nFirst, from the context provided: Neil Armstrong was born in Wapakoneta, Ohio. The context doesn't explicitly state his birth date, but maybe I can infer it. Wait, the user mentioned that Armstrong was born to a middle-class family and had three siblings. But the actual birth date isn't given here. Hmm. Wait, the context also mentions Martin Luther King Jr.'s birth date as January 15, 1929. \n\nWait, but the question mentions Neil Armstrong facing controversies regarding his reserved personality during Apollo 11. But the context given doesn't have his birth date. Wait, maybe I need to recall general knowledge? Wait, but the user said to use only the information from the context. Oh, but the context here doesn't mention Neil Armstrong's birth date. Wait, the original context says \"Armstrong was born\" but then cuts off. So maybe the user made a mistake in the context? Because the context provided here is incomplete. Wait, let me check again.\n\nLooking back: The context provided says \"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio... Armstrong was born Martin Luther King Jr.'s nationality is American. Martin Luther King Jr. was born on January 15, 1929...\" Wait, the original context seems to have a typo or error. It looks like the sentence is cut off. Let me parse it again:\n\nOriginal context lines:\n\n\"Neil Armstrong was born to a middle-class family in Wapakoneta, Ohio, and was the eldest of three siblings, and showed an early interest in aviation and space exploration. Ferrell has presented numerous times at theAcademy Awards. Armstrong was born Martin Luther King Jr.'s nationality is American. Martin Luther King Jr. was born onJanuary 15, 1929. and Alberta began dating in 1920, and married on November 25, 1926. Until Jennie's death in 1941, their home was on the second floor of Alberta's\"\n\nSo the part about Armstrong's birth is cut off. The sentence says \"Armstrong was born Martin Luther King Jr.'s nationality...\" which seems like a typo where the text jumps from Armstrong's birth to MLK's nationality. So the context actually doesn't provide Neil Armstrong's birth date. But the question refers to Armstrong's birth date as part of the context. Wait, but the user instruction says to use only the information from the context. So if the context doesn't have Armstrong's birth date, then how can we answer? Unless maybe there's a mistake here.\n\nWait, maybe the user intended to include Armstrong's birth date but",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.008565310492505352,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family and attended Fordham University before transferring to the Wharton School, and has been involved in numerous controversies throughout his career, including his comments on immigration and his business practices, Leonardo DiCaprio and Bruce Lee?",
+    "llm_answer": "Bruce Lee's birth date (November 27, 1940) is the earliest among the three.",
+    "ground_truth": "Leonardo DiCaprio",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and became involved in student politics, and William Shakespeare?",
+    "llm_answer": "The second earliest birthdate is Vladimir Putin, born on October 07, 1952.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.2857142857142857,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who is a businessman and television personality who became the 45th president of the United States, and has been involved in numerous controversies including allegations of racism, sexual misconduct, and the impeachment trials, and Greta Thunberg?",
+    "llm_answer": "Greta Thunberg's birth date (January 3, 2003) is the latest/last earliest compared to Donald Trump's (June 14, 1946).",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.17391304347826084,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed a passion for music at a young age and began performing in local talent shows, and has faced various controversies throughout her career, including public feuds with other artists and criticism over her dating life, Vladimir Putin and Oprah Winfrey?",
+    "llm_answer": "The second earliest birthdate is Oprah Winfrey (January 29, 1954).",
+    "ground_truth": "Oprah Winfrey",
+    "f1": 0.33333333333333337,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who grew up in Leningrad (now Saint Petersburg) in a communal apartment with his parents and grandparents, and his early life was marked by the hardships of World War II, as his father served in the Soviet Navy and his mother worked in a factory, and Nelson Mandela?",
+    "llm_answer": "The second earliest birthdate is Vladimir Putin's, born on October 7, 1952, following Nelson Mandela's earlier birth on July 18, 1918.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.16,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who served as a KGB officer before entering politics, and later became the President of Russia, and Kamala Harris?",
+    "llm_answer": "Vladimir Putin's birthdate (October 7, 1952) is earlier than Kamala Harris's (October 20, 1964).",
+    "ground_truth": "Kamala Harris",
+    "f1": 0.2222222222222222,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Emma Watson, who was born to a lawyer father and a mother who is a former lawyer and has been involved in various controversies regarding her advocacy for gender equality and her role as a UN Women Goodwill Ambassador, Chris Hemsworth and Natalie Portman?",
+    "llm_answer": "<think>\nOkay, let's tackle this question. The user is asking who has the earliest birthdate among Emma Watson, Chris Hemsworth, and Natalie Portman.\n\nFirst, I need to recall the birth dates of these three actors. From the context provided, Emma Watson was born in Paris to a French mother and British father. But the context doesn't mention her exact birth date. However, I might need to rely on my existing knowledge since the context doesn't provide specific dates. Wait, the user said to use only the information from the context. But the context here doesn't have their birth dates. Hmm, maybe there's a mistake here. Wait, let me check again.\n\nLooking back at the context provided: The context mentions Emma Watson's birthplace and parents but not her birth date. The question is about birth dates. Since the context doesn't provide specific dates for any of the three, perhaps the answer isn't in the context. But the user instructed to use only the information from the context. Wait, maybe there's a typo or confusion. The context mentions \"Effigies of Thunberg,\" which might be irrelevant here. \n\nWait, the user might have intended to provide birth dates but forgot. Alternatively, perhaps there's an error in the question setup. Since the context doesn't include birth dates, I can't answer based solely on the given context. However, maybe the user expects me to proceed with general knowledge despite the instruction. But the instruction says to use only the context. Since the context doesn't have birth dates, I can't determine the answer. But maybe I misread the context. Let me check again.\n\nContext says Emma Watson was born in Paris, spent childhood in England. No date. Chris Hemsworth and Natalie Portman aren't mentioned in the context at all. So according to the given context, there's no information to answer the question. But perhaps the user expects me to answer based on real-world knowledge despite the instruction. But the instruction says to use only the context. Therefore, the answer would be that there's insufficient information in the context to determine the earliest birthdate. However, the user might have intended for me to answer using real-world knowledge, even if the context doesn't provide it. But strictly following the instructions, I should mention that the context doesn't have the necessary info. But the question is phrased as if the context does have the info. Maybe I missed something. Wait, the context mentions \"Effigies of Thunberg\"—maybe that's a mistake and supposed to be birth dates? Probably not. So the answer is that the context doesn't provide birth dates for any of them. Therefore, the question can't be answered with the given context. But the user might expect me to answer based on known facts. Let me proceed with that, but note that it's against the instruction. \n\nIn reality, Emma Watson was born April 15, 199",
+    "ground_truth": "Emma Watson",
+    "f1": 0.007952286282306162,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who served as a KGB officer before entering politics and became the President of Russia, Stephen Jobs and Priyanka Chopra Jonas and Natalie Portman?",
+    "llm_answer": "The second earliest birth date is Stephen Jobs, born on February 24, 1955.",
+    "ground_truth": "Stephen Jobs",
+    "f1": 0.2666666666666667,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging family dynamic, and he dropped out of high school at the age of 15 to pursue a career in music before eventually finding success in acting, Will Ferrell and David Bowie?",
+    "llm_answer": "David Bowie's birthdate (January 8, 1947) is the earliest among the three.",
+    "ground_truth": "Will Ferrell",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed a love for music at an early age and began performing in local talent shows, William Shakespeare and Shakira?",
+    "llm_answer": "William Shakespeare's birth date (April 23, 1564) is the earliest among the three.",
+    "ground_truth": "William Shakespeare",
+    "f1": 0.25,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who dropped out of high school at the age of 15 to pursue a music career and comes from a family with a diverse background, including a father who was a civil engineer and a mother who was a waitress, Will Smith and John Legend?",
+    "llm_answer": "Will Smith's birth date (September 25, 1968) is the second earliest after Johnny Depp's (June 9, 1963).",
+    "ground_truth": "Will Smith",
+    "f1": 0.1904761904761905,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who had a tumultuous early life marked by frequent relocations and a troubled family background, and has been involved in numerous controversies, including highly publicized legal battles and allegations of domestic violence, Chris Hemsworth and Oprah Winfrey?",
+    "llm_answer": "<think>\nOkay, let's tackle this question. The user is asking who has the last earliest birthdate among Johnny Depp, Chris Hemsworth, and Oprah Winfrey.\n\nFirst, I need to extract the birth dates from the context provided. \n\nLooking at the context:\n- Johnny Depp was born on June 9, 1963. It's mentioned twice, so that's clear.\n- Chris Hemsworth's birthdate is August 11, 1983.\n- Oprah Winfrey was born on January 29, 1954.\n\nNow, comparing the dates:\n- Oprah was born in 1954, which is the earliest year.\n- Johnny Depp was born in 1963, so next.\n- Chris Hemsworth is the latest with 1983.\n\nThe question asks for the \"last earliest,\" which probably means the most recent earliest date. Wait, maybe it's phrased as \"last earliest\" meaning the latest one among the earliest dates. Wait, no. The term \"last earliest\" might be confusing, but likely they want the earliest birthdate among the three. Since Oprah was born first (1954), her date is the earliest. But the question mentions Johnny Depp having a tumultuous early life, which might be a red herring here. The key is to compare the dates. So the earliest birthdate is Oprah's, then Johnny's, then Chris's. So the answer should be Oprah Winfrey because her birthdate is the earliest. Wait, the question says \"last earliest\"—maybe that's a typo and they meant \"latest earliest\"? Or perhaps they want the most recent one that's still considered early? Hmm. Wait, maybe the user is asking for the latest one among the earliest dates. Wait, no. Let me recheck the question. It says \"born date is the last earliest\"—probably a translation error or confusion. Maybe they mean the earliest birthdate. In that case, Oprah's is the earliest. But the way the question is phrased is confusing. Alternatively, if \"last earliest\" refers to the most recent earliest date, then Johnny Depp's would be after Oprah's but before Chris's. Wait, perhaps the question is asking who has the earliest birthdate among the three. If that's the case, Oprah was born first (1954), so her birthdate is the earliest. So the answer should be Oprah Winfrey. But the question mentions Johnny Depp's tumultuous background, maybe to trick us into thinking about him, but the actual dates are clear. Let me confirm again. The dates are Jan 29, 1954 (Oprah), June 9, 1963 (Johnny), August 11, 1983 (Chris). So the earliest is Oprah, then Johnny, then Chris. So the",
+    "ground_truth": "Chris Hemsworth",
+    "f1": 0.009569377990430623,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who has been a controversial figure due to his leadership style, allegations of election interference, and the annexation of Crimea, and has had a career that includes serving as a KGB officer, the Prime Minister of Russia, and the President of Russia, Chris Hemsworth and Priyanka Chopra Jonas?",
+    "llm_answer": "Vladimir Putin's birth date on October 7, 1952, is the earliest among the three.",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.23529411764705882,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and race, and has a family background that includes his father, Fred Trump, a successful real estate developer, and his children who have also taken on prominent roles in his business and political endeavors, Elon Musk and Malala Yousafzai and William Shakespeare?",
+    "llm_answer": "William Shakespeare's birthdate (April 23, 1564) is the earliest among the listed individuals.",
+    "ground_truth": "Malala Yousafzai",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which shaped his views on social issues, Shakira and Ai Weiwei?",
+    "llm_answer": "<think>\nOkay, let's tackle this question step by step. The user is asking for the earliest birth date among Vladimir Putin, Shakira, and Ai Weiwei. Let's start by gathering each person's birth date from the given context and any known information.\n\nFirst, the context provided mentions Ai Weiwei's birth date as August 28, 1957. That's straightforward. Now, for Vladimir Putin, the context says he graduated from Leningrad State University in 1975. I need to recall his birth date. From general knowledge, Putin was born on October 7, 1952. Since he graduated in 1975, that aligns with someone born in 1952. \n\nNext, Shakira's birth date isn't mentioned in the context provided. The context only talks about Ai Weiwei and Putin. However, the question includes Shakira, so I might need to rely on external knowledge here. Shakira, the Colombian singer, was born on February 18, 1977. Wait, but the user specified to use only the information from the context. Since the context doesn't mention Shakira's birth date, maybe there's a mistake here. Let me check again. The context provided doesn't include Shakira's birth date, so perhaps the user expects me to infer based on the given data or there's an oversight. Wait, no—the user's instruction says to use only the information from the context. But the context only provides Ai Weiwei's birth date and mentions Putin's graduation year. However, the question includes Shakira, whose birth date isn't in the context. This is a problem because without her birth date, I can't compare. But maybe there's an error in the question setup. Alternatively, perhaps the user expects me to use common knowledge despite the instruction. Wait, the user's instruction says to use only the information from the context. Since the context doesn't mention Shakira's birth date, perhaps she's not part of the comparison? Wait, no—the question is asking among Putin, Shakira, and Ai Weiwei. But the context only gives Ai Weiwei's birth date and Putin's graduation year. So maybe the user expects me to infer Putin's birth year from his graduation year. If Putin graduated in 1975 from university, assuming he was around 22-23 when he graduated, that would place his birth year around 1952-1953. Which matches the known fact of October 7, 1952. So using that, Putin's birth date is 1952. Ai Weiwei is 1957. Shakira's birth date isn't given, but maybe the user expects me to answer based on known info despite the context not mentioning her. But according to the user's instruction, I should only use the context",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.00881057268722467,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who was born to a wealthy family with a real estate developer father and a mother who was a Scottish immigrant, and he has had a controversial career as a businessman and television personality before becoming the 45th President of the United States, and William Shakespeare?",
+    "llm_answer": "Donald Trump's birth date (June 14, 1946) is the last earliest compared to William Shakespeare's (April 23, 1564).",
+    "ground_truth": "Donald Trump",
+    "f1": 0.18181818181818182,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who was born into a wealthy family with a real estate developer father and a Scottish immigrant mother, and has been involved in numerous controversies throughout his career, including his divisive rhetoric during the 2016 presidential campaign and his impeachment trials, Martin Luther King Jr. and Priyanka Chopra Jonas and Kamala Harris?",
+    "llm_answer": "Martin Luther King Jr. was born first on January 15, 1929.",
+    "ground_truth": "Martin Luther King Jr.",
+    "f1": 0.5333333333333333,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and later pursued a career in law and intelligence, serving as a KGB officer before entering politics and eventually becoming the President of Russia, David Bowie and Ai Weiwei and Bruce Lee?",
+    "llm_answer": "Bruce Lee's birth date (November 27, 1940) is the earliest among the listed individuals.",
+    "ground_truth": "Ai Weiwei",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and is best known for being the first person to walk on the moon during the Apollo 11 mission, and faced controversies regarding his modest demeanor and the public's perception of his achievements, William Shakespeare and Shakira?",
+    "llm_answer": "The second earliest birthdate is Neil Armstrong (August 5, 1930), following William Shakespeare (April 23, 1564).",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.2222222222222222,
+    "em": 0
+  }
+]

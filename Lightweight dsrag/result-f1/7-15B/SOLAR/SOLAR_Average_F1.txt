@@ -1,0 +1,3 @@
+Model Name: SOLAR
+Average F1: 0.1350
+Exact Match: 0.0000

@@ -27,3 +27,7 @@ Mistral-Nemo-12B-Instruct 해결 300 토큰 모두
 Qwen-3-14B-PostTrain 50 토큰 아직 해결 X
 
 Falcon-H1-7B-Instruct
+
+아마 양자화 때문에 대답을 못하는 문제~
+
+DeepSeek-R1 (deepseek-ai/DeepSeek-R1-Distill-Qwen-14B 추가하기

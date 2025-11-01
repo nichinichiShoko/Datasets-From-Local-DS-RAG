@@ -1,0 +1,3 @@
+Model Name: Phi-4-mini-4B-Reasoning
+Average F1: 0.1016
+Exact Match: 0.0000

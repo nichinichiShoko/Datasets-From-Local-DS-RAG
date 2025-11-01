@@ -1,0 +1,3 @@
+Model Name: Falcon-H1-7B-Instruct
+Average F1: 0.0000
+Exact Match: 0.0000

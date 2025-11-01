@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who has been a controversial figure due to allegations of election interference, human rights abuses, and the annexation of Crimea, and has had a career that includes serving as a KGB officer, the Prime Minister of Russia, and the President of Russia, Greta Thunberg and Neil deGrasse Tyson and Lady Gaga?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date of the person among Vladimir Putin, Greta Thunberg, and Neil deGrasse Tyson who was born earliest. The options are also mentioned, but the key is to compare their birth dates from the given context.\n\nFirst, let's list out the birth dates provided in the context:\n\n- Vladimir Putin: Born October 07, 1952",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.05633802816901409,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who began her career in country music at a young age, signing with Big Machine Records and releasing her self-titled debut album in 2006, and later transitioned to pop music with her album \"1989,\" and also attended Hendersonville High School in Tennessee before being homeschooled to accommodate her touring schedule, Johnny Depp and Oprah Winfrey?",
+    "llm_answer": "Johnny Depp",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was born in Wapakoneta, Ohio, and showed an early interest in aviation, earning his student pilot's license at the age of 16, and went on to have a distinguished career as a naval aviator, test pilot, and astronaut, famously becoming the first person to walk on the moon during the Apollo 11 mission, Emma Watson and Malala Yousafzai?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth dates of three people: Neil Armstrong, Emma Watson, and Malala Yousafzai, and determining who was born first. The key here is to look at the provided context for each individual's birth dates.\n\nStarting with Neil Armstrong: The context states he was born in Wapakoneta, Ohio. The exact year isn't given here, but since the question",
+    "ground_truth": "Emma Watson",
+    "f1": 0.05333333333333332,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who was involved in controversies regarding the portrayal of the Apollo 11 mission and faced criticism for his reserved public persona, and whose career as an astronaut included being the first person to walk on the moon, and Emma Watson?",
+    "llm_answer": "Neil Armstrong's birth date is the earliest among those mentioned. \n\n    Wait, but the question is asking who's born date is the last earliest (i.e., the earliest birth date is the earliest, so the last earliest would be the latest birth date? Wait, maybe the question is phrased as \"who's born date is the last earliest\" meaning the one with the earliest birth date? Because \"last earliest\" is a bit confusing. Let",
+    "ground_truth": "Emma Watson",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who attended Fordham University and later transferred to the Wharton School of the University of Pennsylvania, where he earned a degree in economics, and has had a career as a businessman, television personality, and politician, including serving as the 45th President of the United States, Johnny Depp and Bruce Lee?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the earliest birth date among Donald Trump, Johnny Depp, and Bruce Lee. The context provided gives their birth dates as follows:\n\n- Donald Trump was born on June 14, 1946.\n- Johnny Depp was born on June 9, 1963.\n- Bruce Lee was born on November 27, 1940.",
+    "ground_truth": "Bruce Lee",
+    "f1": 0.06557377049180328,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who has been involved in various controversies, including allegations of election interference and human rights abuses, and he attended Leningrad State University where he studied law, Elon Musk and Rihanna?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date of the earliest among three people: Vladimir Putin, someone involved in controversies (like election interference and human rights issues), and Elon Musk and Rihanna. Wait, actually, the question is a bit ambiguous. Let me parse it again.\n\nThe question is: \"Who's born date is the first earliest, among Vladimir Putin, who has been involved in various controversies... and",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.05128205128205127,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who has served as the President of Russia multiple times and was previously the Prime Minister, and has been involved in various controversies including allegations of election interference and human rights abuses, Will Smith and Shakira?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the second earliest among three people: Vladimir Putin (who has served as President of Russia multiple times, was Prime Minister before that, and has been involved in controversies), Will Smith (the actor), and Shakira (the singer). \n\nFirst, I need to recall the birth dates of each of these individuals based on the context provided. \n\nStarting with Vladimir Putin",
+    "ground_truth": "Will Smith",
+    "f1": 0.05063291139240507,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who was born in Reading, Pennsylvania, and raised in Wyomissing, Pennsylvania, where she developed a love for music at an early age, and comes from a family with a strong background in finance and the arts, Will Smith and Pharrell Williams?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the earliest among Taylor Swift, Will Smith, and Pharrell Williams. The options given are their birth dates, and we need to compare them.\n\nFirst, let's list out the birth dates provided:\n\n- Taylor Swift was born on December 13, 1889 (since she was born in 1889).\n- Will",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.05882352941176471,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who attended Purdue University on a Navy scholarship and later earned a degree in aeronautical engineering, and was involved in controversies such as the criticism he faced for his perceived aloofness and the intense scrutiny of his actions during the Apollo 11 mission, and Donald Trump?",
+    "llm_answer": "The answer is \\boxed{Donald Trump}",
+    "ground_truth": "Donald Trump",
+    "f1": 0.5,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to Wyomissing Area Junior/Senior High School, where she began pursuing a career in music at a young age, Vladimir Putin and John Legend?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the earliest among three people: Taylor Swift, Vladimir Putin, and John Legend. The context provided gives their birth dates and some details about their education.\n\nFirst, let's list out the birth dates given:\n\n- **Taylor Swift** was born on December 13, 1889 (Wait, hold on, the context says \"As a",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.05633802816901409,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family with a father who was a real estate developer and a mother who was a Scottish immigrant, Marie Curie and Oprah Winfrey and Martin Luther King Jr.?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the earliest birth date among Donald Trump, Marie Curie, Oprah Winfrey, and Martin Luther King Jr., based on the provided context. \n\nFirst, let's list out each person's birth dates as given:\n\n- **Donald Trump**: Born on June 14, 1946.\n- **Marie Curie**: Born on November 7,",
+    "ground_truth": "Marie Curie",
+    "f1": 0.06451612903225806,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging childhood that included his parents' divorce, and Marie Curie?",
+    "llm_answer": "The answer is \\boxed{Johnny Depp} because his birth date (June 9, 1963) is earlier than Marie Curie's (November 7, 1867). \n\nWait, but the question is asking for the second earliest among the two. Wait, the question says \"second earliest\". Hmm, the user's question might have a mistake here. Let me check again.\n\nWait the question says: \"",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.06557377049180328,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who grew up in Leningrad (now St. Petersburg) in a communal apartment and was the son of a factory foreman and a mother who worked as a homemaker, and David Bowie?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date of the second earliest among Vladimir Putin and David Bowie, given their parentage and early life details. \n\nFirst, let's note their birth dates from the context provided. \n\nVladimir Putin was born on October 07, 1952. David Bowie was born in 1947, specifically January 08, 19",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.06153846153846154,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Taylor Swift, who has faced various controversies throughout her career, including public feuds with other artists and criticism over her political statements, and she attended Hendersonville High School before transferring to the Aaron Academy, Donald Trump and Leonardo da Vinci and Leonardo DiCaprio?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the second earliest among four people: Taylor Swift, Donald Trump, Leonardo da Vinci, and Leonardo DiCaprio. The context provided gives their birth dates except for Leonardo da Vinci's father's name and some details about his family. Let me parse the information given:\n\nFirst, Taylor Swift's birth date is December 13, 1989",
+    "ground_truth": "Donald Trump",
+    "f1": 0.05333333333333332,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who attended Blume High School and later transferred to Purdue University, where he studied aeronautical engineering, and was born to a father who was a state legislator and a mother who was a homemaker, Maya Angelou and Lionel Messi?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the second earliest among three people: Neil Armstrong, Maya Angelou, and Lionel Messi. The options given are their birth dates, so I need to compare them.\n\nFirst, let me recall the birth dates provided in the context:\n\n- Neil Armstrong was born on August 5, 1930.\n- Maya Angelou was born on April",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.05555555555555556,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who began performing in local talent shows at a young age and later moved to Nashville at the age of 14 to pursue her music career, Lady Gaga and Pharrell Williams and Neil deGrasse Tyson?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the earliest among Taylor Swift, Lady Gaga, Pharrell Williams, and Neil deGrasse Tyson. The key details provided are their birth dates.\n\nFirst, let's list out each person's birth date:\n\n- **Taylor Swift**: Born December 13, 1989.\n- **Lady Gaga**: Born March",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.06451612903225806,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who has been involved in numerous controversies including highly publicized legal battles with ex-wife Amber Heard and allegations of substance abuse, and he dropped out of high school at the age of 16 to pursue a career in music before transitioning to acting, Lady Gaga and John Legend?",
+    "llm_answer": "Johnny Depp's birth date is earlier than both Lady Gaga and John Legend's, so the answer is \\boxed{Johnny Depp}\n\nWait, but the question is asking for the one born earliest among the three. Let me check the dates again.\n\nJohnny Depp: June 9, 1963\n\nLady Gaga: March 28, 1986\n\nJohn Legend: December",
+    "ground_truth": "John Legend",
+    "f1": 0.07017543859649122,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was the first person to walk on the moon during the Apollo 11 mission and faced controversies regarding the authenticity of the moon landing, Chris Hemsworth and Shakira?",
+    "llm_answer": "The answer is **Neil Armstrong**. \n\nWait, but let me check the context again. The question is asking for the second earliest born among the four? Wait no, the question says \"Who's born date is the second earliest, among Neil Armstrong, who was the first person to walk on the moon...\" Wait, the question is phrased a bit ambiguously. Let me parse it again.\n\nThe question is: \"Who's born date is",
+    "ground_truth": "Shakira",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Neil Armstrong, who was the eldest of three children in a family where his father was a state legislator and his mother was a homemaker, and he faced controversies during his career, including the intense scrutiny of his actions during the Apollo 11 mission and the subsequent public debate over the portrayal of his achievements, Chris Hemsworth and Kamala Harris?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date of the earliest among Neil Armstrong, Chris Hemsworth, and Kamala Harris, given certain conditions. The conditions are:\n\n1. Neil Armstrong was the eldest of three siblings. His parents were a state legislator father and a homemaker mother. He faced controversies during his Apollo 11 mission and public debates over his achievements.\n2. The other two names (Chris H",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.05194805194805195,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who faced controversies regarding the authenticity of the moon landing and was known for his reserved personality, and who came from a family with a strong aviation background, Shakira and Rihanna?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth dates of three people: Neil Armstrong, Shakira, and Rihanna, and determining who was born second earliest. The key here is to look at their birth dates provided in the context.\n\nFirst, let's list out each person's birth dates as mentioned:\n\n- **Neil Armstrong**: The context mentions he was born in Wapakoneta, Ohio.",
+    "ground_truth": "Shakira",
+    "f1": 0.02857142857142857,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who grew up in Leningrad during World War II, where his family faced hardships and he later became involved in the KGB, and has been a controversial figure due to his authoritarian leadership style and allegations of election interference, Will Ferrell and Natalie Portman?",
+    "llm_answer": "VladimirPutin",
+    "ground_truth": "Natalie Portman",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who was born in Leningrad (now Saint Petersburg) and grew up in a communal apartment, where he developed an interest in sports and martial arts, and later pursued a career in the KGB before entering politics, Thomas Edison and Natalie Portman?",
+    "llm_answer": "The answer is **Vladimir Putin**. \n\nWait, but the question is asking who among the three (Putin, Edison, Portman) has the earliest birth date. Let me check the dates again. \n\nWait the user's question is: \"Who's born date is the first earliest, among Vladimir Putin, who was born in Leningrad (now Saint Petersburg) and grew up in a communal apartment, where he developed an interest in",
+    "ground_truth": "Thomas Edison",
+    "f1": 0.02898550724637681,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Neil Armstrong, who faced controversies during his career, including the criticism of his handling of the Apollo 11 mission and the subsequent public scrutiny of his actions, and who attended Purdue University where he studied aeronautical engineering and was a member of the university's marching band, Will Smith and Albert Einstein and Mark Zuckerberg?",
+    "llm_answer": "Okay, let's tackle this question step byI need to figure out who is born first among Neil Armstrong, someone who had controversies like Apollo 11 criticism and was at Purdue University, and also compare with Will Smith, Albert Einstein, and Mark Zuckerberg in terms of birth dates.\n\nFirst, the question is asking for the earliest birth date among three people: Neil Armstrong (who had controversies), someone who went to Purdue University where he studied aeronautical engineering and was in",
+    "ground_truth": "Albert Einstein",
+    "f1": 0.04878048780487806,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who grew up in a communal apartment in Leningrad, where he was influenced by the hardships of post-war life and developed a strong interest in martial arts during his early years, Chris Hemsworth and Nelson Mandela and Vincent van Gogh?",
+    "llm_answer": "The answer is **Vladimir Putin's birth date**. \n\nWait, but let me check the context again. The question is asking for the second earliest among the three (Putin, Hemsworth, Mandela). Wait, the question says \"the second earliest among Vladimir Putin, who grew up...\", so the options are the three people: Putin, Hemsworth, Mandela. The question is asking who is the second earliest among them. Wait, the user",
+    "ground_truth": "Nelson Mandela",
+    "f1": 0.02898550724637681,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and became the first person to walk on the moon during the Apollo 11 mission, and he was born to a father who worked in the state government and a mother who was a homemaker, Emma Watson and Maya Angelou?",
+    "llm_answer": "Okay, let me try to figure this out. The question is asking for the birth dates of three people: Neil Armstrong, Emma Watson, and Maya Angelou, and determining who was born first. The context provided gives their birth dates except for Emma Watson's. Let me check again.\n\nNeil Armstrong was born on August 5, 1930. Maya Angelou was born on April 4, 1928. Emma Watson's birth",
+    "ground_truth": "Emma Watson",
+    "f1": 0.05714285714285715,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who is a highly successful singer-songwriter known for her narrative songwriting and has won numerous awards including multiple Grammy Awards, and she comes from a family with a strong interest in the arts, as her mother was a mutual fund marketing executive and her father was a stockbroker, Mark Zuckerberg and Greta Thunberg and Marie Curie?",
+    "llm_answer": "Okay, let me try to figure this out. The question is asking for the birth date that is the earliest among Taylor Swift, Mark Zuckerberg, Greta Thunberg, and Marie Curie. The context provided gives their birth dates. Let me check each one:\n\n- Taylor Swift was born on December 13, 1890 (Wait, wait, the context says she was born on December 13, 1989. Wait, the user'",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.059701492537313446,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and attended Leningrad State University where he studied law and graduated in 1975, Johnny Depp and David Bowie?",
+    "llm_answer": "The answer is **VladimirPutin**. \n\nWait, but let me check the context again. The question is asking who among the three (Putin, Depp, Bowie) has the earliest birth date. The context gives:\n\n- Vladimir Putin: born 1952 (October 7)\n- Johnny Depp: born 1963 (June 9)\n- David Bowie: born 1947 (January",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.07999999999999999,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who was born to a waitress mother and a civil engineer father, and grew up in a dysfunctional family that moved frequently, which influenced his early life and artistic pursuits, Vincent van Gogh and Greta Thunberg and William Shakespeare?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the earliest birth date among three people: Johnny Depp, Vincent van Gogh, Greta Thunberg, and William Shakespeare. The context provided gives their birth dates, so I need to compare those dates.\n\nFirst, let's list out the birth dates from the context:\n\n- Johnny Depp: Born June 9, 1963 (though the question mentions",
+    "ground_truth": "William Shakespeare",
+    "f1": 0.05882352941176471,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family and attended the New York Military Academy, and has been involved in numerous controversies throughout his career, including his business practices and political statements, Johnny Depp and William Shakespeare and Bruno Mars?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question asks for the birth dates of three people: Donald Trump, Johnny Depp, and William Shakespeare, and determines who was born first. The context provided gives their birth dates, so I need to compare them.\n\nFirst, looking at the context:\n\n- Donald Trump was born on June 14, 1946.\n- Johnny Depp was born on June 9, 1",
+    "ground_truth": "Donald Trump",
+    "f1": 0.05882352941176471,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who had a tumultuous early life marked by frequent relocations and a troubled family background, and has been involved in various controversies including highly publicized legal battles and allegations of domestic violence, Chris Hemsworth and Elon Musk and Leonardo DiCaprio?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth dates of three people: Johnny Depp, Chris Hemsworth, and Elon Musk, and determining who was born first among them. The context provided gives their nationalities and some details about their lives.\n\nFirst, let's list out the birth dates from the context:\n\n- Johnny Depp was born on June 9, 1963.\n- Chris",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.05797101449275362,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who had a tumultuous early life marked by frequent relocations and a troubled family background, and has been involved in numerous controversies including highly publicized legal battles and allegations of domestic violence, and Will Ferrell?",
+    "llm_answer": "The answer is \\boxed{Johnny Depp} because his birth date (June 9, 1963) is earlier than Will Ferrell's (July 16, 1967). \n\nWait, but the question is asking for the earliest born among the two. Since Depp was born in 1963 and Ferrell in 1967, Depp is older. So the answer should be Depp",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.07142857142857142,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who was born to a waitress mother and a civil engineer father, and grew up in a dysfunctional family that moved frequently, which influenced his early life and artistic expression, Greta Thunberg and Priyanka Chopra Jonas?",
+    "llm_answer": "Johnny Depp's birth date is June 9, 1963. Greta Thunberg was born January 03, 2003. Priyanka Chopra Jonas was born July 18, 1982. The earliest birth dates are Depp (1963), Thunberg (2003), then Jonas (1982). So the earliest is Depp. \n\nWait,",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.0909090909090909,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who has been involved in various controversies, including allegations of election interference and human rights abuses, and who attended Leningrad State University where he studied law, Will Ferrell and John Legend?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date of the earliest among three people: Vladimir Putin, Will Ferrell, and John Legend. The context provided gives their nationalities, birth dates, and some details about their lives. \n\nFirst, let's list out the birth dates from the context:\n\n- Vladimir Putin was born on October 07, 1952. Wait, the context actually says",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.05714285714285715,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has also ventured into music and production, and who comes from a family with a diverse background, including a mother who was a waitress and a father who was a civil engineer, Ai Weiwei and Pharrell Williams?",
+    "llm_answer": "<thought>\nOkay, let's tackle this question. The user is asking for the birth dates of three people: Johnny Depp, Ai Weiwei, and Pharrell Williams. The question is asking who was born first, so we need to compare their birth dates.\n\nFirst, let's note the given information from the context provided. \n\nJohnny Depp was born on June 9, 1963. That's straightforward from the",
+    "ground_truth": "Pharrell Williams",
+    "f1": 0.059701492537313446,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and comes from a family with a strong interest in the arts, as her mother was a former mutual fund marketing executive and her father was a stockbroker, Greta Thunberg and Pharrell Williams and Bruce Lee?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the earliest birth date among three people: Taylor Swift, Greta Thunberg, and Pharrell Williams. The context provided gives their birth dates and some family information. Let me parse the details again to make sure I don't miss anything.\n\nFirst, Taylor Swift's birth date is given as December 13, 1989. The question mentions she attended Henderson High",
+    "ground_truth": "Bruce Lee",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and race, and attended the New York Military Academy before transferring to Fordham University and later graduating from the Wharton School of the University of Pennsylvania, Emma Watson and Lady Gaga?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the second earliest among Donald Trump, Emma Watson, and Lady Gaga. The key points from the context provided are:\n\n- Donald Trump was born on June 14, 1946.\n- Emma Watson's birth date isn't explicitly given here, but since the context mentions her birth country and some controversies, but the specific date isn'",
+    "ground_truth": "Lady Gaga",
+    "f1": 0.05405405405405406,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who is a highly successful singer-songwriter known for her narrative songwriting and has won numerous awards including multiple Grammy Awards, and has been involved in various controversies such as her public feuds with other artists and her political activism, and Vincent van Gogh?",
+    "llm_answer": "Okay, let me see. The question is asking who between Taylor Swift and Vincent van Gogh has the earliest birth date. The context gives both their birth dates. Taylor Swift was born on December 13, 1889? Wait, wait, hold on. Wait the context says: \"Taylor Swift was born on December 13, 1989.\" Wait, but the user's context here might have a typo? Wait the user provided the",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.05714285714285715,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which was a challenging environment that shaped his character, and Marie Curie?",
+    "llm_answer": "The answer is **Marie Curie**. \n\nWait, but the question is asking who is born date is the second earliest among Vladimir Putin and Marie Curie. Wait, the question is a bit ambiguous. Let me read again.\n\nWait the question says: \"Who's born date is the second earliest, among Vladimir Putin, who attended Leningrad State University... and Marie Curie?\" So the options are between Putin and Marie Curie. The question is asking for the",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.052631578947368425,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was born in Wapakoneta, Ohio, and grew up in a family that valued education and hard work, with his father being a state auditor and his mother a homemaker, Vladimir Putin and Bob Marley?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the second earliest among three people: Neil Armstrong, Vladimir Putin, and Bob Marley. The context provided gives their birth dates, so I need to compare them.\n\nFirst, let's list out the birth dates from the context:\n\n- **Neil Armstrong** was born in Wapakoneta, Ohio. The exact date isn't provided in the context",
+    "ground_truth": "Bob Marley",
+    "f1": 0.05405405405405406,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was born to a middle-class family in Wapakoneta, Ohio, where his father worked as an aviation engineer and his mother was a homemaker, and developed a passion for flying at a young age, and Leonardo da Vinci?",
+    "llm_answer": "Leonardo da Vinci was born on April 15, 1452. Neil Armstrong was born in 1920. \n\n    So the answer is Leonardo da Vinci's birth date is earlier. \n\n    So the answer is: Leonardo da Vinci was born on April 15, 1452. Neil Armstrong was born in 1920. \n\n    Therefore, the earliest birth date is Leonardo da",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.07142857142857142,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she was able to complete her education while pursuing her music career, and has faced controversies including public feuds with other celebrities and criticism over her political statements, and Mark Zuckerberg?",
+    "llm_answer": "Taylor Swift was born on December 13, 1989, making her the youngest of the two individuals mentioned. Mark Zuckerberg was born on May 14, 1984. \n\n    Wait, but the question is asking for the second earliest born among the two. Since Taylor Swift is born in 1989 and Mark Zuckerberg in 1984, so the second earliest would be Mark Zuckerberg? Wait, but the question",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.06153846153846154,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who attended Hendersonville High School and was involved in various extracurricular activities, and comes from a family with a strong musical background, as her grandmother was a professional opera singer, Elon Musk and Lionel Messi?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the earliest among three individuals: Taylor Swift, someone who attended Henderson High School and had extracurricular activities, and a family with a strong musical background (since her grandmother was a professional opera singer). Also, we have Elon Musk and Lionel Messi mentioned, but their details might be there to possibly confuse or provide context.\n\nFirst, focusing on the key points for each",
+    "ground_truth": "Elon Musk",
+    "f1": 0.048192771084337345,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who was born to a wealthy family with a real estate developer father and a Scottish immigrant mother, and has been involved in numerous controversies including his comments on immigration and his impeachment trials, Maya Angelou and Ai Weiwei and Bruce Lee?",
+    "llm_answer": "Okay, let's tackle this question step by...\n\nOkay, let me start by breaking down the question. The user is asking for the birth dates of four people: Donald Trump, Maya Angelou, Ai Weiwei, and Bruce Lee, but with some specific details provided in the context. The key here is to find the earliest birth date among them based on the given information.\n\nFirst, let's list out each person's birth dates as mentioned in the",
+    "ground_truth": "Bruce Lee",
+    "f1": 0.05063291139240507,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has also ventured into music and production, and who comes from a family with a mixed heritage including Cherokee, Irish, and German roots, and Emma Watson?",
+    "llm_answer": "Johnny Depp's birth date is earlier than Emma Watson's. \n\n    Johnny Depp was born on June 9, 1963, while Emma Watson was born on May 29, 1979. \n\n    Johnny Depp's birth date is earlier than Emma Watson's. \n\n    Johnny Depp' his birth date is earlier than Emma Watson's.",
+    "ground_truth": "Emma Watson",
+    "f1": 0.07692307692307693,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and his business practices, and comes from a family with a real estate background, as his father was a prominent real estate developer, Neil deGrasse Tyson and Ai Weiwei?",
+    "llm_answer": "Okay, let me see. The question is asking for the earliest born date among Donald Trump, someone involved in controversies like immigration and business, and family with real estate background from Neil deGrasse Tyson and Ai Weiwei. Wait, actually, the question is a bit confusing. Let me parse it again.\n\nWait the question is: \"Who's born date is the first earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments",
+    "ground_truth": "Donald Trump",
+    "f1": 0.05,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family and attended military school, and has been involved in numerous controversies throughout his career, including his business practices and political statements, and Mark Zuckerberg?",
+    "llm_answer": "Donald Trump",
+    "ground_truth": "Mark Zuckerberg",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and comes from a family with a strong interest in the arts, as her mother was a mutual fund marketing executive and her father was a stockbroker, Leonardo da Vinci and Bruce Lee?",
+    "llm_answer": "The answer is \\boxed{Leonardo da Vinci}\n\n    Wait, but the question is about Taylor Swift and the other two names are mentioned in the context. The question is asking who among the three (Taylor Swift, Leonardo da Vinci, Bruce Lee) has the earliest birth date? The context mentions Taylor's family details, and the other two are Leonardo and Bruce. The question is asking who is born earliest among the three. Let me check the dates",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.05128205128205127,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who served as the President of Russia and has held various positions in the government since the 1990s, and is known for his strongman image and controversial policies, and who comes from a working-class family in Leningrad, now St. Petersburg, Leonardo DiCaprio and Rihanna?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth dates of two people: Vladimir Putin and Leonardo DiCaprio, specifically their birth dates, and comparing them to find out who was born first. The question also mentions other details about their backgrounds, but the key point here is the birth dates. \n\nFirst, looking at the context provided:\n\n- Vladimir Putin's birth date is given as October 07, 1",
+    "ground_truth": "Rihanna",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who faced controversies during his career, including the intense scrutiny of his actions during the Apollo 11 mission and the public's fascination with his personal life, and who had an early life marked by a passion for aviation and a strong sense of responsibility instilled by his family, and Kylian Mbappe?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the earliest between Neil Armstrong and Kylian Mbappe, considering their respective careers, controversies, and early lives related to aviation and responsibility. \n\nFirst, let's note their birth dates. From the context provided:\n\n- Neil Armstrong was born on August 5, 1930.\n- Kylian Mbappe was born on December",
+    "ground_truth": "Kylian Mbappe",
+    "f1": 0.059701492537313446,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and his business practices, and he attended the New York Military Academy before transferring to Fordham University and later graduating from the Wharton School of the University of Pennsylvania, David Bowie and Neil deGrasse Tyson?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the earliest among three people: Donald Trump, David Bowie, and Neil deGrasse Tyson. The context provided gives their birth dates, so I need to compare those.\n\nFirst, let's list out the birth dates from the context:\n\n- Donald Trump was born on June 14, 1946.\n- David Bowie was born on",
+    "ground_truth": "Neil deGrasse Tyson",
+    "f1": 0.08333333333333333,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has faced numerous controversies including highly publicized legal battles and allegations of domestic abuse, and Thomas Edison?",
+    "llm_answer": "Johnny Depp's birth date is earlier than Thomas Edison's.",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.3076923076923077,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who was born into a wealthy family with a real estate developer father and a Scottish mother, and he later took over his father's business, expanding it into various sectors including hotels, casinos, and golf courses, and Kamala Harris?",
+    "llm_answer": "Donald Trump",
+    "ground_truth": "Donald Trump",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging family dynamic with his mother, who was a waitress and often struggled with her own issues, Thomas Edison and David Bowie?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the earliest birth date among Johnny Depp, Thomas Edison, and David Bowie, focusing on their early lives, especially regarding their parents' occupations and family dynamics. \n\nFirst, let's note the birth dates provided in the context:\n\n- **Johnny Depp** was born on June 9, 1963. His father was a civil engineer who moved around a lot",
+    "ground_truth": "Thomas Edison",
+    "f1": 0.05633802816901409,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Neil Armstrong, who faced controversies regarding the authenticity of the moon landing and was known for his private nature about his family life, including his marriage to Janet Shearon and their three children, Rihanna and Ai Weiwei?",
+    "llm_answer": "Okay, let me see. The question is asking who among Neil Armstrong, Rihanna (who's related to Neil's children), and Ai Weiwei has the earliest birth date. The key here is to compare the birth dates of Neil Armstrong, Rihanna, and Ai Weiwei.\n\nFirst, Neil Armstrong was born on August 5, 1930. Rihanna's birth date isn' 질까re Zara Lavelo's",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.0625,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging childhood that included his parents' divorce, and he dropped out of high school at the age of 15 to pursue a career in music before eventually finding success in acting, Leonardo DiCaprio and Lady Gaga?",
+    "llm_answer": "Okay, let me try to figure this out. The question is asking who between Johnny Depp and Leonardo DiCaprio has the earliest birth date. The context provided gives both their birth dates. Let me check again. \n\nJohnny Depp was born on June 9, 1963. Leonardo DiCaprio was born on November 11, 1974. So comparing those two dates: June 1963 vs. November",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.06349206349206349,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and later became involved in the KGB, and Chris Hemsworth?",
+    "llm_answer": "The answer is **Vladimir Putin's birth date (October 07, 1952) is earlier than Chris Hemsworth's birth date (August 11, 1983).** \n\nWait, but the question is asking who is born first between the two, so the answer should be Vladimir Putin. But the user's answer was written as \"The answer is **Vladimir Putin's birth date...\",",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.06666666666666667,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who was born in Queens, New York City, and grew up in a wealthy family, attending the Kew-Forest School before transferring to the New York Military Academy, John Legend and Rihanna?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the earliest among Donald Trump, John Legend, and Rihanna, considering their details provided. \n\nFirst, let's list out the birth dates given:\n\n- Donald Trump was born on June 14, 1946.\n- John Legend was born on December 28, 1978.\n- Rihanna",
+    "ground_truth": "Rihanna",
+    "f1": 0.03389830508474576,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who served as a KGB officer before entering politics and has held various positions in the Russian government, including Prime Minister and President, and graduated from Leningrad State University with a law degree, Leonardo DiCaprio and Kylian Mbappe and Will Smith?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth dates of three people: Vladimir Putin, Leonardo DiCaprio, and Kylian Mbappe, specifically their birth dates. The question also mentions that these individuals are among those who served in the Russian government, including as a KGB officer and holding various positions like Prime Minister and President. Additionally, it mentions that Vladimir Putin graduated from Leningrad State University with a law degree. The answer needs",
+    "ground_truth": "Kylian Mbappe",
+    "f1": 0.04938271604938272,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who was born to a working-class family in Leningrad, where his father was a conscript in the Soviet Navy and his mother was a factory worker, and he grew up in a communal apartment, Neil deGrasse Tyson and Lionel Messi?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the earliest among Vladimir Putin, Lionel Messi, and Neil deGrasse Tyson, based on the information provided. The key here is to look at their birth dates from the context given.\n\nFirst, let's note down each person's birth date as mentioned:\n\n- **Vladimir Putin**: The context states he was born on October 07",
+    "ground_truth": "Lionel Messi",
+    "f1": 0.05405405405405406,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed a passion for music at a young age and began performing in local talent shows, and Thomas Edison?",
+    "llm_answer": "The answer is based on the information provided. Let's analyze the question step by step. The question asks for the birth date of the individual who was born earliest between Taylor Swift and Thomas Edison. The context provides their birth dates: Taylor Swift was born on December 13, 1889 (Wait, hold on, the original context says Taylor Swift was born on December 13, 1989. Wait, but the user's context here",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.05405405405405406,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was born in Wapakoneta, Ohio, and grew up in a family that valued education and hard work, with his father being a state auditor and his mother a homemaker, Will Smith and Lady Gaga?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the second earliest among Neil Armstrong, Will Smith, and Lady Gaga. \n\nFirst, let's list out the birth dates provided in the context:\n\n- Neil Armstrong was born in Wapakoneta, Ohio. The context mentions he was born to a middle-class family and his father was a state auditor, mother a homemaker. However, the",
+    "ground_truth": "Will Smith",
+    "f1": 0.05405405405405406,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who began his career in the early 1980s with a role in the television series \"21 Jump Street\" and has since become a prominent actor known for his versatility in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and Nelson Mandela,  and Bruce Lee and Greta Thunberg?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth dates of four people: Johnny Depp, Nelson Mandela, Bruce Lee, and Greta Thunberg, and determining who was born earliest among them. The answer needs to be concise, in one line, using only the information provided in the context.\n\nFirst, let's list out each person's birth dates as given in the context:\n\n- **Johnny",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.05555555555555556,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Emma Watson, who attended Brown University, where she graduated with a degree in English literature, and has been involved in controversies regarding her advocacy for gender equality, particularly after her speech at the United Nations for the HeForShe campaign, Leonardo DiCaprio and William Shakespeare?",
+    "llm_answer": "The answer is \\boxed{Leonardo DiCaprio}\n\nWait, but the question is asking for the person born earliest between Emma Watson and William Shakespeare? Wait, no, the question is phrased as \"Who's born date is the last earliest, among Emma Watson, who attended Brown University...\" Wait, the question is a bit confusing. Let me read again.\n\nThe question is asking: Among Emma Watson (who is one of the people mentioned),",
+    "ground_truth": "Emma Watson",
+    "f1": 0.05555555555555556,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who attended Blume High School and was a member of the school band, and developed a passion for aviation at a young age, Greta Thunberg and Pharrell Williams and Neil deGrasse Tyson?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth dates of three people: Neil Armstrong, Greta Thunberg, and Pharrell Williams, and determining who has the second earliest birth date among them. The options also mention Neil deGrasse Tyson, but the question specifically lists the three names in the comparison. Wait, actually, the question says \"among Neil Armstrong, [who is born date is the second earliest], Greta Thun",
+    "ground_truth": "Neil deGrasse Tyson",
+    "f1": 0.07792207792207792,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and has faced controversies including public feuds with other celebrities and criticism over her songwriting, Chris Hemsworth and Shakira?",
+    "llm_answer": "Taylor Swift was born on December 13, 1989.",
+    "ground_truth": "Shakira",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Johnny Depp, who dropped out of high school at the age of 15 to pursue a career in music and comes from a family with a diverse background, including a father who was a civil engineer and a mother who was a waitress, Mark Zuckerberg and John Legend?",
+    "llm_answer": "The answer is **Johnny Depp**.  \nJohnny Depp was born on June 9, 1963, making him the oldest among the three. Mark Zuckerberg was born in 1984, and John Legend in 1978.  \n\nWait, but the question is asking who was born first. So the answer should be Johnny Depp, since 1963 is earlier than 1984 and",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.07017543859649122,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and is best known for being the first person to walk on the moon during the Apollo 11 mission, and he was born to a middle-class family in Wapakoneta, Ohio, Martin Luther King Jr. and Pharrell Williams?",
+    "llm_answer": "Okay, let me try to figure this out. The question is asking who was born first between Neil Armstrong and Martin Luther King Jr., and also comparing that to Pharrell Williams. Wait, actually, the question is a bit more specific. Let me read again.\n\nThe question is asking for the birth dates of the second earliest among three people: Neil Armstrong (who is the moon walker), Martin Luther King Jr., and Pharrell Williams? Wait, no, the question says \"among",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.04938271604938272,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Taylor Swift, who began her education at a young age, attending preschool and later moving to a public school, where she was involved in various activities including musical theater, Chris Hemsworth and Albert Einstein and Thomas Edison?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the second earliest among four people: Taylor Swift, Chris Hemsworth, Albert Einstein, and Thomas Edison. The key here is to look at their birth dates and determine who was born second earliest.\n\nFirst, let's list out each person's birth date as given in the context:\n\n- **Taylor Swift**: Born December 13,",
+    "ground_truth": "Albert Einstein",
+    "f1": 0.05479452054794521,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who is a controversial figure known for his polarizing political views and numerous legal disputes, and has had a career that spans real estate, television, and politics, including serving as the 45th President of the United States, Will Ferrell and David Bowie?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the earliest birth date among Donald Trump, Will Ferrell, and David Bowie. The options are three people: Donald Trump, Will Ferrell, and David Bowie. The key here is to look up their birth dates based on the provided context.\n\nFirst, let's note down each person's birth date from the given information:\n\n- **Donald Trump**: The context states he",
+    "ground_truth": "Donald Trump",
+    "f1": 0.05333333333333332,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who has been involved in various controversies, including public feuds with other celebrities and criticism over her political statements, and who comes from a family with a strong background in finance and has a close relationship with her parents, and Stephen Jobs?",
+    "llm_answer": "Step 1: Identify the names and key details from the context provided.\n\n    - **Taylor Swift**: American, born December 13, 1989; involved in controversies, feuds with celebrities, political statements; family with strong finance background and close relationship with parents.\n    - **Stephen Jobs**: American, born February 24, 1955; ship decommissioned; met Clara Hagopian (Armenian);",
+    "ground_truth": "Stephen Jobs",
+    "f1": 0.07692307692307693,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and later pursued a career in the KGB before entering politics, where he served as the President and Prime Minister of Russia, Albert Einstein and Natalie Portman and Martin Luther King Jr.?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth dates of three people: Vladimir Putin, Albert Einstein, and Natalie Portman, specifically focusing on their birth dates. The key here is to look at the provided context for each individual's birth date and determine who was born earliest.\n\nStarting with Vladimir Putin: The context states he was born on October 07, 1952. That's straightforward.",
+    "ground_truth": "Natalie Portman",
+    "f1": 0.05405405405405406,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which was a challenging environment that shaped his character, Leonardo da Vinci and Lady Gaga and Albert Einstein?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth dates of three people: Vladimir Putin, Leonardo da Vinci, and Albert Einstein, specifically their birth dates. The context provided gives some information about each of them. Let me go through each one.\n\nFirst, Vladimir Putin. The context says he was born on October 07, 1952. That's straightforward. \n\nNext, Leonardo da Vinci. The",
+    "ground_truth": "Albert Einstein",
+    "f1": 0.05633802816901409,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and his mother's role as a waitress, and he comes from a family with a mix of English, Irish, and Cherokee ancestry, Leonardo DiCaprio and Pharrell Williams?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth dates of three people—Johnny Depp, Leonardo DiCaprio, and Pharrell Williams—and determining who was born earliest among them, considering their family backgrounds and other details provided in the context.\n\nFirst, let's list out the birth dates given in the context:\n\n- Johnny Depp was born on June 9, 1963.\n-",
+    "ground_truth": "Leonardo DiCaprio",
+    "f1": 0.05882352941176471,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed an interest in music at a young age and began performing in local talent shows, and has faced controversies including public feuds with other celebrities and criticism over her political endorsements, Albert Einstein and Kamala Harris and Nelson Mandela?",
+    "llm_answer": "Possible Answer:  \n    The answer is **Taylor Swift**.  \n    \n    Explanation:  \n    The question asks for the person born earliest among those listed.  \n    - Taylor Swift was born in 1989.  \n    - Albert Einstein was born in 1879.  \n    - Kamala Harris was born in 1964.  \n    - Nelson Mandela was born in 19",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.08888888888888888,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which shaped his understanding of the world, Donald Trump and David Bowie?",
+    "llm_answer": "The first earliest born among Vladimir Putin and the mentioned figures is Donald Trump, born in 1956. \n\nWait, but the question is asking who's born date is the first earliest among Vladimir Putin, who attended Leningrad State University... and also Donald Trump and David Bowie? Wait, the question is a bit ambiguous. Let me read again.\n\nWait the question says: \"Who's born date is the first earliest, among Vladimir Putin,",
+    "ground_truth": "Donald Trump",
+    "f1": 0.05405405405405406,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who dropped out of school at the age of 15 to pursue a career in music and later transitioned to acting, Leonardo DiCaprio and Marie Curie and Mark Zuckerberg?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth dates of three people—Johnny Depp, Leonardo DiCaprio, and Marie Curie—and determining who was born earliest. The options are their birth dates provided in the context. \n\nFirst, let me list out the birth dates given:\n\n- Johnny Depp was born on June 9, 1963.\n- Leonardo DiCaprio was born on",
+    "ground_truth": "Mark Zuckerberg",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who became a naval aviator and test pilot before joining NASA, where he made history as the first person to walk on the moon during the Apollo 11 mission, Kylian Mbappe and Priyanka Chopra Jonas?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the second earliest among three people: Neil Armstrong, Kylian Mbappe, and Priyanka Chopra Jonas. The options are their birth dates, and we need to determine which one is the second earliest.\n\nFirst, let's list out each person's birth date as given in the context:\n\n- **Neil Armstrong** was born on August 5",
+    "ground_truth": "Priyanka Chopra Jonas",
+    "f1": 0.07999999999999999,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who faced controversies regarding his public persona and the intense scrutiny of his actions during the Apollo 11 mission, and he was born to a family with a strong Midwestern background, Will Smith and Neil deGrasse Tyson?",
+    "llm_answer": "The question asks for the birth date of the individual who was born earliest among Neil Armstrong, Will Smith, and Neil deGrasse Tyson, who also have notable connections mentioned in the context. \n\nLooking at the provided context:\n- Neil Armstrong was born in 1920 (from the line \"Armtrong was born\" in the context).\n- Neil deGrasse Tyson was born on October 05, 1958 (from the line",
+    "ground_truth": "Will Smith",
+    "f1": 0.06060606060606061,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who began his career in real estate at a young age, taking over his father's company and expanding it into a multi-billion dollar enterprise, and he attended Fordham University before transferring to the Wharton School of the University of Pennsylvania, where he earned a degree in economics, Bruno Mars and Nelson Mandela and Vincent van Gogh?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the second earliest among four people: Donald Trump, Bruno Mars, Nelson Mandela, and Vincent van Gogh. The context provided gives their birth dates except for maybe some details. Let me check the context again.\n\nFirst, the context mentions:\n\n- Donald Trump: Born June 14, 1946. He started real estate at a young age",
+    "ground_truth": "Nelson Mandela",
+    "f1": 0.05479452054794521,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and he was born into a working-class family in Leningrad, Bruno Mars and Neil deGrasse Tyson?",
+    "llm_answer": "The answer is **Vladimir Putin's birth date**. \n\nWait, but the question is asking for the earliest birth date among the three (Putin, Bruno Mars, Neil deGrasse Tyson). Since the question mentions \"who's born date is the last earliest\", which is a bit confusing. Wait, \"last earliest\" might be a mistranslation or confusion. Maybe it means the earliest birth date among them. Let me check the question again.",
+    "ground_truth": "Bruno Mars",
+    "f1": 0.05633802816901409,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who faced controversies regarding his reserved personality and the intense scrutiny of his actions during the Apollo 11 mission, and who had a humble early life growing up in Wapakoneta, Ohio, where he developed a passion for aviation at a young age, and Martin Luther King Jr.?",
+    "llm_answer": "The answer is \\boxed{Martin Luther King Jr.}",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family and attended Fordham University before transferring to the Wharton School, and has been involved in numerous controversies throughout his career, including his comments on immigration and his business practices, Leonardo DiCaprio and Bruce Lee?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the earliest among Donald Trump, Leonardo DiCaprio, and Bruce Lee. The options are their birth dates provided in the context. \n\nFirst, let me list out the birth dates given:\n\n- Donald Trump was born on June 14, 1946.\n- Leonardo DiCaprio was born on November 11, 19",
+    "ground_truth": "Leonardo DiCaprio",
+    "f1": 0.06060606060606061,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and became involved in student politics, and William Shakespeare?",
+    "llm_answer": "The answer is **Vladimir Putin's birth date** (October 07, 1952) is earlier than William Shakespeare's (April 23, 1564). \n\nWait, but the question is about the second earliest among the two. Wait, the question says \"who's born date is the second earliest among Vladimir Putin, who attended Leningrad State University... and William Shakespeare?\" So the two people are Vladimir",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.06349206349206349,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who is a businessman and television personality who became the 45th president of the United States, and has been involved in numerous controversies including allegations of racism, sexual misconduct, and the impeachment trials, and Greta Thunberg?",
+    "llm_answer": "Donald Trump was born on June 14, 1946. Greta Thunberg was born on January 03, 2003. Comparing the dates: June 14, 1946 vs January 03, 2003. The one born first is Donald Trump. \n\n    Wait, but the question is asking for the one born earliest among the two. So the answer should be Donald Trump.",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.07142857142857142,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed a passion for music at a young age and began performing in local talent shows, and has faced various controversies throughout her career, including public feuds with other artists and criticism over her dating life, Vladimir Putin and Oprah Winfrey?",
+    "llm_answer": "The answer is **Taylor Swift**. \n\nWait, but let me check the context again. The question is asking for the second earliest born among the three (Taylor Swift, Vladimir Putin, Oprah). The context gives their birth dates:\n\nTaylor Swift: born Dec 13, 1989\n\nPutin: Oct 7, 1952\n\nOprah: Jan 29, 1954\n\nSo the",
+    "ground_truth": "Oprah Winfrey",
+    "f1": 0.037037037037037035,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who grew up in Leningrad (now Saint Petersburg) in a communal apartment with his parents and grandparents, and his early life was marked by the hardships of World War II, as his father served in the Soviet Navy and his mother worked in a factory, and Nelson Mandela?",
+    "llm_answer": "The answer is **Vladimir Putin**. \n\nWait, but the question is asking for the second earliest born among the two. Wait, the question says \"Who's born date is the second earliest, among Vladimir Putin, who grew up...\" So the question is asking for the second earliest born between Vladimir Putin and Nelson Mandela? Or is it asking for the second earliest among the people mentioned in the context? Wait the question is a bit ambiguous. Let me read",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.05,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who served as a KGB officer before entering politics, and later became the President of Russia, and Kamala Harris?",
+    "llm_answer": "Vladimir Putin's birth date is October 07, 1952. Kamala Harris was born on October 20, 1964. Comparing the two, Vladimir Putin was born earlier. Therefore, the answer is Vladimir Putin.\n\n    Wait, but the question is asking for the last earliest among the two. Wait, the question says \"who's born date is the last earliest, among Vladimir Putin, who served as a",
+    "ground_truth": "Kamala Harris",
+    "f1": 0.06153846153846154,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Emma Watson, who was born to a lawyer father and a mother who is a former lawyer and has been involved in various controversies regarding her advocacy for gender equality and her role as a UN Women Goodwill Ambassador, Chris Hemsworth and Natalie Portman?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth dates of Emma Watson, her mother (who is a former lawyer involved in controversies related to gender equality and her role as a UN Women Goodwill Ambassador), Chris Hemsworth, and Natalie Portman, and determine who was born earliest. \n\nFirst, I need to recall or look up the birth dates of each of these individuals. Since the context provided mentions Emma Watson's mother is",
+    "ground_truth": "Emma Watson",
+    "f1": 0.04878048780487806,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Vladimir Putin, who served as a KGB officer before entering politics and became the President of Russia, Stephen Jobs and Priyanka Chopra Jonas and Natalie Portman?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question asks for the birth dates of four people and determines who was born first. The individuals involved are:\n\n1. Vladimir Putin – Born on October 07, 1952 (from the context provided).\n2. Stephen Jobs – Born on February 24, 1955 (from the context).\n3. Priyanka Chopra Jonas – Born on July 18",
+    "ground_truth": "Stephen Jobs",
+    "f1": 0.06451612903225806,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging family dynamic, and he dropped out of high school at the age of 15 to pursue a career in music before eventually finding success in acting, Will Ferrell and David Bowie?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the earliest among Johnny Depp, Will Ferrell, and David Bowie, considering their early lives and the context provided. \n\nFirst, let's list out the birth dates given:\n\n- **Johnny Depp**: Born June 9, 1963. The context mentions he dropped out of high school at 15 due to his",
+    "ground_truth": "Will Ferrell",
+    "f1": 0.05882352941176471,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed a love for music at an early age and began performing in local talent shows, William Shakespeare and Shakira?",
+    "llm_answer": "The answer is **Taylor Swift**. \n\nWait, but let me check the context again. The question mentions \"who grew up in Wyomissing, Pennsylvania...\" but in the given context, there's no mention of Taylor Swift living in Wyomissing, Pennsylvania. The context only states that she was in Pennsylvania, but the specific town isn't mentioned. However, the question might be a trick because the context doesn' 질까roach the other parts",
+    "ground_truth": "William Shakespeare",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Johnny Depp, who dropped out of high school at the age of 15 to pursue a music career and comes from a family with a diverse background, including a father who was a civil engineer and a mother who was a waitress, Will Smith and John Legend?",
+    "llm_answer": "The answer is \\boxed{Johnny Depp} because he dropped out of high school at age 15, making him the youngest among the three.\n\nWait, but the question is asking for the second earliest born. Let me check again.\n\nWait the question says: \"Who's born date is the second earliest, among Johnny Depp, Will Smith and John Legend?\"\n\nWait the question is phrased as \"Who's born date is",
+    "ground_truth": "Will Smith",
+    "f1": 0.05633802816901409,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who had a tumultuous early life marked by frequent relocations and a troubled family background, and has been involved in numerous controversies, including highly publicized legal battles and allegations of domestic violence, Chris Hemsworth and Oprah Winfrey?",
+    "llm_answer": "Johnny Depp's birth date is earlier than both Chris Hemsworth and Oprah Winfrey. \nJohnny Depp was born on June 9, 1963, while Chris Hemsworth was born on August 11, 1983, and Oprah Winfrey on January 29, 1954. \n\nWait, but the question is asking who has the earliest birth date. Let me check the given info",
+    "ground_truth": "Chris Hemsworth",
+    "f1": 0.0689655172413793,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who has been a controversial figure due to his leadership style, allegations of election interference, and the annexation of Crimea, and has had a career that includes serving as a KGB officer, the Prime Minister of Russia, and the President of Russia, Chris Hemsworth and Priyanka Chopra Jonas?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the earliest birth date among three people: Vladimir Putin, Chris Hemsworth, and Priyanka Chopra Jonas. The context provided gives their birth dates and some details about their careers. \n\nFirst, looking at the context:\n\n- Vladimir Putin's birth date is October 7, 1952.\n- Chris Hemsworth was born on August 11",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.06153846153846154,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and race, and has a family background that includes his father, Fred Trump, a successful real estate developer, and his children who have also taken on prominent roles in his business and political endeavors, Elon Musk and Malala Yousafzai and William Shakespeare?",
+    "llm_answer": "Okay, let's tackle this question step by흥민es. The question is asking for the earliest birth date among Donald Trump, Elon Musk, Malala Yousafzai, and William Shakespeare. The context provided gives their birth dates except for Malala's, but the user mentioned she's Pakistani and born in 1997. Wait, the context actually states her birth date as July 12, 1997. Let me check the given",
+    "ground_truth": "Malala Yousafzai",
+    "f1": 0.05882352941176471,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which shaped his views on social issues, Shakira and Ai Weiwei?",
+    "llm_answer": "<thought>\nOkay, let's tackle this question. The user is asking about the birth dates of Vladimir Putin and Ai Weiwei, specifically comparing their birth dates. The question mentions that both are associated with Leningrad (which I think is the old name for Moscow), with Putin attending Leningrad State University where he studied law and graduated in 1975. Also, Putin grew up in a communal apartment in Leningrad, which influenced his views on social",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.052631578947368425,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who was born to a wealthy family with a real estate developer father and a mother who was a Scottish immigrant, and he has had a controversial career as a businessman and television personality before becoming the 45th President of the United States, and William Shakespeare?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking who between Donald Trump and William Shakespeare has the earliest birth date. The key points from the context provided are:\n\n- Donald Trump was born on June 14, 1946. His parents are mentioned to be from a family with a real estate developer father and a Scottish immigrant mother. He's known for his controversial career and becoming the 45th U.S. President",
+    "ground_truth": "Donald Trump",
+    "f1": 0.05194805194805195,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the first earliest, among Donald Trump, who was born into a wealthy family with a real estate developer father and a Scottish immigrant mother, and has been involved in numerous controversies throughout his career, including his divisive rhetoric during the 2016 presidential campaign and his impeachment trials, Martin Luther King Jr. and Priyanka Chopra Jonas and Kamala Harris?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the earliest among four people: Donald Trump, Martin Luther King Jr., Priyanka Chopra Jonas, and Kamala Harris. The key here is to look at their birth dates provided in the context and compare them.\n\nFirst, let's list out each person's birth date as given:\n\n- **Donald Trump** was born on June 14",
+    "ground_truth": "Martin Luther King Jr.",
+    "f1": 0.10526315789473684,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and later pursued a career in law and intelligence, serving as a KGB officer before entering politics and eventually becoming the President of Russia, David Bowie and Ai Weiwei and Bruce Lee?",
+    "llm_answer": "Okay, let's tackle this question step by step. The question is asking for the birth date that is the earliest among Vladimir Putin, David Bowie, Ai Weiwei, and Bruce Lee, but with some specific conditions. The key points from the context provided are:\n\n1. **Vladimir Putin**: Born on October 07, 1952. The question specifies he was born into a working-class family in Leningrad (now Saint Petersburg",
+    "ground_truth": "Ai Weiwei",
+    "f1": 0.05714285714285715,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and is best known for being the first person to walk on the moon during the Apollo 11 mission, and faced controversies regarding his modest demeanor and the public's perception of his achievements, William Shakespeare and Shakira?",
+    "llm_answer": "The answer is \\boxed{Neil Armstrong}\n\nWait, but the question is asking for the second earliest born among the three? Wait, the question says \"Who's born date is the second earliest, among Neil Armstrong, [the person described], and William Shakespeare and Shakira?\" Wait, the way the question is phrased might be ambiguous. Let me check again.\n\nWait the question is: \"Who's born date is the second earliest, among Neil",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.05479452054794521,
+    "em": 0
+  }
+]

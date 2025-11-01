@@ -1,0 +1,3 @@
+Model Name: TinyLlama-1.0-1.1B-Chat
+Average F1: 0.1100
+Exact Match: 0.0000
