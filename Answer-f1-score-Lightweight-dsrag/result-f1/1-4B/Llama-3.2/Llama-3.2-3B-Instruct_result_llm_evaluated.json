@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Who was born earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family and attended Fordham University before transferring to the Wharton School, and has been involved in numerous controversies throughout his career, including his comments on immigration and his business practices, Leonardo DiCaprio and Bruce Lee?",
+    "llm_answer": "Bruce Lee",
+    "ground_truth": "Leonardo DiCaprio",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the second earliest, among Neil Armstrong, who attended Blume High School and later transferred to Purdue University, where he studied aeronautical engineering, and was born to a father who was a state legislator and a mother who was a homemaker, Maya Angelou and Lionel Messi?",
+    "llm_answer": "Maya Angelou",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born earliest, among Neil Armstrong, who was involved in controversies regarding the portrayal of the Apollo 11 mission and faced criticism for his reserved public persona, and whose career as an astronaut included being the first person to walk on the moon, and Emma Watson?",
+    "llm_answer": "Emma Watson",
+    "ground_truth": "Emma Watson",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and race, and has a family background that includes his father, Fred Trump, a successful real estate developer, and his children who have also taken on prominent roles in his business and political endeavors, Elon Musk and Malala Yousafzai and William Shakespeare?",
+    "llm_answer": "Donald Trump",
+    "ground_truth": "Malala Yousafzai",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the second earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and race, and attended the New York Military Academy before transferring to Fordham University and later graduating from the Wharton School of the University of Pennsylvania, Emma Watson and Lady Gaga?",
+    "llm_answer": "Donald Trump",
+    "ground_truth": "Lady Gaga",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born earliest, among Johnny Depp, who was born to a waitress mother and a civil engineer father, and grew up in a dysfunctional family that moved frequently, which influenced his early life and artistic expression, Greta Thunberg and Priyanka Chopra Jonas?",
+    "llm_answer": "Priyanka Chopra Jonas",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the second earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family and attended the New York Military Academy, and has been involved in numerous controversies throughout his career, including his business practices and political statements, Johnny Depp and William Shakespeare and Bruno Mars?",
+    "llm_answer": "William Shakespeare",
+    "ground_truth": "Donald Trump",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the second earliest, among Neil Armstrong, who was the first person to walk on the moon during the Apollo 11 mission and faced controversies regarding the authenticity of the moon landing, Chris Hemsworth and Shakira?",
+    "llm_answer": "Chris Hemsworth",
+    "ground_truth": "Shakira",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the second earliest, among Taylor Swift, who has faced various controversies throughout her career, including public feuds with other artists and criticism over her political statements, and she attended Hendersonville High School before transferring to the Aaron Academy, Donald Trump and Leonardo da Vinci and Leonardo DiCaprio?",
+    "llm_answer": "Donald Trump",
+    "ground_truth": "Donald Trump",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born earliest, among Vladimir Putin, who served as a KGB officer before entering politics, and later became the President of Russia, and Kamala Harris?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "Kamala Harris",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the first earliest, among Taylor Swift, who has been involved in various controversies, including public feuds with other celebrities and criticism over her political statements, and who comes from a family with a strong background in finance and has a close relationship with her parents, and Stephen Jobs?",
+    "llm_answer": "Stephen Jobs",
+    "ground_truth": "Stephen Jobs",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born the second earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging childhood that included his parents' divorce, and Marie Curie?",
+    "llm_answer": "Marie Curie",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born earliest, among Johnny Depp, who dropped out of school at the age of 15 to pursue a career in music and later transitioned to acting, Leonardo DiCaprio and Marie Curie and Mark Zuckerberg?",
+    "llm_answer": "Marie Curie",
+    "ground_truth": "Mark Zuckerberg",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the first earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging childhood that included his parents' divorce, and he dropped out of high school at the age of 15 to pursue a career in music before eventually finding success in acting, Leonardo DiCaprio and Lady Gaga?",
+    "llm_answer": "Leonardo DiCaprio",
+    "ground_truth": "Johnny Depp",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the first earliest, among Donald Trump, who attended Fordham University and later transferred to the Wharton School of the University of Pennsylvania, where he earned a degree in economics, and has had a career as a businessman, television personality, and politician, including serving as the 45th President of the United States, Johnny Depp and Bruce Lee?",
+    "llm_answer": "Bruce Lee",
+    "ground_truth": "Bruce Lee",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born the first earliest, among Donald Trump, who was born into a wealthy family with a real estate developer father and a Scottish immigrant mother, and has been involved in numerous controversies throughout his career, including his divisive rhetoric during the 2016 presidential campaign and his impeachment trials, Martin Luther King Jr. and Priyanka Chopra Jonas and Kamala Harris?",
+    "llm_answer": "Martin Luther King Jr.",
+    "ground_truth": "Martin Luther King Jr.",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born the second earliest, among Vladimir Putin, who served as a KGB officer before entering politics and became the President of Russia, Stephen Jobs and Priyanka Chopra Jonas and Natalie Portman?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "Stephen Jobs",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the first earliest, among Johnny Depp, who was born to a waitress mother and a civil engineer father, and grew up in a dysfunctional family that moved frequently, which influenced his early life and artistic pursuits, Vincent van Gogh and Greta Thunberg and William Shakespeare?",
+    "llm_answer": "William Shakespeare",
+    "ground_truth": "William Shakespeare",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born the first earliest, among Johnny Depp, who had a tumultuous early life marked by frequent relocations and a troubled family background, and has been involved in various controversies including highly publicized legal battles and allegations of domestic violence, Chris Hemsworth and Elon Musk and Leonardo DiCaprio?",
+    "llm_answer": "Johnny Depp",
+    "ground_truth": "Johnny Depp",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born the first earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and has faced controversies including public feuds with other celebrities and criticism over her songwriting, Chris Hemsworth and Shakira?",
+    "llm_answer": "Chris Hemsworth",
+    "ground_truth": "Shakira",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born earliest, among Neil Armstrong, who faced controversies regarding his public persona and the intense scrutiny of his actions during the Apollo 11 mission, and he was born to a family with a strong Midwestern background, Will Smith and Neil deGrasse Tyson?",
+    "llm_answer": "Neil Armstrong",
+    "ground_truth": "Will Smith",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the second earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed a passion for music at a young age and began performing in local talent shows, and has faced various controversies throughout her career, including public feuds with other artists and criticism over her dating life, Vladimir Putin and Oprah Winfrey?",
+    "llm_answer": "Oprah Winfrey",
+    "ground_truth": "Oprah Winfrey",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born the second earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which was a challenging environment that shaped his character, Leonardo da Vinci and Lady Gaga and Albert Einstein?",
+    "llm_answer": "Leonardo da Vinci",
+    "ground_truth": "Albert Einstein",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born earliest, among Taylor Swift, who is a highly successful singer-songwriter known for her narrative songwriting and has won numerous awards including multiple Grammy Awards, and she comes from a family with a strong interest in the arts, as her mother was a mutual fund marketing executive and her father was a stockbroker, Mark Zuckerberg and Greta Thunberg and Marie Curie?",
+    "llm_answer": "Marie Curie",
+    "ground_truth": "Greta Thunberg",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born earliest, among Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging family dynamic, and he dropped out of high school at the age of 15 to pursue a career in music before eventually finding success in acting, Will Ferrell and David Bowie?",
+    "llm_answer": "David Bowie",
+    "ground_truth": "Will Ferrell",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the first earliest, among Neil Armstrong, who faced controversies regarding the authenticity of the moon landing and was known for his private nature about his family life, including his marriage to Janet Shearon and their three children, Rihanna and Ai Weiwei?",
+    "llm_answer": "Neil Armstrong",
+    "ground_truth": "Neil Armstrong",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born the first earliest, among Vladimir Putin, who has been a controversial figure due to his leadership style, allegations of election interference, and the annexation of Crimea, and has had a career that includes serving as a KGB officer, the Prime Minister of Russia, and the President of Russia, Chris Hemsworth and Priyanka Chopra Jonas?",
+    "llm_answer": "Chris Hemsworth",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born earliest, among Vladimir Putin, who served as a KGB officer before entering politics and has held various positions in the Russian government, including Prime Minister and President, and graduated from Leningrad State University with a law degree, Leonardo DiCaprio and Kylian Mbappe and Will Smith?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "Kylian Mbappe",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the first earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and during his early life, he grew up in a communal apartment in Leningrad, which shaped his views on social issues, Shakira and Ai Weiwei?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "Vladimir Putin",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born earliest, among Vladimir Putin, who has been a controversial figure due to allegations of election interference, human rights abuses, and the annexation of Crimea, and has had a career that includes serving as a KGB officer, the Prime Minister of Russia, and the President of Russia, Greta Thunberg and Neil deGrasse Tyson and Lady Gaga?",
+    "llm_answer": "Greta Thunberg",
+    "ground_truth": "Greta Thunberg",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born earliest, among Vladimir Putin, who grew up in Leningrad during World War II, where his family faced hardships and he later became involved in the KGB, and has been a controversial figure due to his authoritarian leadership style and allegations of election interference, Will Ferrell and Natalie Portman?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "Natalie Portman",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the first earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed a love for music at an early age and began performing in local talent shows, William Shakespeare and Shakira?",
+    "llm_answer": "William Shakespeare",
+    "ground_truth": "William Shakespeare",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born the second earliest, among Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has also ventured into music and production, and who comes from a family with a mixed heritage including Cherokee, Irish, and German roots, and Emma Watson?",
+    "llm_answer": "Emma Watson",
+    "ground_truth": "Emma Watson",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and he was born into a working-class family in Leningrad, Bruno Mars and Neil deGrasse Tyson?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "Bruno Mars",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the second earliest, among Neil Armstrong, who faced controversies regarding the authenticity of the moon landing and was known for his reserved personality, and who came from a family with a strong aviation background, Shakira and Rihanna?",
+    "llm_answer": "Neil Armstrong",
+    "ground_truth": "Shakira",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the second earliest, among Vladimir Putin, who attended Leningrad State University where he studied law and became involved in student politics, and William Shakespeare?",
+    "llm_answer": "William Shakespeare",
+    "ground_truth": "Vladimir Putin",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the second earliest, among Taylor Swift, who began her education at a young age, attending preschool and later moving to a public school, where she was involved in various activities including musical theater, Chris Hemsworth and Albert Einstein and Thomas Edison?",
+    "llm_answer": "Albert Einstein",
+    "ground_truth": "Albert Einstein",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born the second earliest, among Vladimir Putin, who has served as the President of Russia multiple times and was previously the Prime Minister, and has been involved in various controversies including allegations of election interference and human rights abuses, Will Smith and Shakira?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "Will Smith",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the first earliest, among Vladimir Putin, who has been involved in various controversies, including allegations of election interference and human rights abuses, and he attended Leningrad State University where he studied law, Elon Musk and Rihanna?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "Vladimir Putin",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born earliest, among Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and became the first person to walk on the moon during the Apollo 11 mission, and he was born to a father who worked in the state government and a mother who was a homemaker, Emma Watson and Maya Angelou?",
+    "llm_answer": "Maya Angelou",
+    "ground_truth": "Emma Watson",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born earliest, among Emma Watson, who attended Brown University, where she graduated with a degree in English literature, and has been involved in controversies regarding her advocacy for gender equality, particularly after her speech at the United Nations for the HeForShe campaign, Leonardo DiCaprio and William Shakespeare?",
+    "llm_answer": "William Shakespeare",
+    "ground_truth": "Emma Watson",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the first earliest, among Neil Armstrong, who faced controversies during his career, including the criticism of his handling of the Apollo 11 mission and the subsequent public scrutiny of his actions, and who attended Purdue University where he studied aeronautical engineering and was a member of the university's marching band, Will Smith and Albert Einstein and Mark Zuckerberg?",
+    "llm_answer": "Albert Einstein",
+    "ground_truth": "Albert Einstein",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born the first earliest, among Donald Trump, who is a controversial figure known for his polarizing political views and numerous legal disputes, and has had a career that spans real estate, television, and politics, including serving as the 45th President of the United States, Will Ferrell and David Bowie?",
+    "llm_answer": "David Bowie",
+    "ground_truth": "Donald Trump",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born earliest, among Vladimir Putin, who was born to a working-class family in Leningrad, where his father was a conscript in the Soviet Navy and his mother was a factory worker, and he grew up in a communal apartment, Neil deGrasse Tyson and Lionel Messi?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "Lionel Messi",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the second earliest, among Neil Armstrong, who was born in Wapakoneta, Ohio, and grew up in a family that valued education and hard work, with his father being a state auditor and his mother a homemaker, Vladimir Putin and Bob Marley?",
+    "llm_answer": "Bob Marley",
+    "ground_truth": "Bob Marley",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who was born the second earliest, among Johnny Depp, who has been involved in numerous controversies including highly publicized legal battles with ex-wife Amber Heard and allegations of substance abuse, and he dropped out of high school at the age of 16 to pursue a career in music before transitioning to acting, Lady Gaga and John Legend?",
+    "llm_answer": "Lady Gaga",
+    "ground_truth": "John Legend",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the first earliest, among Donald Trump, who was born into a wealthy family with a real estate developer father and a Scottish mother, and he later took over his father's business, expanding it into various sectors including hotels, casinos, and golf courses, and Kamala Harris?",
+    "llm_answer": "Kamala Harris",
+    "ground_truth": "Donald Trump",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the second earliest, among Neil Armstrong, who was born in Wapakoneta, Ohio, and showed an early interest in aviation, earning his student pilot's license at the age of 16, and went on to have a distinguished career as a naval aviator, test pilot, and astronaut, famously becoming the first person to walk on the moon during the Apollo 11 mission, Emma Watson and Malala Yousafzai?",
+    "llm_answer": "Malala Yousafzai",
+    "ground_truth": "Emma Watson",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and comes from a family with a strong interest in the arts, as her mother was a mutual fund marketing executive and her father was a stockbroker, Leonardo da Vinci and Bruce Lee?",
+    "llm_answer": "Leonardo da Vinci",
+    "ground_truth": "Taylor Swift",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who was born the second earliest, among Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and is best known for being the first person to walk on the moon during the Apollo 11 mission, and faced controversies regarding his modest demeanor and the public's perception of his achievements, William Shakespeare and Shakira?",
+    "llm_answer": "William Shakespeare",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Vladimir Putin, who was born in Leningrad (now Saint Petersburg) and grew up in a communal apartment, where he experienced a modest upbringing with his family, including his parents, who were both factory workers, and Greta Thunberg the same?",
+    "llm_answer": "no",
+    "ground_truth": "no",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Taylor Swift, who began her career in country music at a young age, signing with Big Machine Records and releasing her self-titled debut album in 2006, and later transitioned to pop music with her album \"1989,\" and also attended Hendersonville High School in Tennessee before being homeschooled to accommodate her touring schedule, Johnny Depp and Oprah Winfrey different?",
+    "llm_answer": "Johnny Depp",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Neil Armstrong, who was born in Wapakoneta, Ohio, and showed an early interest in aviation, earning his student pilot's license at the age of 16, and went on to have a distinguished career as a naval aviator, test pilot, and astronaut, famously becoming the first person to walk on the moon during the Apollo 11 mission, Emma Watson and Malala Yousafzai the same?",
+    "llm_answer": "Emma Watson",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Neil Armstrong, who faced controversies regarding his role in the Apollo 11 mission and the subsequent public perception of his achievements, and who attended Purdue University under the Holloway Plan, which allowed him to pursue his studies while serving in the Navy, Emma Watson and William Shakespeare and Will Smith different?",
+    "llm_answer": "yes",
+    "ground_truth": "yes",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Donald Trump, who attended Fordham University and later transferred to the Wharton School of the University of Pennsylvania, where he earned a degree in economics, and has had a career as a businessman, television personality, and politician, including serving as the 45th President of the United States, Johnny Depp and Bruce Lee the same?",
+    "llm_answer": "No",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Vladimir Putin, who has been involved in various controversies, including allegations of election interference and human rights abuses, and he attended Leningrad State University where he studied law, Elon Musk and Rihanna different?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Vladimir Putin, who has served as the President of Russia multiple times and was previously the Prime Minister, and has been involved in various controversies including allegations of election interference and human rights abuses, Will Smith and Shakira the same?",
+    "llm_answer": "No",
+    "ground_truth": "no",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Taylor Swift, who was born in Reading, Pennsylvania, and raised in Wyomissing, Pennsylvania, where she developed a love for music at an early age, and comes from a family with a strong background in finance and the arts, Will Smith and Pharrell Williams different?",
+    "llm_answer": "yes",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Neil Armstrong, who grew up in Wapakoneta, Ohio, where he developed a passion for aviation at a young age and became a pilot at 16, Donald Trump and Leonardo da Vinci and Leonardo DiCaprio different?",
+    "llm_answer": "Donald Trump",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Taylor Swift, who attended Hendersonville High School and later transferred to Wyomissing Area Junior/Senior High School, where she began pursuing a career in music at a young age, Vladimir Putin and John Legend the same?",
+    "llm_answer": "no",
+    "ground_truth": "no",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Donald Trump, who was born in Queens, New York City, to a wealthy family and attended the New York Military Academy, and later went on to earn an economics degree from the Wharton School, and became a prominent real estate developer and television personality, and Marie Curie different?",
+    "llm_answer": "Donald Trump",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and later pursued a career in law and intelligence, serving as a KGB officer before entering politics and eventually becoming the President of Russia, David Bowie and Ai Weiwei and Bruce Lee the same?",
+    "llm_answer": "No",
+    "ground_truth": "no",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Taylor Swift, who was born to Scott Kingsley Swift, a financial advisor, and Andrea Gardner Swift, a homemaker, and grew up in a supportive family environment that encouraged her musical talents, and attended Hendersonville High School in Tennessee, where she began to pursue her career in music, and Donald Trump different?",
+    "llm_answer": "Taylor Swift",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Neil Armstrong, who attended Blume High School and later transferred to Purdue University, where he studied aeronautical engineering, and was born to a father who was a state legislator and a mother who was a homemaker, Maya Angelou and Lionel Messi the same?",
+    "llm_answer": "Maya Angelou",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and Lady Gaga different?",
+    "llm_answer": "Taylor Swift",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Johnny Depp, who has been involved in numerous controversies including highly publicized legal battles with ex-wife Amber Heard and allegations of substance abuse, and he dropped out of high school at the age of 16 to pursue a career in music before transitioning to acting, Lady Gaga and John Legend the same?",
+    "llm_answer": "No",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Neil Armstrong, who was the first person to walk on the moon during the Apollo 11 mission and faced controversies regarding the authenticity of the moon landing, Chris Hemsworth and Shakira the same?",
+    "llm_answer": "No",
+    "ground_truth": "no",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Neil Armstrong, who was the eldest of three children in a family where his father was a state legislator and his mother was a homemaker, and he faced controversies during his career, including the intense scrutiny of his actions during the Apollo 11 mission and the subsequent public debate over the portrayal of his achievements, Chris Hemsworth and Kamala Harris different?",
+    "llm_answer": "Chris Hemsworth",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Neil Armstrong, who faced controversies regarding the authenticity of the moon landing and was known for his reserved personality, and who came from a family with a strong aviation background, Shakira and Rihanna different?",
+    "llm_answer": "Neil Armstrong",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Vladimir Putin, who grew up in Leningrad during World War II, where his family faced hardships and he later became involved in the KGB, and has been a controversial figure due to his authoritarian leadership style and allegations of election interference, Will Ferrell and Natalie Portman different?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Vladimir Putin, who was born in Leningrad (now Saint Petersburg) and grew up in a communal apartment, where he developed an interest in sports and martial arts, and later pursued a career in the KGB before entering politics, Thomas Edison and Natalie Portman different?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Neil Armstrong, who was involved in controversies regarding the secrecy of the Apollo 11 mission and faced criticism for his reserved nature, and who had a family that included his wife Janet and three children, and Will Smith the same?",
+    "llm_answer": "No",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Vladimir Putin, who attended Leningrad State University where he studied law and later became involved in the KGB, and Chris Hemsworth the same?",
+    "llm_answer": "No",
+    "ground_truth": "no",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and became the first person to walk on the moon during the Apollo 11 mission, and he was born to a father who worked in the state government and a mother who was a homemaker, Emma Watson and Maya Angelou different?",
+    "llm_answer": "Emma Watson",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she was able to complete her education while pursuing her music career, and has faced controversies including public feuds with other celebrities and criticism over her political statements, and Mark Zuckerberg the same?",
+    "llm_answer": "Taylor Swift",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and attended Leningrad State University where he studied law and graduated in 1975, Johnny Depp and David Bowie different?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a troubled family dynamic, and has faced numerous controversies throughout his career, including legal battles and allegations of domestic violence, and Vincent van Gogh the same?",
+    "llm_answer": "Vincent van Gogh",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Donald Trump, who is a businessman and television personality known for his real estate empire and as the host of \"The Apprentice,\" and who comes from a family of real estate developers, with his father Fred Trump being a prominent figure in the industry, and Johnny Depp different?",
+    "llm_answer": "Johnny Depp",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has also ventured into music and production, and comes from a family with a mixed heritage including Cherokee, Irish, and German descent, and Chris Hemsworth the same?",
+    "llm_answer": "Chris Hemsworth",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Johnny Depp, who was born to a waitress mother and a civil engineer father, and grew up in a dysfunctional family that moved frequently, which influenced his early life and artistic expression, Greta Thunberg and Priyanka Chopra Jonas the same?",
+    "llm_answer": "no",
+    "ground_truth": "no",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Vladimir Putin, who has been involved in various controversies, including allegations of election interference and human rights abuses, and who attended Leningrad State University where he studied law, Will Ferrell and John Legend the same?",
+    "llm_answer": "no",
+    "ground_truth": "no",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has also ventured into music and production, and who comes from a family with a diverse background, including a mother who was a waitress and a father who was a civil engineer, Ai Weiwei and Pharrell Williams different?",
+    "llm_answer": "Ai Weiwei",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and Greta Thunberg different?",
+    "llm_answer": "Taylor Swift",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and race, and attended the New York Military Academy before transferring to Fordham University and later graduating from the Wharton School of the University of Pennsylvania, Emma Watson and Lady Gaga the same?",
+    "llm_answer": "Donald Trump",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Taylor Swift, who was born to Scott Kingsley Swift, a financial advisor, and Andrea Gardner Swift, a homemaker, and has been involved in various controversies including public feuds with other celebrities and her political activism, Vincent van Gogh and Bob Marley and Leonardo da Vinci the same?",
+    "llm_answer": "no",
+    "ground_truth": "no",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Vladimir Putin, who was born in Leningrad (now Saint Petersburg) and grew up in a communal apartment, where he developed an interest in sports and martial arts, and later served as a KGB officer before entering politics, Marie Curie and Kamala Harris and Nelson Mandela different?",
+    "llm_answer": "yes",
+    "ground_truth": "yes",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Neil Armstrong, who was born in Wapakoneta, Ohio, and grew up in a family that valued education and hard work, with his father being a state auditor and his mother a homemaker, Vladimir Putin and Bob Marley different?",
+    "llm_answer": "Vladimir Putin",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and the first person to walk on the moon during the Apollo 11 mission, and who was born to a middle-class family in Wapakoneta, Ohio, Leonardo da Vinci and Greta Thunberg and Marie Curie different?",
+    "llm_answer": "yes",
+    "ground_truth": "yes",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Taylor Swift, who is a highly successful singer-songwriter known for her narrative songwriting and has won numerous awards including multiple Grammy Awards, and she comes from a family with a strong interest in the arts, as her mother was a mutual fund marketing executive and her father was a stockbroker, Mark Zuckerberg and Greta Thunberg and Marie Curie different?",
+    "llm_answer": "yes",
+    "ground_truth": "yes",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Taylor Swift, who attended Hendersonville High School and was involved in various extracurricular activities, and comes from a family with a strong musical background, as her grandmother was a professional opera singer, Elon Musk and Lionel Messi different?",
+    "llm_answer": "Elon Musk",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Donald Trump, who was born in Queens, New York City, to a wealthy family and attended the New York Military Academy, and has been involved in numerous controversies throughout his career, including his business practices and political statements, and Maya Angelou different?",
+    "llm_answer": "Donald Trump",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and his business practices, and comes from a family with a real estate background, as his father was a prominent real estate developer, Neil deGrasse Tyson and Ai Weiwei the same?",
+    "llm_answer": "No",
+    "ground_truth": "no",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education while pursuing her music career, and comes from a family with a strong interest in the arts, as her mother was a mutual fund marketing executive and her father was a stockbroker, Leonardo da Vinci and Bruce Lee different?",
+    "llm_answer": "yes",
+    "ground_truth": "yes",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Vladimir Putin, who served as the President of Russia and has held various positions in the government since the 1990s, and is known for his strongman image and controversial policies, and who comes from a working-class family in Leningrad, now St. Petersburg, Leonardo DiCaprio and Rihanna the same?",
+    "llm_answer": "No",
+    "ground_truth": "no",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Johnny Depp, who was born to a waitress mother and a civil engineer father in Owensboro, Kentucky, and experienced a tumultuous childhood that included frequent moves and a troubled family life, Thomas Edison and Bob Marley and Elon Musk different?",
+    "llm_answer": "yes",
+    "ground_truth": "yes",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Is nationality of Neil Armstrong, who was born to a middle-class family in Wapakoneta, Ohio, and had a passion for aviation from a young age, and went on to become a naval aviator, test pilot, and ultimately the first person to walk on the moon during the Apollo 11 mission, Kylian Mbappe and Natalie Portman and Nelson Mandela the same?",
+    "llm_answer": "Natalie Portman",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and his business practices, and he attended the New York Military Academy before transferring to Fordham University and later graduating from the Wharton School of the University of Pennsylvania, David Bowie and Neil deGrasse Tyson the same?",
+    "llm_answer": "David Bowie",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging family dynamic with his mother, who was a waitress and often struggled with her own issues, Thomas Edison and David Bowie the same?",
+    "llm_answer": "David Bowie",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Neil Armstrong, who faced controversies regarding the authenticity of the moon landing and was known for his private nature about his family life, including his marriage to Janet Shearon and their three children, Rihanna and Ai Weiwei different?",
+    "llm_answer": "Neil Armstrong",
+    "ground_truth": "yes",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Is nationality of Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging childhood that included his parents' divorce, and he dropped out of high school at the age of 15 to pursue a career in music before eventually finding success in acting, Leonardo DiCaprio and Lady Gaga different?",
+    "llm_answer": "yes",
+    "ground_truth": "no",
+    "f1": 0.0,
+    "em": 0
+  }
+]

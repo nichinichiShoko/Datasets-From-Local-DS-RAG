@@ -1,0 +1,3 @@
+Model Name: Qwen-32B
+Average F1: 0.9100
+Exact Match: 0.9100

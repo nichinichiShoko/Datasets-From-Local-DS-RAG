@@ -1,0 +1,3 @@
+Model Name: Llama-3.2-3B-Instruct
+Average F1: 0.3400
+Exact Match: 0.3400

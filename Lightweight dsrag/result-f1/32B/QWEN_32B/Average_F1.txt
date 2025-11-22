@@ -1,4 +1,0 @@
-✅ Average F1: 0.1440
-✅ Exact Match: 0.0000
-
-허용 토큰 600

@@ -1,3 +1,0 @@
-Model Name: Qwen-3-14B-PostTrain
-Average F1: 0.0556
-Exact Match: 0.0000

@@ -1,3 +1,0 @@
-Model Name: Mistral-Nemo-12B-Instruct
-Average F1: 0.2500
-Exact Match: 0.2500

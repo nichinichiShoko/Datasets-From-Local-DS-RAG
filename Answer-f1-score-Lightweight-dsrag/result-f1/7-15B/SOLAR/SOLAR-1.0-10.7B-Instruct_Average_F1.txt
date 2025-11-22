@@ -1,0 +1,3 @@
+Model Name: SOLAR-1.0-10.7B-Instruct
+Average F1: 0.5635
+Exact Match: 0.5400

@@ -1,0 +1,3 @@
+Model Name: Phi-4-15B-Reasoning-plus
+Average F1: 0.8400
+Exact Match: 0.8400

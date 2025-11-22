@@ -1,0 +1,3 @@
+Model Name: llama3.1-8B
+Average F1: 0.4300
+Exact Match: 0.4300

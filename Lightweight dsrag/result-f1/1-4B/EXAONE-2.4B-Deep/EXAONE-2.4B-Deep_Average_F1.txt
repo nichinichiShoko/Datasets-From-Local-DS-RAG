@@ -1,3 +1,0 @@
-Model Name: EXAONE-2.4B-Deep
-Average F1: 0.0688
-Exact Match: 0.0100

@@ -1,0 +1,3 @@
+Model Name: EXAONE-4.0-32B-Base
+Average F1: 0.7500
+Exact Match: 0.7500

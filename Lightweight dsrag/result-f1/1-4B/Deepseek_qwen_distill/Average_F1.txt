@@ -1,3 +1,0 @@
-✅ Average F1: 0.1249
-✅ Exact Match: 0.0000
-토큰 100

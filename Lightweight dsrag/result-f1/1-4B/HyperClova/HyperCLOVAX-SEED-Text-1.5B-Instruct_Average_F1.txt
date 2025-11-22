@@ -1,3 +1,0 @@
-Model Name: HyperCLOVAX-SEED-Text-1.5B-Instruct
-Average F1: 0.1026
-Exact Match: 0.0500

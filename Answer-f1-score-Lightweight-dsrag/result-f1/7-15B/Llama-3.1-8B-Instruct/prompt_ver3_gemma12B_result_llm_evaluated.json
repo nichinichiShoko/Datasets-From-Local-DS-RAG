@@ -1,0 +1,65 @@
+[
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family and attended Fordham University before transferring to the Wharton School, and has been involved in numerous controversies throughout his career, including his comments on immigration and his business practices, Leonardo DiCaprio and Bruce Lee?",
+    "llm_answer": "Bruce Lee",
+    "ground_truth": "Leonardo DiCaprio",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who attended Blume High School and later transferred to Purdue University, where he studied aeronautical engineering, and was born to a father who was a state legislator and a mother who was a homemaker, Maya Angelou and Lionel Messi?",
+    "llm_answer": "Maya Angelou",
+    "ground_truth": "Neil Armstrong",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Neil Armstrong, who was involved in controversies regarding the portrayal of the Apollo 11 mission and faced criticism for his reserved public persona, and whose career as an astronaut included being the first person to walk on the moon, and Emma Watson?",
+    "llm_answer": "August 5, 1930",
+    "ground_truth": "Emma Watson",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and race, and has a family background that includes his father, Fred Trump, a successful real estate developer, and his children who have also taken on prominent roles in his business and political endeavors, Elon Musk and Malala Yousafzai and William Shakespeare?",
+    "llm_answer": "William Shakespeare",
+    "ground_truth": "Malala Yousafzai",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and race, and attended the New York Military Academy before transferring to Fordham University and later graduating from the Wharton School of the University of Pennsylvania, Emma Watson and Lady Gaga?",
+    "llm_answer": "Emma Watson",
+    "ground_truth": "Lady Gaga",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the last earliest, among Johnny Depp, who was born to a waitress mother and a civil engineer father, and grew up in a dysfunctional family that moved frequently, which influenced his early life and artistic expression, Greta Thunberg and Priyanka Chopra Jonas?",
+    "llm_answer": "Greta Thunberg",
+    "ground_truth": "Greta Thunberg",
+    "f1": 1.0,
+    "em": 1
+  },
+  {
+    "question": "Who's born date is the second earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family and attended the New York Military Academy, and has been involved in numerous controversies throughout his career, including his business practices and political statements, Johnny Depp and William Shakespeare and Bruno Mars?",
+    "llm_answer": "June 9, 1963.",
+    "ground_truth": "Donald Trump",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Neil Armstrong, who was the first person to walk on the moon during the Apollo 11 mission and faced controversies regarding the authenticity of the moon landing, Chris Hemsworth and Shakira?",
+    "llm_answer": "August 5, 1930.",
+    "ground_truth": "Shakira",
+    "f1": 0.0,
+    "em": 0
+  },
+  {
+    "question": "Who's born date is the second earliest, among Taylor Swift, who has faced various controversies throughout her career, including public feuds with other artists and criticism over her political statements, and she attended Hendersonville High School before transferring to the Aaron Academy, Donald Trump and Leonardo da Vinci and Leonardo DiCaprio?",
+    "llm_answer": "Donald Trump",
+    "ground_truth": "Donald Trump",
+    "f1": 1.0,
+    "em": 1
+  }
+]

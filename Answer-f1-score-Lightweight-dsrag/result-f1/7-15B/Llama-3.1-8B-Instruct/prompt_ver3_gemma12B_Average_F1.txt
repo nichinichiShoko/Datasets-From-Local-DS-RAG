@@ -1,0 +1,3 @@
+Model Name: gemma12B
+Average F1: 0.0000
+Exact Match: 0.0000

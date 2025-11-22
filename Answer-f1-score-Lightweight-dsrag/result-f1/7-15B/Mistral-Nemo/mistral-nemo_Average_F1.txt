@@ -1,0 +1,3 @@
+Model Name: mistral-nemo
+Average F1: 0.4900
+Exact Match: 0.4900

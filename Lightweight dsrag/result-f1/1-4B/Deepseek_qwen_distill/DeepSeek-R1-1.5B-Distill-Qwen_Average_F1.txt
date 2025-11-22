@@ -1,3 +1,0 @@
-Model Name: DeepSeek-R1-1.5B-Distill-Qwen
-Average F1: 0.1249
-Exact Match: 0.0000

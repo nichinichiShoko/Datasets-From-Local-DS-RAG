@@ -1,0 +1,5 @@
+질문이 who's born date is~로 시작해서 날짜를 대답해버림.
+
+-> 그래서 응답을 이름이나 yes or no로 강제함.
+-> 그러니 ranking 질문에서 yes or no 로 답해버림.
+-> 질문 유형을 나눠서 who's로 시작한다면 이름 yes/no를 기대하는 질문이면 yes or no하라 했더니 다시 날짜 대답..

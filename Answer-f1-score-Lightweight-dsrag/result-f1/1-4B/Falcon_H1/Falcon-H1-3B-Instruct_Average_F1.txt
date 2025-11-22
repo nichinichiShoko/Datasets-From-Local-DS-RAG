@@ -1,0 +1,3 @@
+Model Name: Falcon-H1-3B-Instruct
+Average F1: 0.7300
+Exact Match: 0.7300

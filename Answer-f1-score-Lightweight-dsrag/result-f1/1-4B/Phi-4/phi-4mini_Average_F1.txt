@@ -1,0 +1,3 @@
+Model Name: phi-4mini
+Average F1: 0.6700
+Exact Match: 0.6700
