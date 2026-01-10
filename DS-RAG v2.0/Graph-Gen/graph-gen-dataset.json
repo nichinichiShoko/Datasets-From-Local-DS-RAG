@@ -1,0 +1,1904 @@
+[
+    {
+        "question": "Who's born date is the first earliest, among Donald Trump, who was born into a wealthy family with a real estate developer father and a Scottish immigrant mother, and he has had a controversial career as a businessman, television personality, and the 45th President of the United States, Bob Marley and Ai Weiwei?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Donald Trump",
+            "Was Donald Trump born into a wealthy family with a real estate developer father",
+            "Did Donald Trump have a Scottish immigrant mother",
+            "Has Donald Trump had a controversial career as a businessman",
+            "Has Donald Trump had a controversial career as a television personality",
+            "Was Donald Trump the 45th President of the United States",
+            "What is the born date of Bob Marley",
+            "What is the born date of Ai Weiwei"
+        ],
+        "gt_ans": "Bob Marley",
+        "gt_doc": [
+            "Trump was born on June 14, 1946.",
+            "Marley was born on February 06, 1945.",
+            "Weiwei was born on August 28, 1957."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Vladimir Putin, who served as the President of Russia and has held various positions in the government since the 1990s, and is known for his strongman image and controversial policies, and Bob Marley?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Vladimir Putin",
+            "Did Vladimir Putin serve as the President of Russia",
+            "Has Vladimir Putin held various positions in the government since the 1990s",
+            "Is Vladimir Putin known for his strongman image",
+            "Is Vladimir Putin known for his controversial policies",
+            "What is the born date of Bob Marley"
+        ],
+        "gt_ans": "Bob Marley",
+        "gt_doc": [
+            "Marley was born on February 06, 1945.",
+            "Putin was born on October 07, 1952."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Johnny Depp, who began his career in the early 1980s with a role in the television series \"21 Jump Street\" and has since become a prominent actor known for his versatility in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and who dropped out of high school at the age of 15 to pursue a career in music before transitioning to acting, and Kylian Mbappe?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Johnny Depp",
+            "Did Johnny Depp begin his career in the early 1980s with a role in the television series \"21 Jump Street\"",
+            "Has Johnny Depp since become a prominent actor known for his versatility in films such as \"Pirates of the Caribbean\"",
+            "Is Johnny Depp known for his role in \"Edward Scissorhands\"",
+            "Did Johnny Depp drop out of high school at the age of 15 to pursue a career in music before transitioning to acting",
+            "What is the born date of Kylian Mbappe"
+        ],
+        "gt_ans": "Kylian Mbappe",
+        "gt_doc": [
+            "Depp was born on June 9, 1963.",
+            "Mbappe was born on December 20, 1998."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Neil Armstrong, who was born in Wapakoneta, Ohio, and grew up in a family that valued education and hard work, with his father being a state auditor and his mother a homemaker, Mark Zuckerberg and Pharrell Williams?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Neil Armstrong",
+            "Was Neil Armstrong born in Wapakoneta",
+            "Was Neil Armstrong born in Ohio",
+            "Did Neil Armstrong grow up in a family that valued education",
+            "Did Neil Armstrong grow up in a family that valued hard work",
+            "Was Neil Armstrong's father a state auditor",
+            "Was Neil Armstrong's mother a homemaker",
+            "What is the born date of Mark Zuckerberg",
+            "What is the born date of Pharrell Williams"
+        ],
+        "gt_ans": "Mark Zuckerberg",
+        "gt_doc": [
+            "Armstrong was born on August 5, 1930.",
+            "Zuckerberg was born on May 14, 1984.",
+            "Williams was born on April 5, 1973."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who faced controversies regarding the portrayal of his achievements and the intense scrutiny of his character during and after the Apollo 11 mission, and had a distinguished career as an astronaut, naval aviator, and aerospace engineer, and Bob Marley different?",
+        "question_d": [
+            "Is the nationality of Neil Armstrong different from Bob Marley",
+            "Did Neil Armstrong face controversies regarding the portrayal of his achievements",
+            "Did Neil Armstrong face the intense scrutiny of his character during the Apollo 11 mission",
+            "Did Neil Armstrong face the intense scrutiny of his character after the Apollo 11 mission",
+            "Did Neil Armstrong have a distinguished career as an astronaut",
+            "Did Neil Armstrong have a distinguished career as a naval aviator",
+            "Did Neil Armstrong have a distinguished career as an aerospace engineer"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "Marley's nationality is Jamaican."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Emma Watson, who attended Brown University, where she graduated with a degree in English literature, and was previously educated at Dragon School and Headington School, Leonardo DiCaprio and Bruce Lee?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Emma Watson",
+            "Did Emma Watson attend Brown University",
+            "Did Emma Watson graduate with a degree in English literature",
+            "Was Emma Watson previously educated at Dragon School",
+            "Was Emma Watson previously educated at Headington School",
+            "What is the born date of Leonardo DiCaprio",
+            "What is the born date of Bruce Lee"
+        ],
+        "gt_ans": "Leonardo DiCaprio",
+        "gt_doc": [
+            "Lee was born on November 27, 1940.",
+            "DiCaprio was born on November 11, 1974.",
+            "Watson was born on April 15, 1990."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Johnny Depp, who has been involved in various controversies including legal battles with his ex-wife Amber Heard and allegations of substance abuse, and he dropped out of high school at the age of 15 to pursue a career in music before eventually transitioning to acting, Malala Yousafzai and Natalie Portman?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Johnny Depp",
+            "Has Johnny Depp been involved in various controversies including legal battles with his ex-wife Amber Heard",
+            "Has Johnny Depp faced allegations of substance abuse",
+            "Did Johnny Depp drop out of high school at the age of 15 to pursue a career in music before eventually transitioning to acting",
+            "What is the born date of Malala Yousafzai",
+            "What is the born date of Natalie Portman"
+        ],
+        "gt_ans": "Malala Yousafzai",
+        "gt_doc": [
+            "Portman was born on June 09, 1981.",
+            "Depp was born on June 9, 1963.",
+            "Yousafzai was born on July 12, 1997."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who faced controversies regarding the authenticity of the moon landing and the subsequent claims of conspiracy theories, and who was born to a family with a strong emphasis on education and hard work, Marie Curie and Kamala Harris and Albert Einstein the same?",
+        "question_d": [
+            "Is the nationality of Neil Armstrong the same as the others mentioned",
+            "Did Neil Armstrong face controversies regarding the authenticity of the moon landing",
+            "Did Neil Armstrong face subsequent claims of conspiracy theories",
+            "Was Neil Armstrong born to a family with a strong emphasis on education",
+            "Was Neil Armstrong born to a family with a strong emphasis on hard work",
+            "Is the nationality of Marie Curie the same as the others mentioned",
+            "Is the nationality of Kamala Harris the same as the others mentioned",
+            "Is the nationality of Albert Einstein the same as the others mentioned"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "Curie's nationality is Polish-French.",
+            "Einstein's nationality is German.",
+            "Harris's nationality is American."
+        ]
+    },
+    {
+        "question": "Is nationality of Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and he was born into a working-class family in Leningrad, Leonardo DiCaprio and Maya Angelou different?",
+        "question_d": [
+            "Is the nationality of Vladimir Putin different from others",
+            "Did Vladimir Putin attend Leningrad State University where he studied law",
+            "Did Vladimir Putin graduate in 1975",
+            "Was Vladimir Putin born into a working-class family in Leningrad",
+            "Is the nationality of Leonardo DiCaprio different from others",
+            "Is the nationality of Maya Angelou different from others"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Putin's nationality is Russian.",
+            "DiCaprio's nationality is American.",
+            "Angelou's nationality is American."
+        ]
+    },
+    {
+        "question": "Is nationality of Johnny Depp, who dropped out of high school at the age of 16 to pursue a music career and had a challenging early life marked by his family's frequent relocations and his parents' tumultuous relationship, Maya Angelou and Bruce Lee different?",
+        "question_d": [
+            "Is the nationality of Johnny Depp different from Maya Angelou and Bruce Lee",
+            "Did Johnny Depp drop out of high school at the age of 16 to pursue a music career",
+            "Did Johnny Depp have a challenging early life marked by his family's frequent relocations",
+            "Was Johnny Depp's early life marked by his parents' tumultuous relationship",
+            "What is the nationality of Maya Angelou",
+            "What is the nationality of Bruce Lee"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Depp's nationality is American.",
+            "Angelou's nationality is American.",
+            "Lee's nationality is American."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Vladimir Putin, who grew up in Leningrad (now Saint Petersburg) in a communal apartment with his parents and grandparents, and his early life was marked by the hardships of World War II, as his father served in the Soviet Navy and his mother worked in a factory, and Nelson Mandela?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Vladimir Putin",
+            "Did Vladimir Putin grow up in Leningrad (now Saint Petersburg) in a communal apartment with his parents",
+            "Did Vladimir Putin grow up in Leningrad (now Saint Petersburg) in a communal apartment with his grandparents",
+            "Was Vladimir Putin's early life marked by the hardships of World War II",
+            "Did Vladimir Putin's father serve in the Soviet Navy",
+            "Did Vladimir Putin's mother work in a factory",
+            "What is the born date of Nelson Mandela"
+        ],
+        "gt_ans": "Vladimir Putin",
+        "gt_doc": [
+            "Mandela was born on July 18, 1918.",
+            "Putin was born on October 07, 1952."
+        ]
+    },
+    {
+        "question": "Is nationality of Taylor Swift, who was born to Scott Kingsley Swift, a financial advisor, and Andrea Gardner Swift, a homemaker, and has been involved in various controversies including public feuds with other celebrities and her outspoken stance on issues such as artists' rights and sexual assault, and Chris Hemsworth the same?",
+        "question_d": [
+            "Is the nationality of Taylor Swift the same as Chris Hemsworth",
+            "Was Taylor Swift born to Scott Kingsley Swift",
+            "Is Scott Kingsley Swift a financial advisor",
+            "Was Taylor Swift born to Andrea Gardner Swift",
+            "Is Andrea Gardner Swift a homemaker",
+            "Has Taylor Swift been involved in various controversies including public feuds with other celebrities",
+            "Has Taylor Swift taken an outspoken stance on issues such as artists' rights",
+            "Has Taylor Swift taken an outspoken stance on issues such as sexual assault"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Swift's nationality is American.",
+            "Hemsworth's nationality is Australian."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Neil Armstrong, who attended Blume High School and later went to Purdue University on a naval scholarship, and was involved in controversies such as the debate over the authenticity of the moon landing and the criticism he faced for his reserved personality, and Thomas Edison?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Neil Armstrong",
+            "Did Neil Armstrong attend Blume High School",
+            "Did Neil Armstrong go to Purdue University on a naval scholarship",
+            "Was Neil Armstrong involved in controversies such as the debate over the authenticity of the moon landing",
+            "Did Neil Armstrong face criticism for his reserved personality",
+            "What is the born date of Thomas Edison"
+        ],
+        "gt_ans": "Thomas Edison",
+        "gt_doc": [
+            "Edison was born on February 11, 1847.",
+            "Armstrong was born on August 5, 1930."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Taylor Swift, who was born to Scott Kingsley Swift, a financial advisor, and Andrea Gardner Swift, a homemaker, and has been involved in various controversies including public feuds with other artists and her highly publicized relationships, Leonardo DiCaprio and Stephen Jobs?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Taylor Swift",
+            "Was Taylor Swift born to Scott Kingsley Swift",
+            "Is Scott Kingsley Swift a financial advisor",
+            "Was Taylor Swift born to Andrea Gardner Swift",
+            "Is Andrea Gardner Swift a homemaker",
+            "Has Taylor Swift been involved in various controversies including public feuds with other artists",
+            "Has Taylor Swift had highly publicized relationships",
+            "What is the born date of Leonardo DiCaprio",
+            "What is the born date of Stephen Jobs"
+        ],
+        "gt_ans": "Stephen Jobs",
+        "gt_doc": [
+            "Jobs was born on February 24, 1955.",
+            "DiCaprio was born on November 11, 1974.",
+            "Swift was born on December 13, 1989."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education through homeschooling, and began her career in music at a young age, signing with Big Machine Records at the age of 15 and releasing her self-titled debut album shortly thereafter, Kylian Mbappe and Kamala Harris and Nelson Mandela?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Taylor Swift",
+            "Did Taylor Swift attend Hendersonville High School",
+            "Did Taylor Swift later transfer to the Aaron Academy",
+            "Did Taylor Swift complete her education through homeschooling",
+            "Did Taylor Swift begin her career in music at a young age",
+            "Did Taylor Swift sign with Big Machine Records at the age of 15",
+            "Did Taylor Swift release her self-titled debut album shortly thereafter",
+            "What is the born date of Kylian Mbappe",
+            "What is the born date of Kamala Harris",
+            "What is the born date of Nelson Mandela"
+        ],
+        "gt_ans": "Kylian Mbappe",
+        "gt_doc": [
+            "Mandela was born on July 18, 1918.",
+            "Swift was born on December 13, 1989.",
+            "Harris was born on October 20, 1964.",
+            "Mbappe was born on December 20, 1998."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Johnny Depp, who has been involved in numerous controversies including highly publicized legal battles with ex-wife Amber Heard and allegations of domestic violence, and comes from a family with a mixed heritage of Cherokee, Irish, and German descent, Bob Marley and Greta Thunberg?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Johnny Depp",
+            "Has Johnny Depp been involved in numerous controversies including highly publicized legal battles with ex-wife Amber Heard",
+            "Has Johnny Depp faced allegations of domestic violence",
+            "Does Johnny Depp come from a family with a mixed heritage of Cherokee descent",
+            "Does Johnny Depp come from a family with a mixed heritage of Irish descent",
+            "Does Johnny Depp come from a family with a mixed heritage of German descent",
+            "What is the born date of Bob Marley",
+            "What is the born date of Greta Thunberg"
+        ],
+        "gt_ans": "Bob Marley",
+        "gt_doc": [
+            "Marley was born on February 06, 1945.",
+            "Thunberg was born on January 03, 2003.",
+            "Depp was born on June 9, 1963."
+        ]
+    },
+    {
+        "question": "Is nationality of Johnny Depp, who dropped out of high school at the age of 15 to pursue a music career and comes from a family with a diverse background, including a father who was a civil engineer and a mother who was a waitress, Will Smith and John Legend different?",
+        "question_d": [
+            "Is the nationality of Johnny Depp different",
+            "Did Johnny Depp drop out of high school at the age of 15 to pursue a music career",
+            "Does Johnny Depp come from a family with a diverse background",
+            "Did Johnny Depp have a father who was a civil engineer",
+            "Did Johnny Depp have a mother who was a waitress",
+            "Is the nationality of Will Smith different",
+            "Is the nationality of John Legend different"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Depp's nationality is American.",
+            "Smith's nationality is American.",
+            "Legend's nationality is American."
+        ]
+    },
+    {
+        "question": "Is nationality of Vladimir Putin, who served as the President of Russia and has held various positions in the government since the 1990s, and is known for his strongman image and controversial policies, Albert Einstein and John Legend different?",
+        "question_d": [
+            "Is the nationality of Vladimir Putin different from others",
+            "Did Vladimir Putin serve as the President of Russia",
+            "Has Vladimir Putin held various positions in the government since the 1990s",
+            "Is Vladimir Putin known for his strongman image",
+            "Is Vladimir Putin known for his controversial policies",
+            "Is the nationality of Albert Einstein different from others",
+            "Is the nationality of John Legend different from others"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Putin's nationality is Russian.",
+            "Einstein's nationality is German.",
+            "Legend's nationality is American."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Taylor Swift, who has been involved in various controversies including public feuds with other celebrities and criticism over her political statements, and comes from a family with a strong musical background, as her father is a financial advisor and her mother is a former homemaker who also worked as a mutual fund marketing executive, Johnny Depp and Lionel Messi?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Taylor Swift",
+            "Has Taylor Swift been involved in various controversies including public feuds with other celebrities",
+            "Has Taylor Swift faced criticism over her political statements",
+            "Does Taylor Swift come from a family with a strong musical background",
+            "Is Taylor Swift's father a financial advisor",
+            "Is Taylor Swift's mother a former homemaker who also worked as a mutual fund marketing executive",
+            "What is the born date of Johnny Depp",
+            "What is the born date of Lionel Messi"
+        ],
+        "gt_ans": "Johnny Depp",
+        "gt_doc": [
+            "Messi was born on June 24, 1987.",
+            "Swift was born on December 13, 1989.",
+            "Depp was born on June 9, 1963."
+        ]
+    },
+    {
+        "question": "Is nationality of Donald Trump, who is a businessman and television personality known for his real estate empire and as the host of \"The Apprentice,\" and who comes from a family of real estate developers, with his father Fred Trump being a prominent figure in the industry, and Johnny Depp different?",
+        "question_d": [
+            "Is the nationality of Donald Trump different from Johnny Depp",
+            "Is Donald Trump a businessman",
+            "Is Donald Trump a television personality known for his real estate empire",
+            "Is Donald Trump known as the host of \"The Apprentice\"",
+            "Does Donald Trump come from a family of real estate developers",
+            "Was Donald Trump's father, Fred Trump, a prominent figure in the real estate industry"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Trump's nationality is American.",
+            "Depp's nationality is American."
+        ]
+    },
+    {
+        "question": "Is nationality of Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has also ventured into music and production, and who comes from a family with a mixed heritage including Cherokee, Irish, and German roots, and Emma Watson the same?",
+        "question_d": [
+            "Is the nationality of Johnny Depp the same as Emma Watson",
+            "Is Johnny Depp an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\"",
+            "Is Johnny Depp known for his versatile roles in films such as \"Edward Scissorhands\"",
+            "Has Johnny Depp ventured into music",
+            "Has Johnny Depp ventured into production",
+            "Does Johnny Depp come from a family with a mixed heritage including Cherokee roots",
+            "Does Johnny Depp come from a family with a mixed heritage including Irish roots",
+            "Does Johnny Depp come from a family with a mixed heritage including German roots"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Depp's nationality is American.",
+            "Watson's nationality is English."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Neil Armstrong, who attended Purdue University on a naval scholarship and later earned a degree in aeronautical engineering, and was involved in controversies such as the criticism he faced for his perceived aloofness and the public's expectations of him after the Apollo 11 mission, Johnny Depp and David Bowie?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Neil Armstrong",
+            "Did Neil Armstrong attend Purdue University on a naval scholarship",
+            "Did Neil Armstrong later earn a degree in aeronautical engineering",
+            "Was Neil Armstrong involved in controversies such as the criticism he faced for his perceived aloofness",
+            "What were the public's expectations of Neil Armstrong after the Apollo 11 mission",
+            "What is the born date of Johnny Depp",
+            "What is the born date of David Bowie"
+        ],
+        "gt_ans": "Neil Armstrong",
+        "gt_doc": [
+            "Bowie was born on January 08, 1947.",
+            "Armstrong was born on August 5, 1930.",
+            "Depp was born on June 9, 1963."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Taylor Swift, who began her career in country music at a young age, signing with Big Machine Records and releasing her self-titled debut album in 2006, and later transitioned to pop music with her album \"1989,\" and also attended Hendersonville High School in Tennessee before being homeschooled to accommodate her touring schedule, Johnny Depp and Oprah Winfrey?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Taylor Swift",
+            "Did Taylor Swift begin her career in country music at a young age",
+            "Did Taylor Swift sign with Big Machine Records",
+            "Did Taylor Swift release her self-titled debut album in 2006",
+            "Did Taylor Swift later transition to pop music with her album \"1989\"",
+            "Did Taylor Swift attend Hendersonville High School in Tennessee before being homeschooled to accommodate her touring schedule",
+            "What is the born date of Johnny Depp",
+            "What is the born date of Oprah Winfrey"
+        ],
+        "gt_ans": "Taylor Swift",
+        "gt_doc": [
+            "Winfrey was born on January 29, 1954.",
+            "Swift was born on December 13, 1989.",
+            "Depp was born on June 9, 1963."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Donald Trump, who has been involved in numerous controversies throughout his career, including his comments on immigration and race, and attended the New York Military Academy before transferring to Fordham University and later graduating from the Wharton School of the University of Pennsylvania, Emma Watson and Lady Gaga?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Donald Trump",
+            "Has Donald Trump been involved in numerous controversies throughout his career",
+            "Has Donald Trump made comments on immigration",
+            "Has Donald Trump made comments on race",
+            "Did Donald Trump attend the New York Military Academy before transferring to Fordham University",
+            "Did Donald Trump graduate from the Wharton School of the University of Pennsylvania",
+            "What is the born date of Emma Watson",
+            "What is the born date of Lady Gaga"
+        ],
+        "gt_ans": "Lady Gaga",
+        "gt_doc": [
+            "Trump was born on June 14, 1946.",
+            "Gaga was born on March 28, 1986.",
+            "Watson was born on April 15, 1990."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has faced various controversies including legal battles with former management and allegations of domestic violence, Natalie Portman and Pharrell Williams?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Johnny Depp",
+            "Is Johnny Depp an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\"",
+            "Is Johnny Depp known for his role in \"Edward Scissorhands\"",
+            "Has Johnny Depp faced various controversies including legal battles with former management",
+            "Has Johnny Depp faced allegations of domestic violence",
+            "What is the born date of Natalie Portman",
+            "What is the born date of Pharrell Williams"
+        ],
+        "gt_ans": "Natalie Portman",
+        "gt_doc": [
+            "Portman was born on June 09, 1981.",
+            "Depp was born on June 9, 1963.",
+            "Williams was born on April 5, 1973."
+        ]
+    },
+    {
+        "question": "Is nationality of Taylor Swift, who attended Hendersonville High School and later transferred to Wyomissing Area Junior/Senior High School, where she began pursuing a career in music at a young age, Vladimir Putin and John Legend the same?",
+        "question_d": [
+            "Is the nationality of Taylor Swift the same as others mentioned",
+            "Did Taylor Swift attend Hendersonville High School",
+            "Did Taylor Swift later transfer to Wyomissing Area Junior/Senior High School",
+            "Did Taylor Swift begin pursuing a career in music at a young age at Wyomissing Area Junior/Senior High School",
+            "Is the nationality of Vladimir Putin the same as others mentioned",
+            "Is the nationality of John Legend the same as others mentioned"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Swift's nationality is American.",
+            "Putin's nationality is Russian.",
+            "Legend's nationality is American."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Vladimir Putin, who was born to a working-class family in Leningrad, where his father was a conscript in the Soviet Navy and his mother was a factory worker, and he grew up in a communal apartment, Neil deGrasse Tyson and Lionel Messi?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Vladimir Putin",
+            "Was Vladimir Putin born to a working-class family in Leningrad",
+            "Was Vladimir Putin's father a conscript in the Soviet Navy",
+            "Was Vladimir Putin's mother a factory worker",
+            "Did Vladimir Putin grow up in a communal apartment",
+            "What is the born date of Neil deGrasse Tyson",
+            "What is the born date of Lionel Messi"
+        ],
+        "gt_ans": "Lionel Messi",
+        "gt_doc": [
+            "Messi was born on June 24, 1987.",
+            "Putin was born on October 07, 1952.",
+            "deGrasse Tyson was born on October 05, 1958."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Neil Armstrong, who was born to a naval aviator father and a homemaker mother, and who faced controversies regarding the authenticity of the moon landing and his later public appearances, Johnny Depp and Elon Musk and Will Ferrell?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Neil Armstrong",
+            "Was Neil Armstrong born to a naval aviator father",
+            "Was Neil Armstrong born to a homemaker mother",
+            "Did Neil Armstrong face controversies regarding the authenticity of the moon landing",
+            "Did Neil Armstrong face controversies regarding his later public appearances",
+            "What is the born date of Johnny Depp",
+            "What is the born date of Elon Musk",
+            "What is the born date of Will Ferrell"
+        ],
+        "gt_ans": "Johnny Depp",
+        "gt_doc": [
+            "Ferrell was born on July 16, 1967.",
+            "Armstrong was born on August 5, 1930.",
+            "Musk was born on June 28, 1971.",
+            "Depp was born on June 9, 1963."
+        ]
+    },
+    {
+        "question": "Is nationality of Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and has been involved in various controversies including allegations of election interference and human rights abuses, Mark Zuckerberg and Shakira the same?",
+        "question_d": [
+            "Is the nationality of Vladimir Putin the same as Mark Zuckerberg and Shakira",
+            "Was Vladimir Putin born into a working-class family in Leningrad",
+            "Is Leningrad now known as Saint Petersburg",
+            "Has Vladimir Putin been involved in various controversies including allegations of election interference",
+            "Has Vladimir Putin been involved in human rights abuses",
+            "Is the nationality of Mark Zuckerberg the same as Vladimir Putin and Shakira",
+            "Is the nationality of Shakira the same as Vladimir Putin and Mark Zuckerberg"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Putin's nationality is Russian.",
+            "Zuckerberg's nationality is American.",
+            "nationality is Colombian."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed an interest in music at a young age and began performing in local talent shows, and has faced controversies including public feuds with other celebrities and criticism over her political endorsements, Albert Einstein and Kamala Harris and Nelson Mandela?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Taylor Swift",
+            "Did Taylor Swift grow up in Wyomissing",
+            "Did Taylor Swift grow up in Pennsylvania",
+            "Did Taylor Swift develop an interest in music at a young age",
+            "Did Taylor Swift begin performing in local talent shows",
+            "Has Taylor Swift faced controversies including public feuds with other celebrities",
+            "Has Taylor Swift faced criticism over her political endorsements",
+            "What is the born date of Albert Einstein",
+            "What is the born date of Kamala Harris",
+            "What is the born date of Nelson Mandela"
+        ],
+        "gt_ans": "Taylor Swift",
+        "gt_doc": [
+            "Mandela was born on July 18, 1918.",
+            "Swift was born on December 13, 1989.",
+            "Harris was born on October 20, 1964.",
+            "Einstein was born on March 14, 1879."
+        ]
+    },
+    {
+        "question": "Is nationality of Emma Watson, who was born to a lawyer father and a British mother who worked as a teacher, and spent her early life in Paris before moving back to England, Bruno Mars and Thomas Edison different?",
+        "question_d": [
+            "Is the nationality of Emma Watson different from others",
+            "Was Emma Watson born to a lawyer father",
+            "Was Emma Watson born to a British mother who worked as a teacher",
+            "Did Emma Watson spend her early life in Paris before moving back to England",
+            "Is the nationality of Bruno Mars different from others",
+            "Is the nationality of Thomas Edison different from others"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Watson's nationality is English.",
+            "Mars's nationality is American.",
+            "Edison's nationality is American."
+        ]
+    },
+    {
+        "question": "Is nationality of Donald Trump, who attended the New York Military Academy and later transferred to Fordham University before finishing his degree at the Wharton School of the University of Pennsylvania, and has been involved in numerous controversies including his comments on immigration and the media, William Shakespeare and Oprah Winfrey and Martin Luther King Jr. different?",
+        "question_d": [
+            "Is the nationality of Donald Trump different",
+            "Did Donald Trump attend the New York Military Academy",
+            "Did Donald Trump later transfer to Fordham University before finishing his degree at the Wharton School of the University of Pennsylvania",
+            "Has Donald Trump been involved in numerous controversies including his comments on immigration",
+            "Has Donald Trump been involved in controversies related to the media",
+            "Is the nationality of William Shakespeare different",
+            "Is the nationality of Oprah Winfrey different",
+            "Is the nationality of Martin Luther King Jr. different"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Trump's nationality is American.",
+            "Shakespeare's nationality is English.",
+            "Luther King Jr.'s nationality is American.",
+            "Winfrey's nationality is American."
+        ]
+    },
+    {
+        "question": "Is nationality of Taylor Swift, who grew up in Reading, Pennsylvania, where she developed a love for music at an early age and began performing in local talent shows, and faced controversies including public feuds with other celebrities and criticism over her dating life, and Emma Watson different?",
+        "question_d": [
+            "Is the nationality of Taylor Swift different from Emma Watson",
+            "Did Taylor Swift grow up in Reading",
+            "Did Taylor Swift grow up in Pennsylvania",
+            "Did Taylor Swift develop a love for music at an early age",
+            "Did Taylor Swift begin performing in local talent shows",
+            "Did Taylor Swift face controversies including public feuds with other celebrities",
+            "Did Taylor Swift face criticism over her dating life"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Swift's nationality is American.",
+            "Watson's nationality is English."
+        ]
+    },
+    {
+        "question": "Is nationality of Taylor Swift, who is a highly successful singer-songwriter known for her narrative songwriting and has won numerous awards including multiple Grammy Awards, and has been involved in various controversies such as her public feuds with other celebrities and her criticism of the music industry, Oprah Winfrey and Shakira the same?",
+        "question_d": [
+            "Is the nationality of Taylor Swift the same as Oprah Winfrey and Shakira",
+            "Is Taylor Swift a highly successful singer-songwriter known for her narrative songwriting",
+            "Has Taylor Swift won numerous awards including multiple Grammy Awards",
+            "Has Taylor Swift been involved in various controversies such as her public feuds with other celebrities",
+            "Has Taylor Swift been involved in controversies regarding her criticism of the music industry",
+            "Is the nationality of Oprah Winfrey the same as Taylor Swift and Shakira",
+            "Is the nationality of Shakira the same as Taylor Swift and Oprah Winfrey"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Swift's nationality is American.",
+            "Winfrey's nationality is American.",
+            "nationality is Colombian."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Neil Armstrong, who grew up in Wapakoneta, Ohio, where he developed a passion for aviation at a young age and became a pilot at 16, and Chris Hemsworth?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Neil Armstrong",
+            "Did Neil Armstrong grow up in Wapakoneta",
+            "Did Neil Armstrong grow up in Ohio",
+            "Did Neil Armstrong develop a passion for aviation at a young age",
+            "Did Neil Armstrong become a pilot at 16",
+            "What is the born date of Chris Hemsworth"
+        ],
+        "gt_ans": "Chris Hemsworth",
+        "gt_doc": [
+            "Armstrong was born on August 5, 1930.",
+            "Hemsworth was born on August 11, 1983."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Emma Watson, who was born to a lawyer father and a British mother who worked as a teacher, and spent her early life in Paris before moving back to England, Bruno Mars and Thomas Edison?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Emma Watson",
+            "Was Emma Watson born to a lawyer father",
+            "Did Emma Watson have a British mother who worked as a teacher",
+            "Did Emma Watson spend her early life in Paris before moving back to England",
+            "What is the born date of Bruno Mars",
+            "What is the born date of Thomas Edison"
+        ],
+        "gt_ans": "Emma Watson",
+        "gt_doc": [
+            "Edison was born on February 11, 1847.",
+            "Mars was born on October 8, 1985.",
+            "Watson was born on April 15, 1990."
+        ]
+    },
+    {
+        "question": "Is nationality of Vladimir Putin, who served as a KGB officer before entering politics, and has held various positions in the Russian government, including Prime Minister and President, and Leonardo da Vinci different?",
+        "question_d": [
+            "Is the nationality of Vladimir Putin different from Leonardo da Vinci",
+            "Did Vladimir Putin serve as a KGB officer before entering politics",
+            "Has Vladimir Putin held various positions in the Russian government",
+            "Has Vladimir Putin held the position of Prime Minister in the Russian government",
+            "Has Vladimir Putin held the position of President in the Russian government",
+            "Is the nationality of Leonardo da Vinci different from Vladimir Putin"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Putin's nationality is Russian.",
+            "da Vinci's nationality is Italian."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who was born in Wapakoneta, Ohio, and showed an early interest in aviation, earning his student pilot's license at the age of 16, and went on to have a distinguished career as a naval aviator, test pilot, and astronaut, famously becoming the first person to walk on the moon during the Apollo 11 mission, Emma Watson and Malala Yousafzai the same?",
+        "question_d": [
+            "Is the nationality of Neil Armstrong the same as Emma Watson and Malala Yousafzai",
+            "Was Neil Armstrong born in Wapakoneta",
+            "Was Neil Armstrong born in Ohio",
+            "Did Neil Armstrong show an early interest in aviation",
+            "Did Neil Armstrong earn his student pilot's license at the age of 16",
+            "Did Neil Armstrong have a distinguished career as a naval aviator",
+            "Did Neil Armstrong have a distinguished career as a test pilot",
+            "Did Neil Armstrong have a distinguished career as an astronaut",
+            "Did Neil Armstrong famously become the first person to walk on the moon during the Apollo 11 mission",
+            "What is the nationality of Emma Watson",
+            "What is the nationality of Malala Yousafzai"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "Watson's nationality is English.",
+            "Yousafzai's nationality is Pakistani."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Emma Watson, who was born in Paris to a French mother and a British father, and raised in England, where she attended Dragon School and later Brown University, and gained fame for her role as Hermione Granger in the Harry Potter film series, which began her successful acting career, Leonardo DiCaprio and Bruno Mars?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Emma Watson",
+            "Was Emma Watson born in Paris to a French mother",
+            "Was Emma Watson born to a British father",
+            "Was Emma Watson raised in England",
+            "Did Emma Watson attend Dragon School",
+            "Did Emma Watson later attend Brown University",
+            "Did Emma Watson gain fame for her role as Hermione Granger in the Harry Potter film series",
+            "Did the Harry Potter film series begin Emma Watson's successful acting career",
+            "What is the born date of Leonardo DiCaprio",
+            "What is the born date of Bruno Mars"
+        ],
+        "gt_ans": "Bruno Mars",
+        "gt_doc": [
+            "Mars was born on October 8, 1985.",
+            "DiCaprio was born on November 11, 1974.",
+            "Watson was born on April 15, 1990."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who attended Blume High School and later went to Purdue University on a Navy scholarship, where he studied aeronautical engineering and developed a passion for flying from a young age, Neil deGrasse Tyson and Lionel Messi the same?",
+        "question_d": [
+            "Is the nationality of Neil Armstrong the same as Neil deGrasse Tyson and Lionel Messi",
+            "Did Neil Armstrong attend Blume High School",
+            "Did Neil Armstrong later go to Purdue University on a Navy scholarship",
+            "Did Neil Armstrong study aeronautical engineering at Purdue University",
+            "Did Neil Armstrong develop a passion for flying from a young age",
+            "Is the nationality of Neil deGrasse Tyson the same as Neil Armstrong and Lionel Messi",
+            "Is the nationality of Lionel Messi the same as Neil Armstrong and Neil deGrasse Tyson"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "deGrasse Tyson's nationality is American.",
+            "Messi's nationality is Argentine."
+        ]
+    },
+    {
+        "question": "Is nationality of Johnny Depp, who attended Miramar High School and dropped out at the age of 15 to pursue a career in music, and comes from a family with a diverse background, including a father who was a civil engineer and a mother who was a waitress, Vincent van Gogh and Ai Weiwei different?",
+        "question_d": [
+            "Is the nationality of Johnny Depp different from others",
+            "Did Johnny Depp attend Miramar High School",
+            "Did Johnny Depp drop out at the age of 15 to pursue a career in music",
+            "Does Johnny Depp come from a family with a diverse background",
+            "Was Johnny Depp's father a civil engineer",
+            "Was Johnny Depp's mother a waitress",
+            "Is the nationality of Vincent van Gogh different from others",
+            "Is the nationality of Ai Weiwei different from others"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Depp's nationality is American.",
+            "van Gogh's nationality is Dutch.",
+            "Weiwei's nationality is Chinese."
+        ]
+    },
+    {
+        "question": "Is nationality of Taylor Swift, who gained significant media attention for her public feuds and controversies, including her highly publicized disputes with other celebrities and her advocacy for artists' rights, and who grew up in Reading, Pennsylvania, where she developed a passion for music at a young age, Bruce Lee and John Legend the same?",
+        "question_d": [
+            "Is the nationality of Taylor Swift the same as Bruce Lee and John Legend",
+            "Did Taylor Swift gain significant media attention for her public feuds",
+            "Did Taylor Swift gain significant media attention for her controversies",
+            "Did Taylor Swift have highly publicized disputes with other celebrities",
+            "Is Taylor Swift known for her advocacy for artists' rights",
+            "Did Taylor Swift grow up in Reading",
+            "Did Taylor Swift grow up in Pennsylvania",
+            "Did Taylor Swift develop a passion for music at a young age in Reading, Pennsylvania",
+            "Is the nationality of Bruce Lee the same as Taylor Swift and John Legend",
+            "Is the nationality of John Legend the same as Taylor Swift and Bruce Lee"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Swift's nationality is American.",
+            "Lee's nationality is American.",
+            "Legend's nationality is American."
+        ]
+    },
+    {
+        "question": "Is nationality of Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging family dynamic, and he dropped out of high school at the age of 15 to pursue a career in music before eventually transitioning to acting, Mark Zuckerberg and Natalie Portman the same?",
+        "question_d": [
+            "Is the nationality of Johnny Depp the same as Mark Zuckerberg and Natalie Portman",
+            "Did Johnny Depp have a tumultuous early life",
+            "Did Johnny Depp move frequently due to his father's job as a civil engineer",
+            "Did Johnny Depp experience a challenging family dynamic",
+            "Did Johnny Depp drop out of high school at the age of 15 to pursue a career in music before eventually transitioning to acting",
+            "Is the nationality of Mark Zuckerberg the same as Johnny Depp and Natalie Portman",
+            "Is the nationality of Natalie Portman the same as Johnny Depp and Mark Zuckerberg"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Depp's nationality is American.",
+            "Zuckerberg's nationality is American.",
+            "Portman's nationality is American."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Neil Armstrong, who faced controversies regarding his portrayal as a hero and the public's perception of his achievements, and who was born to a family where his mother was a homemaker and his father was a naval aviator, Vincent van Gogh and Lionel Messi?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Neil Armstrong",
+            "Did Neil Armstrong face controversies regarding his portrayal as a hero",
+            "What was the public's perception of Neil Armstrong's achievements",
+            "Was Neil Armstrong born to a family where his mother was a homemaker",
+            "Was Neil Armstrong's father a naval aviator",
+            "What is the born date of Vincent van Gogh",
+            "What is the born date of Lionel Messi"
+        ],
+        "gt_ans": "Vincent van Gogh",
+        "gt_doc": [
+            "Messi was born on June 24, 1987.",
+            "Armstrong was born on August 5, 1930.",
+            "van Gogh was born on March 30, 1853."
+        ]
+    },
+    {
+        "question": "Is nationality of Donald Trump, who was born in Queens, New York City, to a wealthy family and attended the New York Military Academy, and has been involved in numerous controversies throughout his career, including his business practices and political statements, Johnny Depp and William Shakespeare and Bruno Mars the same?",
+        "question_d": [
+            "Is the nationality of Donald Trump the same as Johnny Depp, William Shakespeare, and Bruno Mars",
+            "Was Donald Trump born in Queens",
+            "Was Donald Trump born in New York City",
+            "Was Donald Trump born to a wealthy family",
+            "Did Donald Trump attend the New York Military Academy",
+            "Has Donald Trump been involved in numerous controversies throughout his career",
+            "Do the controversies involving Donald Trump include his business practices",
+            "Do the controversies involving Donald Trump include his political statements",
+            "Is the nationality of Johnny Depp the same as Donald Trump, William Shakespeare, and Bruno Mars",
+            "Is the nationality of William Shakespeare the same as Donald Trump, Johnny Depp, and Bruno Mars",
+            "Is the nationality of Bruno Mars the same as Donald Trump, Johnny Depp, and William Shakespeare"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Trump's nationality is American.",
+            "Depp's nationality is American.",
+            "Mars's nationality is American.",
+            "Shakespeare's nationality is English."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who was a naval aviator and test pilot before becoming the first person to walk on the moon during the Apollo 11 mission, and he faced controversies regarding the portrayal of his achievements and the challenges of being a public figure after such a monumental event, Martin Luther King Jr. and Neil deGrasse Tyson and Greta Thunberg different?",
+        "question_d": [
+            "Is the nationality of Neil Armstrong different from others",
+            "Was Neil Armstrong a naval aviator",
+            "Was Neil Armstrong a test pilot before becoming the first person to walk on the moon during the Apollo 11 mission",
+            "Did Neil Armstrong face controversies regarding the portrayal of his achievements",
+            "Did Neil Armstrong face challenges of being a public figure after such a monumental event",
+            "Is the nationality of Martin Luther King Jr. different from others",
+            "Is the nationality of Neil deGrasse Tyson different from others",
+            "Is the nationality of Greta Thunberg different from others"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "Luther King Jr.'s nationality is American.",
+            "Thunberg's nationality is Swedish.",
+            "deGrasse Tyson's nationality is American."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who was born to a middle-class family in Wapakoneta, Ohio, and had a passion for aviation from a young age, and who faced controversies regarding his public persona and the intense scrutiny of his achievements during the Apollo 11 mission, and Malala Yousafzai different?",
+        "question_d": [
+            "Is the nationality of Neil Armstrong different from Malala Yousafzai",
+            "Was Neil Armstrong born to a middle-class family in Wapakoneta",
+            "Was Neil Armstrong born in Ohio",
+            "Did Neil Armstrong have a passion for aviation from a young age",
+            "Did Neil Armstrong face controversies regarding his public persona",
+            "Did Neil Armstrong face the intense scrutiny of his achievements during the Apollo 11 mission",
+            "Is the nationality of Malala Yousafzai different from Neil Armstrong"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "Yousafzai's nationality is Pakistani."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Vladimir Putin, who was born in Leningrad (now Saint Petersburg) and grew up in a communal apartment, where he developed an interest in sports and martial arts, and later graduated from Leningrad State University with a law degree, Johnny Depp and Stephen Jobs?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Vladimir Putin",
+            "Was Vladimir Putin born in Leningrad (now Saint Petersburg)",
+            "Did Vladimir Putin grow up in a communal apartment",
+            "Did Vladimir Putin develop an interest in sports",
+            "Did Vladimir Putin develop an interest in martial arts",
+            "Did Vladimir Putin graduate from Leningrad State University with a law degree",
+            "What is the born date of Johnny Depp",
+            "What is the born date of Stephen Jobs"
+        ],
+        "gt_ans": "Stephen Jobs",
+        "gt_doc": [
+            "Jobs was born on February 24, 1955.",
+            "Putin was born on October 07, 1952.",
+            "Depp was born on June 9, 1963."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and attended Leningrad State University where he studied law and became involved in the KGB, and Will Smith?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Vladimir Putin",
+            "Was Vladimir Putin born into a working-class family in Leningrad",
+            "Is Leningrad now known as Saint Petersburg",
+            "Did Vladimir Putin attend Leningrad State University where he studied law",
+            "Did Vladimir Putin become involved in the KGB",
+            "What is the born date of Will Smith"
+        ],
+        "gt_ans": "Will Smith",
+        "gt_doc": [
+            "Putin was born on October 07, 1952.",
+            "Smith was born on September 25, 1968."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and is best known for being the first person to walk on the moon during the Apollo 11 mission, and faced controversies regarding his modest demeanor and the public's perception of his achievements, William Shakespeare and Shakira?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Neil Armstrong",
+            "Was Neil Armstrong a naval aviator",
+            "Was Neil Armstrong a test pilot",
+            "Was Neil Armstrong an aerospace engineer",
+            "Is Neil Armstrong best known for being the first person to walk on the moon during the Apollo 11 mission",
+            "Did Neil Armstrong face controversies regarding his modest demeanor",
+            "Did Neil Armstrong face controversies regarding the public's perception of his achievements",
+            "What is the born date of William Shakespeare",
+            "What is the born date of Shakira"
+        ],
+        "gt_ans": "Neil Armstrong",
+        "gt_doc": [
+            "was born on February 02, 1977.",
+            "Armstrong was born on August 5, 1930.",
+            "Shakespeare was born on April 23, 1564."
+        ]
+    },
+    {
+        "question": "Is nationality of Donald Trump, who attended the New York Military Academy and later transferred to Fordham University before finishing his degree at the Wharton School of the University of Pennsylvania, and is the fourth of five children born to Fred Trump, a real estate developer, and Mary Anne MacLeod Trump, Stephen Jobs and John Legend and Oprah Winfrey the same?",
+        "question_d": [
+            "Is the nationality of Donald Trump the same as others mentioned",
+            "Did Donald Trump attend the New York Military Academy",
+            "Did Donald Trump later transfer to Fordham University before finishing his degree at the Wharton School of the University of Pennsylvania",
+            "Is Donald Trump the fourth of five children born to Fred Trump",
+            "Was Fred Trump a real estate developer",
+            "Is Mary Anne MacLeod Trump the mother of Donald Trump",
+            "Is the nationality of Stephen Jobs the same as others mentioned",
+            "Is the nationality of John Legend the same as others mentioned",
+            "Is the nationality of Oprah Winfrey the same as others mentioned"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Trump's nationality is American.",
+            "Jobs's nationality is American.",
+            "Winfrey's nationality is American.",
+            "Legend's nationality is American."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Donald Trump, who is a businessman and television personality known for his role as the host of \"The Apprentice\" and for his real estate ventures, and he attended Fordham University before transferring to the Wharton School of the University of Pennsylvania where he earned a degree in economics, Johnny Depp and Malala Yousafzai?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Donald Trump",
+            "Is Donald Trump a businessman",
+            "Is Donald Trump a television personality known for his role as the host of \"The Apprentice\"",
+            "Is Donald Trump known for his real estate ventures",
+            "Did Donald Trump attend Fordham University before transferring to the Wharton School of the University of Pennsylvania where he earned a degree in economics",
+            "What is the born date of Johnny Depp",
+            "What is the born date of Malala Yousafzai"
+        ],
+        "gt_ans": "Malala Yousafzai",
+        "gt_doc": [
+            "Trump was born on June 14, 1946.",
+            "Depp was born on June 9, 1963.",
+            "Yousafzai was born on July 12, 1997."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Donald Trump, who attended Fordham University and later transferred to the Wharton School of the University of Pennsylvania, where he earned a degree in economics, and began his career in real estate by joining his father's company, eventually taking over and expanding it into a multi-billion dollar enterprise, Albert Einstein and David Bowie and Bob Marley?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Donald Trump",
+            "Did Donald Trump attend Fordham University",
+            "Did Donald Trump later transfer to the Wharton School of the University of Pennsylvania",
+            "Did Donald Trump earn a degree in economics at the Wharton School of the University of Pennsylvania",
+            "Did Donald Trump begin his career in real estate by joining his father's company",
+            "Did Donald Trump eventually take over his father's company",
+            "Did Donald Trump expand his father's company into a multi-billion dollar enterprise",
+            "What is the born date of Albert Einstein",
+            "What is the born date of David Bowie",
+            "What is the born date of Bob Marley"
+        ],
+        "gt_ans": "Albert Einstein",
+        "gt_doc": [
+            "Trump was born on June 14, 1946.",
+            "Marley was born on February 06, 1945.",
+            "Bowie was born on January 08, 1947.",
+            "Einstein was born on March 14, 1879."
+        ]
+    },
+    {
+        "question": "Is nationality of Johnny Depp, who had a tumultuous early life, moving frequently due to his father's job as a civil engineer and experiencing a challenging family dynamic, who later became a successful actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands, and and Albert Einstein the same?",
+        "question_d": [
+            "Is the nationality of Johnny Depp the same as Albert Einstein",
+            "Did Johnny Depp have a tumultuous early life",
+            "Did Johnny Depp move frequently due to his father's job as a civil engineer",
+            "Did Johnny Depp experience a challenging family dynamic",
+            "Did Johnny Depp later become a successful actor known for his versatile roles in films such as \"Pirates of the Caribbean\"",
+            "Is Johnny Depp known for his role in \"Edward Scissorhands\""
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Depp's nationality is American.",
+            "Einstein's nationality is German."
+        ]
+    },
+    {
+        "question": "Is nationality of Taylor Swift, who attended Hendersonville High School and was involved in various extracurricular activities, and comes from a family with a strong musical background, as her grandmother was a professional opera singer, Will Ferrell and Nelson Mandela and Vincent van Gogh the same?",
+        "question_d": [
+            "Is the nationality of Taylor Swift the same as others",
+            "Did Taylor Swift attend Hendersonville High School",
+            "Was Taylor Swift involved in various extracurricular activities",
+            "Does Taylor Swift come from a family with a strong musical background",
+            "Was Taylor Swift's grandmother a professional opera singer",
+            "Is the nationality of Will Ferrell the same as others",
+            "Is the nationality of Nelson Mandela the same as others",
+            "Is the nationality of Vincent van Gogh the same as others"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Swift's nationality is American.",
+            "Ferrell's nationality is American.",
+            "van Gogh's nationality is Dutch.",
+            "Mandela's nationality is South African."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Neil Armstrong, who was the eldest of three children in a family where his father was a state legislator and his mother was a homemaker, and he faced controversies during his career, including the intense scrutiny of his actions during the Apollo 11 mission and the subsequent public debate over the portrayal of his achievements, Chris Hemsworth and Kamala Harris?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Neil Armstrong",
+            "Was Neil Armstrong the eldest of three children in a family where his father was a state legislator",
+            "Was Neil Armstrong's mother a homemaker",
+            "Did Neil Armstrong face controversies during his career",
+            "Did Neil Armstrong face intense scrutiny of his actions during the Apollo 11 mission",
+            "Was there a subsequent public debate over the portrayal of Neil Armstrong's achievements",
+            "What is the born date of Chris Hemsworth",
+            "What is the born date of Kamala Harris"
+        ],
+        "gt_ans": "Neil Armstrong",
+        "gt_doc": [
+            "Armstrong was born on August 5, 1930.",
+            "Hemsworth was born on August 11, 1983.",
+            "Harris was born on October 20, 1964."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Neil Armstrong, who faced controversies during his career, including the criticism of his handling of the Apollo 11 mission and the public's perception of his modest demeanor, and he attended Purdue University on a Navy scholarship before transferring to the University of Southern California, Elon Musk and Lionel Messi?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Neil Armstrong",
+            "Did Neil Armstrong face controversies during his career",
+            "Was Neil Armstrong criticized for his handling of the Apollo 11 mission",
+            "What was the public's perception of Neil Armstrong's modest demeanor",
+            "Did Neil Armstrong attend Purdue University on a Navy scholarship before transferring to the University of Southern California",
+            "What is the born date of Elon Musk",
+            "What is the born date of Lionel Messi"
+        ],
+        "gt_ans": "Elon Musk",
+        "gt_doc": [
+            "Messi was born on June 24, 1987.",
+            "Armstrong was born on August 5, 1930.",
+            "Musk was born on June 28, 1971."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who attended Blume High School and later went to Purdue University on a naval scholarship, where he studied aeronautical engineering and developed a passion for flying at a young age, Bob Marley and Lionel Messi and Oprah Winfrey the same?",
+        "question_d": [
+            "Is the nationality of Neil Armstrong the same as the others",
+            "Did Neil Armstrong attend Blume High School",
+            "Did Neil Armstrong later go to Purdue University on a naval scholarship",
+            "Did Neil Armstrong study aeronautical engineering at Purdue University",
+            "Did Neil Armstrong develop a passion for flying at a young age",
+            "Is the nationality of Bob Marley the same as the others",
+            "Is the nationality of Lionel Messi the same as the others",
+            "Is the nationality of Oprah Winfrey the same as the others"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "Marley's nationality is Jamaican.",
+            "Winfrey's nationality is American.",
+            "Messi's nationality is Argentine."
+        ]
+    },
+    {
+        "question": "Is nationality of Vladimir Putin, who was born into a working-class family in Leningrad, now known as Saint Petersburg, and attended Leningrad State University where he studied law and graduated in 1975, Johnny Depp and David Bowie different?",
+        "question_d": [
+            "Is the nationality of Vladimir Putin different from others",
+            "Was Vladimir Putin born into a working-class family in Leningrad",
+            "Is Leningrad now known as Saint Petersburg",
+            "Did Vladimir Putin attend Leningrad State University where he studied law",
+            "Did Vladimir Putin graduate in 1975",
+            "Is the nationality of Johnny Depp different from others",
+            "Is the nationality of David Bowie different from others"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Putin's nationality is Russian.",
+            "Depp's nationality is American.",
+            "Bowie's nationality is English."
+        ]
+    },
+    {
+        "question": "Is nationality of Emma Watson, who was born in Paris to a French mother and a British father, and raised in England, where she attended Dragon School and later Brown University, and gained fame for her role as Hermione Granger in the Harry Potter film series, which launched her successful acting career, Will Smith and Vincent van Gogh different?",
+        "question_d": [
+            "Is the nationality of Emma Watson different from Will Smith and Vincent van Gogh",
+            "Was Emma Watson born in Paris to a French mother",
+            "Was Emma Watson born to a British father",
+            "Was Emma Watson raised in England",
+            "Did Emma Watson attend Dragon School in England",
+            "Did Emma Watson later attend Brown University",
+            "Did Emma Watson gain fame for her role as Hermione Granger in the Harry Potter film series",
+            "Did the Harry Potter film series launch Emma Watson's successful acting career",
+            "What is the nationality of Will Smith",
+            "Is the nationality of Vincent van Gogh different from Emma Watson and Will Smith"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Watson's nationality is English.",
+            "Smith's nationality is American.",
+            "van Gogh's nationality is Dutch."
+        ]
+    },
+    {
+        "question": "Is nationality of Vladimir Putin, who attended Leningrad State University where he studied law and later became involved in the KGB, Leonardo DiCaprio and Malala Yousafzai the same?",
+        "question_d": [
+            "Is the nationality of Vladimir Putin the same as the others mentioned",
+            "Did Vladimir Putin attend Leningrad State University where he studied law",
+            "Did Vladimir Putin later become involved in the KGB",
+            "Is the nationality of Leonardo DiCaprio the same as the others mentioned",
+            "Is the nationality of Malala Yousafzai the same as the others mentioned"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Putin's nationality is Russian.",
+            "DiCaprio's nationality is American.",
+            "Yousafzai's nationality is Pakistani."
+        ]
+    },
+    {
+        "question": "Is nationality of Donald Trump, who attended Fordham University and later transferred to the Wharton School of the University of Pennsylvania, where he earned a degree in economics, and has had a career as a businessman, television personality, and politician, including serving as the 45th President of the United States, Johnny Depp and Bruce Lee the same?",
+        "question_d": [
+            "Is the nationality of Donald Trump the same as others mentioned",
+            "Did Donald Trump attend Fordham University",
+            "Did Donald Trump later transfer to the Wharton School of the University of Pennsylvania",
+            "Did Donald Trump earn a degree in economics at the Wharton School of the University of Pennsylvania",
+            "Has Donald Trump had a career as a businessman",
+            "Has Donald Trump had a career as a television personality",
+            "Has Donald Trump had a career as a politician",
+            "Did Donald Trump serve as the 45th President of the United States",
+            "Is the nationality of Johnny Depp the same as others mentioned",
+            "Is the nationality of Bruce Lee the same as others mentioned"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Trump's nationality is American.",
+            "Depp's nationality is American.",
+            "Lee's nationality is American."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Taylor Swift, who gained significant media attention for her public feuds and controversies, including her highly publicized disputes with other celebrities and her advocacy for artists' rights, and who grew up in Reading, Pennsylvania, where she developed a passion for music at a young age, Bruce Lee and John Legend?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Taylor Swift",
+            "Did Taylor Swift gain significant media attention for her public feuds",
+            "Did Taylor Swift gain significant media attention for her controversies",
+            "Did Taylor Swift have highly publicized disputes with other celebrities",
+            "Is Taylor Swift known for her advocacy for artists' rights",
+            "Did Taylor Swift grow up in Reading",
+            "Did Taylor Swift grow up in Pennsylvania",
+            "Did Taylor Swift develop a passion for music at a young age in Reading, Pennsylvania",
+            "What is the born date of Bruce Lee",
+            "What is the born date of John Legend"
+        ],
+        "gt_ans": "John Legend",
+        "gt_doc": [
+            "Lee was born on November 27, 1940.",
+            "Legend was born on December 28, 1978.",
+            "Swift was born on December 13, 1989."
+        ]
+    },
+    {
+        "question": "Is nationality of Taylor Swift, who was born to Scott Kingsley Swift, a former stockbroker, and Andrea Gardner Swift, a homemaker, and attended Hendersonville High School in Tennessee where she began to pursue her music career, Donald Trump and John Legend different?",
+        "question_d": [
+            "Is the nationality of Taylor Swift different from others",
+            "Was Taylor Swift born to Scott Kingsley Swift",
+            "Was Scott Kingsley Swift a former stockbroker",
+            "Was Taylor Swift born to Andrea Gardner Swift",
+            "Was Andrea Gardner Swift a homemaker",
+            "Did Taylor Swift attend Hendersonville High School in Tennessee where she began to pursue her music career",
+            "Is the nationality of Donald Trump different from others",
+            "Is the nationality of John Legend different from others"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Swift's nationality is American.",
+            "Trump's nationality is American.",
+            "Legend's nationality is American."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Neil Armstrong, who faced controversies regarding the authenticity of the moon landing and was known for his reserved personality during his school years, Nelson Mandela and Lionel Messi?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Neil Armstrong",
+            "Did Neil Armstrong face controversies regarding the authenticity of the moon landing",
+            "Was Neil Armstrong known for his reserved personality during his school years",
+            "What is the born date of Nelson Mandela",
+            "What is the born date of Lionel Messi"
+        ],
+        "gt_ans": "Neil Armstrong",
+        "gt_doc": [
+            "Messi was born on June 24, 1987.",
+            "Armstrong was born on August 5, 1930.",
+            "Mandela was born on July 18, 1918."
+        ]
+    },
+    {
+        "question": "Is nationality of Taylor Swift, who is a highly successful singer-songwriter known for her narrative songwriting and has won numerous awards including multiple Grammy Awards, and has been involved in various controversies such as her public feuds with other artists and her political activism, Will Smith and Lady Gaga different?",
+        "question_d": [
+            "Is the nationality of Taylor Swift different from others",
+            "Is Taylor Swift a highly successful singer-songwriter known for her narrative songwriting",
+            "Has Taylor Swift won numerous awards including multiple Grammy Awards",
+            "Has Taylor Swift been involved in various controversies such as her public feuds with other artists",
+            "Has Taylor Swift been involved in political activism",
+            "Is the nationality of Will Smith different from others",
+            "Is the nationality of Lady Gaga different from others"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Swift's nationality is American.",
+            "Smith's nationality is American.",
+            "Gaga's nationality is American."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Neil Armstrong, who attended Purdue University on a Navy scholarship and earned a degree in aeronautical engineering, and later received a master's degree in aerospace engineering from the University of Southern California, and had a distinguished career as a naval aviator, test pilot, and astronaut, becoming the first person to walk on the moon during the Apollo 11 mission, Taylor Swift and Rihanna?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Neil Armstrong",
+            "Did Neil Armstrong attend Purdue University on a Navy scholarship",
+            "Did Neil Armstrong earn a degree in aeronautical engineering",
+            "Did Neil Armstrong receive a master's degree in aerospace engineering from the University of Southern California",
+            "Did Neil Armstrong have a distinguished career as a naval aviator",
+            "Was Neil Armstrong a test pilot",
+            "Was Neil Armstrong an astronaut",
+            "Did Neil Armstrong become the first person to walk on the moon during the Apollo 11 mission",
+            "What is the born date of Taylor Swift",
+            "What is the born date of Rihanna"
+        ],
+        "gt_ans": "Rihanna",
+        "gt_doc": [
+            "was born on February 20, 1988.",
+            "Armstrong was born on August 5, 1930.",
+            "Swift was born on December 13, 1989."
+        ]
+    },
+    {
+        "question": "Is nationality of Johnny Depp, who dropped out of high school at the age of 15 to pursue a career in music and was raised in a family that moved frequently due to his father's job as a civil engineer, and Bruno Mars the same?",
+        "question_d": [
+            "What is the nationality of Johnny Depp",
+            "Did Johnny Depp drop out of high school at the age of 15 to pursue a career in music",
+            "Was Johnny Depp raised in a family that moved frequently due to his father's job as a civil engineer",
+            "Is the nationality of Bruno Mars the same as Johnny Depp"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Depp's nationality is American.",
+            "Mars's nationality is American."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who attended Purdue University on a Navy scholarship and later earned a degree in aeronautical engineering, and was involved in controversies such as the criticism he faced for his perceived aloofness and the intense scrutiny of his actions during the Apollo 11 mission, and Donald Trump the same?",
+        "question_d": [
+            "Is the nationality of Neil Armstrong known",
+            "Did Neil Armstrong attend Purdue University on a Navy scholarship",
+            "Did Neil Armstrong later earn a degree in aeronautical engineering",
+            "Was Neil Armstrong involved in controversies such as the criticism he faced for his perceived aloofness",
+            "Was there intense scrutiny of Neil Armstrong's actions during the Apollo 11 mission",
+            "Is the nationality of Donald Trump the same as Neil Armstrong"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "Trump's nationality is American."
+        ]
+    },
+    {
+        "question": "Is nationality of Johnny Depp, who was born to a waitress mother and a civil engineer father, and grew up in a dysfunctional family that moved frequently, which influenced his early life and artistic expression, Will Ferrell and Stephen Jobs and Kylian Mbappe different?",
+        "question_d": [
+            "Is the nationality of Johnny Depp different",
+            "Was Johnny Depp born to a waitress mother",
+            "Was Johnny Depp born to a civil engineer father",
+            "Did Johnny Depp grow up in a dysfunctional family that moved frequently",
+            "Did growing up in a dysfunctional family influence Johnny Depp's early life",
+            "Did growing up in a dysfunctional family influence Johnny Depp's artistic expression",
+            "Is the nationality of Will Ferrell different",
+            "Is the nationality of Stephen Jobs different",
+            "Is the nationality of Kylian Mbappe different"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Depp's nationality is American.",
+            "Ferrell's nationality is American.",
+            "Mbappe's nationality is French.",
+            "Jobs's nationality is American."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Johnny Depp, who is an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\" and \"Edward Scissorhands,\" and has faced numerous controversies including highly publicized legal battles and allegations of domestic abuse, Priyanka Chopra Jonas and John Legend?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Johnny Depp",
+            "Is Johnny Depp an acclaimed actor known for his versatile roles in films such as \"Pirates of the Caribbean\"",
+            "Is Johnny Depp known for his role in \"Edward Scissorhands\"",
+            "Has Johnny Depp faced numerous controversies including highly publicized legal battles",
+            "Has Johnny Depp faced allegations of domestic abuse",
+            "What is the born date of Priyanka Chopra Jonas",
+            "What is the born date of John Legend"
+        ],
+        "gt_ans": "Johnny Depp",
+        "gt_doc": [
+            "Chopra Jonas was born on July 18, 1982.",
+            "Legend was born on December 28, 1978.",
+            "Depp was born on June 9, 1963."
+        ]
+    },
+    {
+        "question": "Is nationality of Vladimir Putin, who has been a controversial figure in global politics due to his leadership style, allegations of election interference, and the annexation of Crimea, and who comes from a family with a history of service in the Soviet military, Vincent van Gogh and Stephen Jobs and Elon Musk the same?",
+        "question_d": [
+            "Is the nationality of Vladimir Putin the same as Vincent van Gogh, Stephen Jobs, and Elon Musk",
+            "Has Vladimir Putin been a controversial figure in global politics due to his leadership style",
+            "Has Vladimir Putin been a controversial figure in global politics due to allegations of election interference",
+            "Has Vladimir Putin been a controversial figure in global politics due to the annexation of Crimea",
+            "Does Vladimir Putin come from a family with a history of service in the Soviet military",
+            "What is the nationality of Vincent van Gogh",
+            "What is the nationality of Stephen Jobs",
+            "What is the nationality of Elon Musk"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Putin's nationality is Russian.",
+            "van Gogh's nationality is Dutch.",
+            "Musk's nationality is American.",
+            "Jobs's nationality is American."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Taylor Swift, who has faced various controversies throughout her career, including public feuds with other artists and criticism over her political statements, and she attended Hendersonville High School before transferring to the Aaron Academy to accommodate her touring schedule, William Shakespeare and Lady Gaga and Albert Einstein?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Taylor Swift",
+            "Has Taylor Swift faced various controversies throughout her career",
+            "Has Taylor Swift been involved in public feuds with other artists",
+            "Has Taylor Swift faced criticism over her political statements",
+            "Did Taylor Swift attend Hendersonville High School before transferring to the Aaron Academy to accommodate her touring schedule",
+            "What is the born date of William Shakespeare",
+            "What is the born date of Lady Gaga",
+            "What is the born date of Albert Einstein"
+        ],
+        "gt_ans": "Taylor Swift",
+        "gt_doc": [
+            "Gaga was born on March 28, 1986.",
+            "Shakespeare was born on April 23, 1564.",
+            "Swift was born on December 13, 1989.",
+            "Einstein was born on March 14, 1879."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to Wyomissing Area Junior/Senior High School, where she began pursuing a career in music at a young age, Vladimir Putin and John Legend?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Taylor Swift",
+            "Did Taylor Swift attend Hendersonville High School",
+            "Did Taylor Swift later transfer to Wyomissing Area Junior/Senior High School",
+            "Did Taylor Swift begin pursuing a career in music at a young age at Wyomissing Area Junior/Senior High School",
+            "What is the born date of Vladimir Putin",
+            "What is the born date of John Legend"
+        ],
+        "gt_ans": "Taylor Swift",
+        "gt_doc": [
+            "Putin was born on October 07, 1952.",
+            "Legend was born on December 28, 1978.",
+            "Swift was born on December 13, 1989."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who was born in Wapakoneta, Ohio, and grew up in a family that valued education and hard work, with his father being a state auditor and his mother a homemaker, Vladimir Putin and Bob Marley different?",
+        "question_d": [
+            "Is the nationality of Neil Armstrong different from Vladimir Putin and Bob Marley",
+            "Was Neil Armstrong born in Wapakoneta",
+            "Was Neil Armstrong born in Ohio",
+            "Did Neil Armstrong grow up in a family that valued education",
+            "Did Neil Armstrong grow up in a family that valued hard work",
+            "Was Neil Armstrong's father a state auditor",
+            "Was Neil Armstrong's mother a homemaker",
+            "What is the nationality of Vladimir Putin",
+            "What is the nationality of Bob Marley"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "Putin's nationality is Russian.",
+            "Marley's nationality is Jamaican."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Taylor Swift, who is a highly successful singer-songwriter known for her narrative songwriting and has won numerous awards including multiple Grammy Awards, and she comes from a close-knit family with her parents supporting her early interest in music, Maya Angelou and Lionel Messi?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Taylor Swift",
+            "Is Taylor Swift a highly successful singer-songwriter known for her narrative songwriting",
+            "Has Taylor Swift won numerous awards including multiple Grammy Awards",
+            "Does Taylor Swift come from a close-knit family with her parents supporting her early interest in music",
+            "What is the born date of Maya Angelou",
+            "What is the born date of Lionel Messi"
+        ],
+        "gt_ans": "Maya Angelou",
+        "gt_doc": [
+            "Messi was born on June 24, 1987.",
+            "Swift was born on December 13, 1989.",
+            "Angelou was born on April 04, 1928."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Donald Trump, who was born in Queens, New York City, to a wealthy family with his father being a successful real estate developer and his mother being a Scottish immigrant, and Will Ferrell?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Donald Trump",
+            "Was Donald Trump born in Queens",
+            "Was Donald Trump born in New York City",
+            "Was Donald Trump born to a wealthy family with his father being a successful real estate developer",
+            "Was Donald Trump's mother a Scottish immigrant",
+            "What is the born date of Will Ferrell"
+        ],
+        "gt_ans": "Will Ferrell",
+        "gt_doc": [
+            "Trump was born on June 14, 1946.",
+            "Ferrell was born on July 16, 1967."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who attended Blume High School and later went to Purdue University on a naval scholarship, where he studied aeronautical engineering, and Nelson Mandela different?",
+        "question_d": [
+            "What is the nationality of Neil Armstrong",
+            "Did Neil Armstrong attend Blume High School",
+            "Did Neil Armstrong go to Purdue University on a naval scholarship",
+            "Did Neil Armstrong study aeronautical engineering at Purdue University",
+            "Is the nationality of Nelson Mandela different from Neil Armstrong"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "Mandela's nationality is South African."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Neil Armstrong, who was the son of Stephen Koenig Armstrong and Viola Louise Engel, and faced controversies regarding the authenticity of his moon landing experience and the subsequent public scrutiny of his life, Natalie Portman and Rihanna and David Bowie?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Neil Armstrong",
+            "Was Neil Armstrong the son of Stephen Koenig Armstrong",
+            "Was Neil Armstrong the son of Viola Louise Engel",
+            "Did Neil Armstrong face controversies regarding the authenticity of his moon landing experience",
+            "Did Neil Armstrong face the subsequent public scrutiny of his life",
+            "What is the born date of Natalie Portman",
+            "What is the born date of Rihanna",
+            "What is the born date of David Bowie"
+        ],
+        "gt_ans": "Neil Armstrong",
+        "gt_doc": [
+            "Portman was born on June 09, 1981.",
+            "Bowie was born on January 08, 1947.",
+            "Armstrong was born on August 5, 1930.",
+            "was born on February 20, 1988."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Taylor Swift, who grew up on a Christmas tree farm in Pennsylvania and began performing in local talent shows at a young age, and her family supported her passion for music, moving to Nashville when she was 14 to pursue a career in country music, Emma Watson and Maya Angelou?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Taylor Swift",
+            "Did Taylor Swift grow up on a Christmas tree farm in Pennsylvania",
+            "Did Taylor Swift begin performing in local talent shows at a young age",
+            "Did her family support Taylor Swift's passion for music",
+            "Did Taylor Swift's family move to Nashville when she was 14 to pursue a career in country music",
+            "What is the born date of Emma Watson",
+            "What is the born date of Maya Angelou"
+        ],
+        "gt_ans": "Taylor Swift",
+        "gt_doc": [
+            "Watson was born on April 15, 1990.",
+            "Swift was born on December 13, 1989.",
+            "Angelou was born on April 04, 1928."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Vladimir Putin, who served as a KGB officer before entering politics, and later became the President of Russia, and Martin Luther King Jr.?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Vladimir Putin",
+            "Did Vladimir Putin serve as a KGB officer before entering politics",
+            "Did Vladimir Putin later become the President of Russia",
+            "What is the born date of Martin Luther King Jr."
+        ],
+        "gt_ans": "Vladimir Putin",
+        "gt_doc": [
+            "Luther King Jr. was born onJanuary 15, 1929.",
+            "Putin was born on October 07, 1952."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Taylor Swift, who has been involved in various controversies including public feuds with other celebrities and criticism over her political statements, and has had a successful career as a singer-songwriter with numerous awards and record-breaking albums, Nelson Mandela and Lionel Messi?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Taylor Swift",
+            "Has Taylor Swift been involved in various controversies including public feuds with other celebrities",
+            "Has Taylor Swift faced criticism over her political statements",
+            "Has Taylor Swift had a successful career as a singer-songwriter with numerous awards",
+            "Has Taylor Swift released record-breaking albums",
+            "What is the born date of Nelson Mandela",
+            "What is the born date of Lionel Messi"
+        ],
+        "gt_ans": "Nelson Mandela",
+        "gt_doc": [
+            "Messi was born on June 24, 1987.",
+            "Mandela was born on July 18, 1918.",
+            "Swift was born on December 13, 1989."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Vladimir Putin, who served as the President of Russia multiple times and was previously the Prime Minister, and has been involved in various controversies including allegations of election interference and human rights abuses, Marie Curie and Priyanka Chopra Jonas?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Vladimir Putin",
+            "Did Vladimir Putin serve as the President of Russia multiple times",
+            "Was Vladimir Putin previously the Prime Minister",
+            "Has Vladimir Putin been involved in various controversies including allegations of election interference",
+            "Has Vladimir Putin been involved in human rights abuses",
+            "What is the born date of Marie Curie",
+            "What is the born date of Priyanka Chopra Jonas"
+        ],
+        "gt_ans": "Marie Curie",
+        "gt_doc": [
+            "Chopra Jonas was born on July 18, 1982.",
+            "Curie was born on November 07, 1867.",
+            "Putin was born on October 07, 1952."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Neil Armstrong, who attended Purdue University on a Navy scholarship and later earned a degree in aeronautical engineering, and was involved in controversies such as the criticism he faced for his perceived aloofness and the intense scrutiny of his actions during the Apollo 11 mission, and Donald Trump?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Neil Armstrong",
+            "Did Neil Armstrong attend Purdue University on a Navy scholarship",
+            "Did Neil Armstrong later earn a degree in aeronautical engineering",
+            "Was Neil Armstrong involved in controversies such as the criticism he faced for his perceived aloofness",
+            "Was Neil Armstrong under intense scrutiny for his actions during the Apollo 11 mission",
+            "What is the born date of Donald Trump"
+        ],
+        "gt_ans": "Donald Trump",
+        "gt_doc": [
+            "Trump was born on June 14, 1946.",
+            "Armstrong was born on August 5, 1930."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Neil Armstrong, who was a naval aviator, test pilot, and aerospace engineer, and became the first person to walk on the moon during the Apollo 11 mission, and he was born to a father who worked in the state government and a mother who was a homemaker, Emma Watson and Maya Angelou?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Neil Armstrong",
+            "Was Neil Armstrong a naval aviator",
+            "Was Neil Armstrong a test pilot",
+            "Was Neil Armstrong an aerospace engineer",
+            "Did Neil Armstrong become the first person to walk on the moon during the Apollo 11 mission",
+            "Was Neil Armstrong born to a father who worked in the state government",
+            "Was Neil Armstrong born to a mother who was a homemaker",
+            "What is the born date of Emma Watson",
+            "What is the born date of Maya Angelou"
+        ],
+        "gt_ans": "Emma Watson",
+        "gt_doc": [
+            "Armstrong was born on August 5, 1930.",
+            "Watson was born on April 15, 1990.",
+            "Angelou was born on April 04, 1928."
+        ]
+    },
+    {
+        "question": "Is nationality of Donald Trump, who is a businessman and television personality known for his role as the host of \"The Apprentice\" and for his real estate ventures, and he attended Fordham University before transferring to the Wharton School of the University of Pennsylvania where he earned a degree in economics, Johnny Depp and Malala Yousafzai different?",
+        "question_d": [
+            "Is the nationality of Donald Trump different from others",
+            "Is Donald Trump a businessman",
+            "Is Donald Trump a television personality known for his role as the host of \"The Apprentice\"",
+            "Is Donald Trump known for his real estate ventures",
+            "Did Donald Trump attend Fordham University before transferring to the Wharton School of the University of Pennsylvania where he earned a degree in economics",
+            "Is the nationality of Johnny Depp different from others",
+            "Is the nationality of Malala Yousafzai different from others"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Trump's nationality is American.",
+            "Depp's nationality is American.",
+            "Yousafzai's nationality is Pakistani."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Vladimir Putin, who served as a KGB officer before entering politics, later becoming the Prime Minister and then the President of Russia, and graduated from Leningrad State University with a law degree, Kamala Harris and John Legend and Natalie Portman?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Vladimir Putin",
+            "Did Vladimir Putin serve as a KGB officer before entering politics",
+            "Did Vladimir Putin later become the Prime Minister",
+            "Did Vladimir Putin then become the President of Russia",
+            "Did Vladimir Putin graduate from Leningrad State University with a law degree",
+            "What is the born date of Kamala Harris",
+            "What is the born date of John Legend",
+            "What is the born date of Natalie Portman"
+        ],
+        "gt_ans": "Vladimir Putin",
+        "gt_doc": [
+            "Portman was born on June 09, 1981.",
+            "Legend was born on December 28, 1978.",
+            "Putin was born on October 07, 1952.",
+            "Harris was born on October 20, 1964."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Taylor Swift, who grew up in Wyomissing, Pennsylvania, where she developed a passion for music at a young age and began performing in local talent shows, Marie Curie and Lady Gaga and Albert Einstein?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Taylor Swift",
+            "Did Taylor Swift grow up in Wyomissing",
+            "Did Taylor Swift grow up in Pennsylvania",
+            "Did Taylor Swift develop a passion for music at a young age",
+            "Did Taylor Swift begin performing in local talent shows",
+            "What is the born date of Marie Curie",
+            "What is the born date of Lady Gaga",
+            "What is the born date of Albert Einstein"
+        ],
+        "gt_ans": "Taylor Swift",
+        "gt_doc": [
+            "Curie was born on November 07, 1867.",
+            "Gaga was born on March 28, 1986.",
+            "Swift was born on December 13, 1989.",
+            "Einstein was born on March 14, 1879."
+        ]
+    },
+    {
+        "question": "Who's born date is the second earliest, among Johnny Depp, who dropped out of high school at the age of 15 to pursue a career in music and later became a successful actor, and has been involved in various controversies including highly publicized legal battles and allegations of domestic violence, Emma Watson and Shakira?",
+        "question_d": [
+            "Who's born date is the second earliest",
+            "What is the born date of Johnny Depp",
+            "Did Johnny Depp drop out of high school at the age of 15 to pursue a career in music",
+            "Did Johnny Depp later become a successful actor",
+            "Has Johnny Depp been involved in various controversies including highly publicized legal battles",
+            "Has Johnny Depp faced allegations of domestic violence",
+            "What is the born date of Emma Watson",
+            "What is the born date of Shakira"
+        ],
+        "gt_ans": "Shakira",
+        "gt_doc": [
+            "was born on February 02, 1977.",
+            "Watson was born on April 15, 1990.",
+            "Depp was born on June 9, 1963."
+        ]
+    },
+    {
+        "question": "Is nationality of Vladimir Putin, who attended Leningrad State University where he studied law and graduated in 1975, and he was born into a working-class family in Leningrad, Thomas Edison and Nelson Mandela and Vincent van Gogh the same?",
+        "question_d": [
+            "Is the nationality of Vladimir Putin the same as the others",
+            "Did Vladimir Putin attend Leningrad State University where he studied law",
+            "Did Vladimir Putin graduate in 1975",
+            "Was Vladimir Putin born into a working-class family in Leningrad",
+            "Is the nationality of Thomas Edison the same as the others",
+            "Is the nationality of Nelson Mandela the same as the others",
+            "Is the nationality of Vincent van Gogh the same as the others"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Putin's nationality is Russian.",
+            "Edison's nationality is American.",
+            "van Gogh's nationality is Dutch.",
+            "Mandela's nationality is South African."
+        ]
+    },
+    {
+        "question": "Is nationality of Emma Watson, who attended Brown University, where she graduated with a degree in English literature, and was previously educated at Dragon School and Headington School, Leonardo DiCaprio and Bruce Lee different?",
+        "question_d": [
+            "Is the nationality of Emma Watson different from Leonardo DiCaprio and Bruce Lee",
+            "Did Emma Watson attend Brown University",
+            "Did Emma Watson graduate from Brown University with a degree in English literature",
+            "Was Emma Watson previously educated at Dragon School",
+            "Was Emma Watson previously educated at Headington School",
+            "What is the nationality of Leonardo DiCaprio",
+            "What is the nationality of Bruce Lee"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Watson's nationality is English.",
+            "DiCaprio's nationality is American.",
+            "Lee's nationality is American."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who was born in Wapakoneta, Ohio, and grew up in a family that valued education and hard work, with his father being a state auditor and his mother a homemaker, Mark Zuckerberg and Neil deGrasse Tyson different?",
+        "question_d": [
+            "Is the nationality of Neil Armstrong different from Mark Zuckerberg and Neil deGrasse Tyson",
+            "Was Neil Armstrong born in Wapakoneta",
+            "Was Neil Armstrong born in Ohio",
+            "Did Neil Armstrong grow up in a family that valued education",
+            "Did Neil Armstrong grow up in a family that valued hard work",
+            "Was Neil Armstrong's father a state auditor",
+            "Was Neil Armstrong's mother a homemaker",
+            "What is the nationality of Mark Zuckerberg",
+            "What is the nationality of Neil deGrasse Tyson"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "Zuckerberg's nationality is American.",
+            "deGrasse Tyson's nationality is American."
+        ]
+    },
+    {
+        "question": "Who's born date is the first earliest, among Vladimir Putin, who has been a controversial figure in global politics due to his leadership style, allegations of election interference, and the annexation of Crimea, and who comes from a family with a history of service in the Soviet military, Vincent van Gogh and Stephen Jobs and Elon Musk?",
+        "question_d": [
+            "Who's born date is the first earliest",
+            "What is the born date of Vladimir Putin",
+            "Has Vladimir Putin been a controversial figure in global politics due to his leadership style",
+            "Has Vladimir Putin been involved in allegations of election interference",
+            "Has Vladimir Putin been involved in the annexation of Crimea",
+            "Does Vladimir Putin come from a family with a history of service in the Soviet military",
+            "What is the born date of Vincent van Gogh",
+            "What is the born date of Stephen Jobs",
+            "What is the born date of Elon Musk"
+        ],
+        "gt_ans": "Vincent van Gogh",
+        "gt_doc": [
+            "Jobs was born on February 24, 1955.",
+            "Musk was born on June 28, 1971.",
+            "van Gogh was born on March 30, 1853.",
+            "Putin was born on October 07, 1952."
+        ]
+    },
+    {
+        "question": "Is nationality of Johnny Depp, who had a tumultuous early life marked by frequent relocations and a troubled family background, and has been involved in numerous controversies, including highly publicized legal battles and allegations of domestic violence, Chris Hemsworth and Oprah Winfrey different?",
+        "question_d": [
+            "Is the nationality of Johnny Depp different from others",
+            "Did Johnny Depp have a tumultuous early life marked by frequent relocations",
+            "Did Johnny Depp have a troubled family background",
+            "Has Johnny Depp been involved in numerous controversies",
+            "Has Johnny Depp been involved in highly publicized legal battles",
+            "Has Johnny Depp faced allegations of domestic violence",
+            "Is the nationality of Chris Hemsworth different from others",
+            "Is the nationality of Oprah Winfrey different from others"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Depp's nationality is American.",
+            "Hemsworth's nationality is Australian.",
+            "Winfrey's nationality is American."
+        ]
+    },
+    {
+        "question": "Who's born date is the last earliest, among Taylor Swift, who attended Hendersonville High School and later transferred to the Aaron Academy, where she completed her education through homeschooling, and has faced controversies including public feuds with other celebrities and criticism over her political statements, Bruno Mars and Bruce Lee?",
+        "question_d": [
+            "Who's born date is the last earliest",
+            "What is the born date of Taylor Swift",
+            "Did Taylor Swift attend Hendersonville High School",
+            "Did Taylor Swift later transfer to the Aaron Academy",
+            "Did Taylor Swift complete her education through homeschooling",
+            "Has Taylor Swift faced controversies including public feuds with other celebrities",
+            "Has Taylor Swift faced criticism over her political statements",
+            "What is the born date of Bruno Mars",
+            "What is the born date of Bruce Lee"
+        ],
+        "gt_ans": "Taylor Swift",
+        "gt_doc": [
+            "Lee was born on November 27, 1940.",
+            "Mars was born on October 8, 1985.",
+            "Swift was born on December 13, 1989."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who attended Blume High School and later went to Purdue University on a naval scholarship, Johnny Depp and Bob Marley different?",
+        "question_d": [
+            "Is the nationality of Neil Armstrong different from the others",
+            "Did Neil Armstrong attend Blume High School",
+            "Did Neil Armstrong later go to Purdue University on a naval scholarship",
+            "Is the nationality of Johnny Depp different from the others",
+            "Is the nationality of Bob Marley different from the others"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "Depp's nationality is American.",
+            "Marley's nationality is Jamaican."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who was born to a middle-class family in Wapakoneta, Ohio, and his father was a state legislator and a local businessman, and he had a distinguished career as a naval aviator, test pilot, and astronaut, famously becoming the first person to walk on the moon during the Apollo 11 mission, Kamala Harris and Priyanka Chopra Jonas and Natalie Portman the same?",
+        "question_d": [
+            "Is the nationality of Neil Armstrong the same as others mentioned",
+            "Was Neil Armstrong born to a middle-class family in Wapakoneta",
+            "Was Neil Armstrong born in Ohio",
+            "Was Neil Armstrong's father a state legislator",
+            "Was Neil Armstrong's father a local businessman",
+            "Did Neil Armstrong have a distinguished career as a naval aviator",
+            "Did Neil Armstrong have a distinguished career as a test pilot",
+            "Did Neil Armstrong have a distinguished career as an astronaut",
+            "Did Neil Armstrong famously become the first person to walk on the moon during the Apollo 11 mission",
+            "Is the nationality of Kamala Harris the same as others mentioned",
+            "Is the nationality of Priyanka Chopra Jonas the same as others mentioned",
+            "Is the nationality of Natalie Portman the same as others mentioned"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "Harris's nationality is American.",
+            "Portman's nationality is American.",
+            "Chopra Jonas's nationality is Indian."
+        ]
+    },
+    {
+        "question": "Is nationality of Vladimir Putin, who was born in Leningrad (now Saint Petersburg) and grew up in a communal apartment, where he developed an interest in sports and martial arts, and later pursued a career in law and intelligence, eventually becoming a prominent political figure in Russia, Natalie Portman and Rihanna and Maya Angelou different?",
+        "question_d": [
+            "Is the nationality of Vladimir Putin different from others",
+            "Was Vladimir Putin born in Leningrad (now Saint Petersburg)",
+            "Did Vladimir Putin grow up in a communal apartment",
+            "Did Vladimir Putin develop an interest in sports",
+            "Did Vladimir Putin develop an interest in martial arts",
+            "Did Vladimir Putin later pursue a career in law",
+            "Did Vladimir Putin pursue a career in intelligence",
+            "Did Vladimir Putin eventually become a prominent political figure in Russia",
+            "Is the nationality of Natalie Portman different from others",
+            "Is the nationality of Rihanna different from others",
+            "Is the nationality of Maya Angelou different from others"
+        ],
+        "gt_ans": "yes",
+        "gt_doc": [
+            "Putin's nationality is Russian.",
+            "Portman's nationality is American.",
+            "Angelou's nationality is American.",
+            "nationality is Barbadian."
+        ]
+    },
+    {
+        "question": "Is nationality of Neil Armstrong, who was a naval aviator and test pilot before becoming an astronaut, and he made history as the first person to walk on the moon during the Apollo 11 mission, Leonardo da Vinci and Neil deGrasse Tyson the same?",
+        "question_d": [
+            "Is the nationality of Neil Armstrong the same as Leonardo da Vinci and Neil deGrasse Tyson",
+            "Was Neil Armstrong a naval aviator",
+            "Was Neil Armstrong a test pilot before becoming an astronaut",
+            "Did Neil Armstrong make history as the first person to walk on the moon during the Apollo 11 mission",
+            "Is the nationality of Leonardo da Vinci the same as Neil Armstrong and Neil deGrasse Tyson",
+            "Is the nationality of Neil deGrasse Tyson the same as Neil Armstrong and Leonardo da Vinci"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Armstrong's nationality is American.",
+            "da Vinci's nationality is Italian.",
+            "deGrasse Tyson's nationality is American."
+        ]
+    },
+    {
+        "question": "Is nationality of Johnny Depp, who was born to a civil engineer father and a waitress mother, and had a tumultuous childhood that included frequent relocations, and dropped out of high school at the age of 16 to pursue a career in music, William Shakespeare and Lionel Messi the same?",
+        "question_d": [
+            "Is the nationality of Johnny Depp the same as William Shakespeare and Lionel Messi",
+            "Was Johnny Depp born to a civil engineer father",
+            "Was Johnny Depp born to a waitress mother",
+            "Did Johnny Depp have a tumultuous childhood that included frequent relocations",
+            "Did Johnny Depp drop out of high school at the age of 16 to pursue a career in music",
+            "What is the nationality of William Shakespeare",
+            "What is the nationality of Lionel Messi"
+        ],
+        "gt_ans": "no",
+        "gt_doc": [
+            "Depp's nationality is American.",
+            "Shakespeare's nationality is English.",
+            "Messi's nationality is Argentine."
+        ]
+    }
+]
